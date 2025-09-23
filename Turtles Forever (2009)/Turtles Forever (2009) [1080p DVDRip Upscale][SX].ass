@@ -1,0 +1,1240 @@
+﻿[Script Info]
+; http://www.aegisub.org/
+ScaledBorderAndShadow: no
+ScriptType: v4.00+
+Title: Default ASS file
+WrapStyle: 2
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Defualt,思源黑体 Medium,80,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.39,0:00:26.79,Defualt,,0,0,0,,老大 我们进来了\N{\fnArial\fs40\bord2}Boss, we're in.
+Dialogue: 0,0:00:27.36,0:00:28.48,Defualt,,0,0,0,,很好\N{\fnArial\fs40\bord2}Excellent.
+Dialogue: 0,0:00:28.48,0:00:30.09,Defualt,,0,0,0,,货呢\N{\fnArial\fs40\bord2}And the goods?
+Dialogue: 0,0:00:30.38,0:00:32.16,Defualt,,0,0,0,,成吨的高科技战利品\N{\fnArial\fs40\bord2}Tons of high-tech loot
+Dialogue: 0,0:00:32.16,0:00:34.07,Defualt,,0,0,0,,如你所料 老大\N{\fnArial\fs40\bord2}just like you said, boss.
+Dialogue: 0,0:00:34.07,0:00:36.16,Defualt,,0,0,0,,正如你所料\N{\fnArial\fs40\bord2}Just like you said.
+Dialogue: 0,0:00:41.64,0:00:42.39,Defualt,,0,0,0,,当心\N{\fnArial\fs40\bord2}Look out!
+Dialogue: 0,0:00:49.22,0:00:55.52,Defualt,,0,0,0,,永远的忍者神龟
+Dialogue: 0,0:01:04.29,0:01:06.52,Defualt,,0,0,0,,恐怕这是真的 金凯\N{\fnArial\fs40\bord2}I'm afraid it's true, Kincaid.
+Dialogue: 0,0:01:06.52,0:01:08.68,Defualt,,0,0,0,,我不是你的继弟\N{\fnArial\fs40\bord2}I'm not your stepbrother;
+Dialogue: 0,0:01:08.68,0:01:10.54,Defualt,,0,0,0,,我是你同父异母的妹妹\N{\fnArial\fs40\bord2}I'm your half-sister.
+Dialogue: 0,0:01:12.64,0:01:14.10,Defualt,,0,0,0,,我们中断当前节目\N{\fnArial\fs40\bord2}We interrupt this program
+Dialogue: 0,0:01:14.10,0:01:16.40,Defualt,,0,0,0,,插播一条第六频道独家新闻\N{\fnArial\fs40\bord2}for a Channel 6 news exclusive.
+Dialogue: 0,0:01:16.40,0:01:18.56,Defualt,,0,0,0,,今晚早些时候发生了一起大胆的抢劫案\N{\fnArial\fs40\bord2}There was a daring robbery earlier tonight
+Dialogue: 0,0:01:18.56,0:01:20.90,Defualt,,0,0,0,,在市中心的一家高科技实验室\N{\fnArial\fs40\bord2}at a high-tech midtown laboratory.
+Dialogue: 0,0:01:20.90,0:01:22.44,Defualt,,0,0,0,,附近的一个监控摄像头\N{\fnArial\fs40\bord2}A nearby surveillance camera
+Dialogue: 0,0:01:22.44,0:01:25.70,Defualt,,0,0,0,,捕捉到了四个奇怪绿色生物的图像\N{\fnArial\fs40\bord2}captured this image of four bizarre green creatures.
+Dialogue: 0,0:01:26.50,0:01:28.53,Defualt,,0,0,0,,李奥纳多\N{\fnArial\fs40\bord2}Leonardo!
+Dialogue: 0,0:01:29.88,0:01:31.98,Defualt,,0,0,0,,米开朗基罗\N{\fnArial\fs40\bord2}Michelangelo!
+Dialogue: 0,0:01:32.18,0:01:34.09,Defualt,,0,0,0,,多纳泰罗\N{\fnArial\fs40\bord2}Donatello!
+Dialogue: 0,0:01:34.44,0:01:36.62,Defualt,,0,0,0,,拉斐尔\N{\fnArial\fs40\bord2}Raphael!
+Dialogue: 0,0:01:38.28,0:01:39.99,Defualt,,0,0,0,,什么事?\N{\fnArial\fs40\bord2}You rang?
+Dialogue: 0,0:01:39.99,0:01:43.04,Defualt,,0,0,0,,你们今晚好像失误了 孩子们\N{\fnArial\fs40\bord2}I fear you have been careless tonight, my sons.
+Dialogue: 0,0:01:43.04,0:01:46.20,Defualt,,0,0,0,,我们存在的秘密暴露了\N{\fnArial\fs40\bord2}The secret of our existence has been compromised.
+Dialogue: 0,0:01:46.20,0:01:47.80,Defualt,,0,0,0,,什么 今晚?\N{\fnArial\fs40\bord2}What, tonight?
+Dialogue: 0,0:01:47.80,0:01:49.04,Defualt,,0,0,0,,我一直没出去\N{\fnArial\fs40\bord2}I haven't been out.
+Dialogue: 0,0:01:49.04,0:01:49.94,Defualt,,0,0,0,,麦琪\N{\fnArial\fs40\bord2}Mikey?
+Dialogue: 0,0:01:49.94,0:01:51.32,Defualt,,0,0,0,,我没有\N{\fnArial\fs40\bord2}Negatory.
+Dialogue: 0,0:01:51.32,0:01:52.78,Defualt,,0,0,0,,斯普林特师父\N{\fnArial\fs40\bord2}Master Splinter.
+Dialogue: 0,0:01:52.78,0:01:55.18,Defualt,,0,0,0,,我们整晚都和你待在一起\N{\fnArial\fs40\bord2}We've been cooped up in here with you all night.
+Dialogue: 0,0:01:55.18,0:01:58.75,Defualt,,0,0,0,,那你们怎么解释...这个\N{\fnArial\fs40\bord2}Then how in the world do you explain... this?
+Dialogue: 0,0:01:58.75,0:02:01.18,Defualt,,0,0,0,,四只生物的图像有点模糊\N{\fnArial\fs40\bord2}The image of the four creatures is a bit grainy
+Dialogue: 0,0:02:01.18,0:02:02.90,Defualt,,0,0,0,,即便如此 还是能看出来\N{\fnArial\fs40\bord2}but even so, you can make out
+Dialogue: 0,0:02:02.90,0:02:06.31,Defualt,,0,0,0,,好像是四只大乌龟的样子\N{\fnArial\fs40\bord2}what appear to be four large Turtles.
+Dialogue: 0,0:02:06.31,0:02:08.29,Defualt,,0,0,0,,啊?\N{\fnArial\fs40\bord2}Wha...?
+Dialogue: 0,0:02:08.57,0:02:09.58,Defualt,,0,0,0,,这...\N{\fnArial\fs40\bord2}It's...
+Dialogue: 0,0:02:09.58,0:02:12.46,Defualt,,0,0,0,,这肯定是个恶作剧 对吧\N{\fnArial\fs40\bord2}it's got to be some kind of gag, right?
+Dialogue: 0,0:02:12.46,0:02:14.67,Defualt,,0,0,0,,你看我在笑吗 拉斐尔\N{\fnArial\fs40\bord2}I am not laughing, Raphael.
+Dialogue: 0,0:02:14.67,0:02:17.78,Defualt,,0,0,0,,来看看其他新闻 曼哈顿持续发现\N{\fnArial\fs40\bord2}In other news unusual underground seismic activity
+Dialogue: 0,0:02:17.78,0:02:20.04,Defualt,,0,0,0,,不同寻常的地震活动\N{\fnArial\fs40\bord2}continues to be reported throughout Manhattan.
+Dialogue: 0,0:02:20.04,0:02:20.74,Defualt,,0,0,0,,这里\N{\fnArial\fs40\bord2}Here.
+Dialogue: 0,0:02:20.74,0:02:22.32,Defualt,,0,0,0,,我找到那张照片了\N{\fnArial\fs40\bord2}I've got the image.
+Dialogue: 0,0:02:22.32,0:02:24.54,Defualt,,0,0,0,,他们确实长得像我们\N{\fnArial\fs40\bord2}They do look like us.
+Dialogue: 0,0:02:24.54,0:02:26.37,Defualt,,0,0,0,,无论"他们"是谁\N{\fnArial\fs40\bord2}Whoever "they" are.
+Dialogue: 0,0:02:27.08,0:02:28.59,Defualt,,0,0,0,,他们在跟什么人打\N{\fnArial\fs40\bord2}Who are they fighting?
+Dialogue: 0,0:02:30.30,0:02:32.88,Defualt,,0,0,0,,紫龙帮\N{\fnArial\fs40\bord2}The Purple Dragons!
+Dialogue: 0,0:02:33.32,0:02:36.21,Defualt,,0,0,0,,这么说 这些乌龟把戏是韩搞的鬼\N{\fnArial\fs40\bord2}So Hun's behind all this turtle-y fun?
+Dialogue: 0,0:02:36.62,0:02:38.74,Defualt,,0,0,0,,你们看到这个了吗\N{\fnArial\fs40\bord2}Are you guys seeing this?
+Dialogue: 0,0:02:38.74,0:02:40.34,Defualt,,0,0,0,,新闻上到处都是\N{\fnArial\fs40\bord2}It's all over the news.
+Dialogue: 0,0:02:40.34,0:02:41.98,Defualt,,0,0,0,,我们看到了 艾普尔\N{\fnArial\fs40\bord2}We see it, April.
+Dialogue: 0,0:02:41.98,0:02:44.33,Defualt,,0,0,0,,我们正要去查个水落石出\N{\fnArial\fs40\bord2}And we're about to get to the bottom of it.
+Dialogue: 0,0:02:51.08,0:02:53.04,Defualt,,0,0,0,,这次收获满满 老大\N{\fnArial\fs40\bord2}It was a sweet score, boss.
+Dialogue: 0,0:02:53.04,0:02:55.86,Defualt,,0,0,0,,我们抢到了各种各样的高科技产品\N{\fnArial\fs40\bord2}We grabbed all kinds of high-tech goodies.
+Dialogue: 0,0:02:55.86,0:02:58.59,Defualt,,0,0,0,,但真正的大奖在这里\N{\fnArial\fs40\bord2}But the real prize is right in here.
+Dialogue: 0,0:03:03.02,0:03:04.42,Defualt,,0,0,0,,我们抓到他们了 老大\N{\fnArial\fs40\bord2}We got 'em, boss
+Dialogue: 0,0:03:04.42,0:03:06.36,Defualt,,0,0,0,,终于抓到他们了\N{\fnArial\fs40\bord2}we finally got 'em.
+Dialogue: 0,0:03:07.12,0:03:08.46,Defualt,,0,0,0,,来看看...\N{\fnArial\fs40\bord2}Say hello...
+Dialogue: 0,0:03:08.46,0:03:10.79,Defualt,,0,0,0,,忍者神龟们吧\N{\fnArial\fs40\bord2}to the Ninja Turtles.
+Dialogue: 0,0:03:11.17,0:03:12.16,Defualt,,0,0,0,,嗯?\N{\fnArial\fs40\bord2}En?
+Dialogue: 0,0:03:12.16,0:03:15.25,Defualt,,0,0,0,,难道你想见的不是我们\N{\fnArial\fs40\bord2}You were expecting maybe somebody else?
+Dialogue: 0,0:03:15.60,0:03:19.58,Defualt,,0,0,0,,嗯...我不知道这些怪胎是谁\N{\fnArial\fs40\bord2}Em... I don't know who these freaks are
+Dialogue: 0,0:03:19.58,0:03:21.50,Defualt,,0,0,0,,但他们不是那些忍者神龟\N{\fnArial\fs40\bord2}but they're not the Turtles.
+Dialogue: 0,0:03:21.50,0:03:23.48,Defualt,,0,0,0,,大块头 如果我们不是忍者神龟\N{\fnArial\fs40\bord2}Chumley, if we're not the Turtles
+Dialogue: 0,0:03:23.48,0:03:25.04,Defualt,,0,0,0,,那还有谁能是\N{\fnArial\fs40\bord2}I don't know who is.
+Dialogue: 0,0:03:25.04,0:03:27.10,Defualt,,0,0,0,,说得好 拉斐尔\N{\fnArial\fs40\bord2}Good one, Raphael!
+Dialogue: 0,0:03:27.10,0:03:29.58,Defualt,,0,0,0,,我们在他们身上找到这个\N{\fnArial\fs40\bord2}We, found this on them.
+Dialogue: 0,0:03:29.58,0:03:31.16,Defualt,,0,0,0,,忍者的东西\N{\fnArial\fs40\bord2}Ninja type stuff.
+Dialogue: 0,0:03:31.16,0:03:32.52,Defualt,,0,0,0,,对吧 老大\N{\fnArial\fs40\bord2}Right, boss?
+Dialogue: 0,0:03:35.48,0:03:36.52,Defualt,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey.
+Dialogue: 0,0:03:36.52,0:03:38.40,Defualt,,0,0,0,,你不是应该给我们个打电话的机会吗\N{\fnArial\fs40\bord2}Don't you owe us one phone call?
+Dialogue: 0,0:03:38.40,0:03:41.38,Defualt,,0,0,0,,我非常清楚要打给谁\N{\fnArial\fs40\bord2}Like, I totally know who I'm calling.
+Dialogue: 0,0:03:41.38,0:03:43.24,Defualt,,0,0,0,,披萨外卖\N{\fnArial\fs40\bord2}Pizza delivery!
+Dialogue: 0,0:03:46.78,0:03:49.58,Defualt,,0,0,0,,这是什么\N{\fnArial\fs40\bord2}What is this?
+Dialogue: 0,0:03:49.58,0:03:51.38,Defualt,,0,0,0,,这是变异液\N{\fnArial\fs40\bord2}That's just ooze.
+Dialogue: 0,0:03:51.38,0:03:54.68,Defualt,,0,0,0,,我们经常为了这个和水桶头打起来\N{\fnArial\fs40\bord2}We fight old bucket-breath over that stuff all the time!
+Dialogue: 0,0:03:54.68,0:03:56.84,Defualt,,0,0,0,,水桶头?\N{\fnArial\fs40\bord2}"Old bucket-breath"?
+Dialogue: 0,0:03:56.84,0:03:58.68,Defualt,,0,0,0,,你知道的 平底锅脸\N{\fnArial\fs40\bord2}You know-- old frying-pan face.
+Dialogue: 0,0:03:58.68,0:04:00.50,Defualt,,0,0,0,,铁圆顶 铁嘴\N{\fnArial\fs40\bord2}Chrome dome? Metal mouth?
+Dialogue: 0,0:04:00.50,0:04:02.46,Defualt,,0,0,0,,铁牙怪\N{\fnArial\fs40\bord2}Tin teeth.
+Dialogue: 0,0:04:02.46,0:04:06.02,Defualt,,0,0,0,,你们这些怪胎在说什么\N{\fnArial\fs40\bord2}What are you freaks talking about?
+Dialogue: 0,0:04:06.02,0:04:08.26,Defualt,,0,0,0,,这家伙脑子有点铁\N{\fnArial\fs40\bord2}A mind like a steel trap, this one.
+Dialogue: 0,0:04:08.26,0:04:10.02,Defualt,,0,0,0,,你懂我意思吗\N{\fnArial\fs40\bord2}Know what I'm saying?
+Dialogue: 0,0:04:10.02,0:04:12.52,Defualt,,0,0,0,,喂 我们在说施莱德\N{\fnArial\fs40\bord2}Hello? We're talking about Shredder.
+Dialogue: 0,0:04:12.52,0:04:16.20,Defualt,,0,0,0,,这和施莱德有什么关系\N{\fnArial\fs40\bord2}What does this have to do with the Shredder?
+Dialogue: 0,0:04:16.20,0:04:17.56,Defualt,,0,0,0,,就像米开朗基罗说的\N{\fnArial\fs40\bord2}Like Michelangelo said
+Dialogue: 0,0:04:17.56,0:04:19.72,Defualt,,0,0,0,,这是基因诱变剂 我们一直在防止\N{\fnArial\fs40\bord2}it's just some mutagen we stopped Shred-head
+Dialogue: 0,0:04:19.72,0:04:21.79,Defualt,,0,0,0,,它们落到施莱德手里\N{\fnArial\fs40\bord2}from getting his claws on.
+Dialogue: 0,0:04:22.17,0:04:24.74,Defualt,,0,0,0,,诱变剂\N{\fnArial\fs40\bord2}Mutagen?
+Dialogue: 0,0:04:28.32,0:04:30.85,Defualt,,0,0,0,,我劝你小心点\N{\fnArial\fs40\bord2}I'd be careful with that if I were you.
+Dialogue: 0,0:04:37.96,0:04:39.68,Defualt,,0,0,0,,怎么回事\N{\fnArial\fs40\bord2}What the...?
+Dialogue: 0,0:04:42.62,0:04:44.88,Defualt,,0,0,0,,这个可能会派上用场\N{\fnArial\fs40\bord2}This could really come in handy...
+Dialogue: 0,0:04:44.88,0:04:48.24,Defualt,,0,0,0,,如果施莱德真的回来了\N{\fnArial\fs40\bord2}especially if the Shredder is back.
+Dialogue: 0,0:04:48.24,0:04:51.34,Defualt,,0,0,0,,我们怎么处理这些人 老大\N{\fnArial\fs40\bord2}What do you want us to do with these guys, boss?
+Dialogue: 0,0:04:51.34,0:04:54.78,Defualt,,0,0,0,,我已经有四只乌龟要担心了\N{\fnArial\fs40\bord2}I've already got four Turtles to worry about.
+Dialogue: 0,0:04:54.78,0:04:58.28,Defualt,,0,0,0,,这些是多余的\N{\fnArial\fs40\bord2}These are superfluous.
+Dialogue: 0,0:04:58.28,0:05:01.18,Defualt,,0,0,0,,很高兴认识你们 多余的家伙\N{\fnArial\fs40\bord2}Nice knowing you, Superfluous.
+Dialogue: 0,0:05:03.10,0:05:04.48,Defualt,,0,0,0,,什么\N{\fnArial\fs40\bord2}What the...?
+Dialogue: 0,0:05:08.82,0:05:09.72,Defualt,,0,0,0,,啊\N{\fnArial\fs40\bord2}Aah!
+Dialogue: 0,0:05:09.72,0:05:11.12,Defualt,,0,0,0,,快把它弄走\N{\fnArial\fs40\bord2}Get it off me!
+Dialogue: 0,0:05:11.12,0:05:12.54,Defualt,,0,0,0,,希望你别介意\N{\fnArial\fs40\bord2}Hope you don't mind
+Dialogue: 0,0:05:12.54,0:05:15.02,Defualt,,0,0,0,,我们自己进来了\N{\fnArial\fs40\bord2}but we let ourselves in.
+Dialogue: 0,0:05:15.02,0:05:15.78,Defualt,,0,0,0,,实际上\N{\fnArial\fs40\bord2}Actually
+Dialogue: 0,0:05:15.78,0:05:18.17,Defualt,,0,0,0,,看来我们好像已经在里面了\N{\fnArial\fs40\bord2}it kind of looks like we're already here.
+Dialogue: 0,0:05:20.01,0:05:22.46,Defualt,,0,0,0,,嘿 那些家伙和我们长得一样\N{\fnArial\fs40\bord2}Hey, those dudes look just like us.
+Dialogue: 0,0:05:22.46,0:05:24.38,Defualt,,0,0,0,,少抬举自己了\N{\fnArial\fs40\bord2}Don't flatter yourselves!
+Dialogue: 0,0:05:25.38,0:05:27.05,Defualt,,0,0,0,,该我们上场了\N{\fnArial\fs40\bord2}That's our cue!
+Dialogue: 0,0:05:33.34,0:05:34.75,Defualt,,0,0,0,,拉斐尔 当心\N{\fnArial\fs40\bord2}Raph! Look out!
+Dialogue: 0,0:05:36.72,0:05:38.64,Defualt,,0,0,0,,谢了 兄弟\N{\fnArial\fs40\bord2}Thanks, bro!
+Dialogue: 0,0:05:42.20,0:05:43.70,Defualt,,0,0,0,,让一让\N{\fnArial\fs40\bord2}Excuse me!
+Dialogue: 0,0:05:45.26,0:05:46.46,Defualt,,0,0,0,,真棒\N{\fnArial\fs40\bord2}Sweet!
+Dialogue: 0,0:05:46.46,0:05:49.48,Defualt,,0,0,0,,他们的腰带上写着首字母\N{\fnArial\fs40\bord2}They got little initials on their belt buckles!
+Dialogue: 0,0:05:49.48,0:05:51.88,Defualt,,0,0,0,,就像超级英雄一样\N{\fnArial\fs40\bord2}Like superheroes!
+Dialogue: 0,0:05:52.38,0:05:53.42,Defualt,,0,0,0,,哇哦\N{\fnArial\fs40\bord2}Whoa!
+Dialogue: 0,0:05:53.42,0:05:54.92,Defualt,,0,0,0,,好诶\N{\fnArial\fs40\bord2}Yeah!
+Dialogue: 0,0:05:55.58,0:05:57.30,Defualt,,0,0,0,,真有意思\N{\fnArial\fs40\bord2}Fascinatin'!
+Dialogue: 0,0:05:57.30,0:05:59.36,Defualt,,0,0,0,,帮个忙好吗 麦琪\N{\fnArial\fs40\bord2}Little help here, Mikey?
+Dialogue: 0,0:05:59.36,0:06:02.00,Defualt,,0,0,0,,收到\N{\fnArial\fs40\bord2}You got it!
+Dialogue: 0,0:06:02.00,0:06:04.12,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:06:07.54,0:06:09.18,Defualt,,0,0,0,,冷静点 伙计\N{\fnArial\fs40\bord2}Cool off, dude!
+Dialogue: 0,0:06:09.18,0:06:11.64,Defualt,,0,0,0,,哈哈 他叫你冷静点\N{\fnArial\fs40\bord2}Heh-heh! "Cool off," he says.
+Dialogue: 0,0:06:17.24,0:06:19.06,Defualt,,0,0,0,,神龟力量\N{\fnArial\fs40\bord2}Turtle Power!
+Dialogue: 0,0:06:19.84,0:06:21.86,Defualt,,0,0,0,,你怎么能不爱这些家伙呢\N{\fnArial\fs40\bord2}How can you not love these guys?
+Dialogue: 0,0:06:55.18,0:06:55.96,Defualt,,0,0,0,,哇哦\N{\fnArial\fs40\bord2}Whoa!
+Dialogue: 0,0:06:55.96,0:06:58.10,Defualt,,0,0,0,,这下真是满'墙'忠烈\N{\fnArial\fs40\bord2}Now, that was off the wall!
+Dialogue: 0,0:06:58.10,0:06:59.76,Defualt,,0,0,0,,快走\N{\fnArial\fs40\bord2}Come on!
+Dialogue: 0,0:07:01.00,0:07:03.26,Defualt,,0,0,0,,以后再联系\N{\fnArial\fs40\bord2}Let's stay in touch.
+Dialogue: 0,0:07:14.29,0:07:15.94,Defualt,,0,0,0,,好了\N{\fnArial\fs40\bord2}All right,
+Dialogue: 0,0:07:15.94,0:07:17.90,Defualt,,0,0,0,,该回答问题了\N{\fnArial\fs40\bord2}time for some answers.
+Dialogue: 0,0:07:17.90,0:07:20.22,Defualt,,0,0,0,,你们到底是什么人\N{\fnArial\fs40\bord2}Who the shell are you guys?
+Dialogue: 0,0:07:20.22,0:07:22.74,Defualt,,0,0,0,,我正想问你们呢\N{\fnArial\fs40\bord2}I was about to ask you the same question.
+Dialogue: 0,0:07:22.74,0:07:24.66,Defualt,,0,0,0,,别装可爱\N{\fnArial\fs40\bord2}Don't get cute.
+Dialogue: 0,0:07:24.66,0:07:27.92,Defualt,,0,0,0,,没办法 我们天生就这样\N{\fnArial\fs40\bord2}We can't help it-- we were born that way.
+Dialogue: 0,0:07:28.32,0:07:30.14,Defualt,,0,0,0,,听着 我们冒着生命危险\N{\fnArial\fs40\bord2}Look, we just risked our shells
+Dialogue: 0,0:07:30.14,0:07:32.22,Defualt,,0,0,0,,把你们从韩和紫龙帮手里救出来\N{\fnArial\fs40\bord2}rescuing you from Hun and the Purple Dragons.
+Dialogue: 0,0:07:32.22,0:07:34.51,Defualt,,0,0,0,,我认为我们有权得到一些答案\N{\fnArial\fs40\bord2}So I think we're entitled to some answers.
+Dialogue: 0,0:07:34.72,0:07:35.74,Defualt,,0,0,0,,他说的对\N{\fnArial\fs40\bord2}He's right.
+Dialogue: 0,0:07:35.74,0:07:36.74,Defualt,,0,0,0,,这是他们应得的\N{\fnArial\fs40\bord2}They've earned it.
+Dialogue: 0,0:07:36.74,0:07:38.33,Defualt,,0,0,0,,一点儿没错\N{\fnArial\fs40\bord2}Absolutely.
+Dialogue: 0,0:07:39.72,0:07:42.48,Defualt,,0,0,0,,所以 快说呀\N{\fnArial\fs40\bord2}So... spill!
+Dialogue: 0,0:07:42.48,0:07:44.12,Defualt,,0,0,0,,必须的\N{\fnArial\fs40\bord2}You bet.
+Dialogue: 0,0:07:44.12,0:07:46.42,Defualt,,0,0,0,,但是要先吃午饭\N{\fnArial\fs40\bord2}Right after lunch!
+Dialogue: 0,0:07:46.42,0:07:47.22,Defualt,,0,0,0,,什么\N{\fnArial\fs40\bord2}What?
+Dialogue: 0,0:07:47.22,0:07:49.28,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:07:50.38,0:07:53.58,Defualt,,0,0,0,,他们在干嘛呢\N{\fnArial\fs40\bord2}What are they doing?
+Dialogue: 0,0:07:53.58,0:07:55.26,Defualt,,0,0,0,,我受够了 他们完蛋了\N{\fnArial\fs40\bord2}That's it-- they're toast!
+Dialogue: 0,0:07:55.26,0:07:57.60,Defualt,,0,0,0,,我们不能在光天化日之下到处跑\N{\fnArial\fs40\bord2}We can't go running around in broad daylight!
+Dialogue: 0,0:07:57.60,0:07:59.94,Defualt,,0,0,0,,他们可不管这些\N{\fnArial\fs40\bord2}Doesn't seem to be stopping them.
+Dialogue: 0,0:07:59.94,0:08:02.06,Defualt,,0,0,0,,你好 最近怎么样\N{\fnArial\fs40\bord2}Hey there! How's it going?
+Dialogue: 0,0:08:02.06,0:08:03.72,Defualt,,0,0,0,,你好 嗨\N{\fnArial\fs40\bord2}Hello. Hi.
+Dialogue: 0,0:08:03.72,0:08:05.54,Defualt,,0,0,0,,万一他们被不该看见的人看见了\N{\fnArial\fs40\bord2}If they get spotted by the wrong...
+Dialogue: 0,0:08:05.54,0:08:08.68,Defualt,,0,0,0,,走吧 是时候呼叫增援了\N{\fnArial\fs40\bord2}Come on, time to call in reinforcements.
+Dialogue: 0,0:08:09.12,0:08:10.50,Defualt,,0,0,0,,我都快饿死了\N{\fnArial\fs40\bord2}I'm starving.
+Dialogue: 0,0:08:10.50,0:08:12.80,Defualt,,0,0,0,,我现在能吃掉一整块派\N{\fnArial\fs40\bord2}I could eat a whole pie myself!
+Dialogue: 0,0:08:19.30,0:08:20.20,Defualt,,0,0,0,,中奖了\N{\fnArial\fs40\bord2}Score!
+Dialogue: 0,0:08:20.20,0:08:21.40,Defualt,,0,0,0,,不用排队\N{\fnArial\fs40\bord2}No line!
+Dialogue: 0,0:08:21.40,0:08:23.24,Defualt,,0,0,0,,我们要四个大披萨\N{\fnArial\fs40\bord2}We'll take four large pizzas
+Dialogue: 0,0:08:23.24,0:08:26.56,Defualt,,0,0,0,,配德国泡菜 金枪鱼 椒盐卷饼和彩虹软糖\N{\fnArial\fs40\bord2}with sauerkraut, tuna fish, pretzels and jelly beans.
+Dialogue: 0,0:08:30.98,0:08:32.92,Defualt,,0,0,0,,也许他们的彩虹软糖卖完了\N{\fnArial\fs40\bord2}Maybe they're out of jelly beans?
+Dialogue: 0,0:08:37.78,0:08:39.44,Defualt,,0,0,0,,啊偶 警察来了\N{\fnArial\fs40\bord2}The boys in blue!
+Dialogue: 0,0:08:39.44,0:08:41.70,Defualt,,0,0,0,,我们从后门溜出去吧\N{\fnArial\fs40\bord2}Let's slip out the back!
+Dialogue: 0,0:08:47.68,0:08:49.04,Defualt,,0,0,0,,哇哦 嘿 放开我们\N{\fnArial\fs40\bord2}Whoa! Hey! Let us out of here!
+Dialogue: 0,0:08:49.04,0:08:51.62,Defualt,,0,0,0,,怎么回事 放开我\N{\fnArial\fs40\bord2}What's going on? Let us go!
+Dialogue: 0,0:08:55.08,0:08:57.76,Defualt,,0,0,0,,嘿 这是怎么回事\N{\fnArial\fs40\bord2}Hey! What's the big idea!
+Dialogue: 0,0:08:57.76,0:08:59.92,Defualt,,0,0,0,,你们惹错人...\N{\fnArial\fs40\bord2}You totally picked the wrong...
+Dialogue: 0,0:09:03.16,0:09:04.85,Defualt,,0,0,0,,斯普林特老师\N{\fnArial\fs40\bord2}Master Splinter?
+Dialogue: 0,0:09:05.26,0:09:07.44,Defualt,,0,0,0,,你们认识我?\N{\fnArial\fs40\bord2}You know me?
+Dialogue: 0,0:09:07.44,0:09:09.23,Defualt,,0,0,0,,嗯 没错 但是\N{\fnArial\fs40\bord2}Well, yeah, but...
+Dialogue: 0,0:09:09.94,0:09:12.07,Defualt,,0,0,0,,您换了个发型吗\N{\fnArial\fs40\bord2}Did you get a perm job or something?
+Dialogue: 0,0:09:12.22,0:09:14.80,Defualt,,0,0,0,,你看起来 不太一样了\N{\fnArial\fs40\bord2}You look, different.
+Dialogue: 0,0:09:14.80,0:09:15.96,Defualt,,0,0,0,,回想起来\N{\fnArial\fs40\bord2}Come to think of it
+Dialogue: 0,0:09:15.96,0:09:18.57,Defualt,,0,0,0,,最近一切都不太一样\N{\fnArial\fs40\bord2}everything's been looking a little different lately.
+Dialogue: 0,0:09:18.80,0:09:21.08,Defualt,,0,0,0,,没错 自从那次大爆炸之后\N{\fnArial\fs40\bord2}Yeah. Ever since that big explosion
+Dialogue: 0,0:09:21.08,0:09:22.86,Defualt,,0,0,0,,纽约就一直不太一样了\N{\fnArial\fs40\bord2}New York just hasn't been the same.
+Dialogue: 0,0:09:22.86,0:09:24.21,Defualt,,0,0,0,,爆炸?\N{\fnArial\fs40\bord2}Explosion?
+Dialogue: 0,0:09:24.60,0:09:27.21,Defualt,,0,0,0,,是啊 在我们和施莱德的战斗中\N{\fnArial\fs40\bord2}Yeah, during our, battle with Shredder.
+Dialogue: 0,0:09:27.58,0:09:29.38,Defualt,,0,0,0,,施莱德?\N{\fnArial\fs40\bord2}The Shredder?
+Dialogue: 0,0:09:29.38,0:09:33.88,Defualt,,0,0,0,,也许你们应该从头说起\N{\fnArial\fs40\bord2}Perhaps it would be best if you started from the beginning.
+Dialogue: 0,0:09:34.04,0:09:35.80,Defualt,,0,0,0,,好吧\N{\fnArial\fs40\bord2}Well...
+Dialogue: 0,0:09:36.46,0:09:39.20,Defualt,,0,0,0,,我们正在施莱德的终极武器里大战\N{\fnArial\fs40\bord2}we were mixing it up inside the Shredder's ultimate weapon
+Dialogue: 0,0:09:39.20,0:09:40.42,Defualt,,0,0,0,,在它的电子圆宫里\N{\fnArial\fs40\bord2}the Technodrome
+Dialogue: 0,0:09:40.42,0:09:44.00,Defualt,,0,0,0,,试图阻止他拿到诱变剂\N{\fnArial\fs40\bord2}trying to keep him from getting his claws on some vials of mutagen.
+Dialogue: 0,0:09:44.00,0:09:46.64,Defualt,,0,0,0,,我们正在想办法彻底结束战斗\N{\fnArial\fs40\bord2}We were looking for a way to end the fight once and for all
+Dialogue: 0,0:09:47.28,0:09:49.28,Defualt,,0,0,0,,这时多尼想到了一个好主意\N{\fnArial\fs40\bord2}when Don had a rockin' idea--
+Dialogue: 0,0:09:49.28,0:09:52.18,Defualt,,0,0,0,,使用电子圆宫自带的维度传送门\N{\fnArial\fs40\bord2}use the Technodrome's own transdimensional portal
+Dialogue: 0,0:09:52.18,0:09:54.46,Defualt,,0,0,0,,把它传送回原来的地方\N{\fnArial\fs40\bord2}to send it back from whence it came.
+Dialogue: 0,0:09:55.18,0:09:58.14,Defualt,,0,0,0,,多尼开始施展他的科技\N{\fnArial\fs40\bord2}Don started working his techno-magic
+Dialogue: 0,0:09:58.14,0:09:59.04,Defualt,,0,0,0,,但是\N{\fnArial\fs40\bord2}but...
+Dialogue: 0,0:10:12.00,0:10:13.24,Defualt,,0,0,0,,接下来我们所知道的就是\N{\fnArial\fs40\bord2}The next thing we knew,
+Dialogue: 0,0:10:13.24,0:10:14.58,Defualt,,0,0,0,,我们回到了城里\N{\fnArial\fs40\bord2}we were back in the city.
+Dialogue: 0,0:10:14.58,0:10:17.12,Defualt,,0,0,0,,然后我们又干起老本行\N{\fnArial\fs40\bord2}And we got back to doing what we do best,
+Dialogue: 0,0:10:17.12,0:10:18.92,Defualt,,0,0,0,,打击罪犯\N{\fnArial\fs40\bord2}taking down scuzz-buckets.
+Dialogue: 0,0:10:18.92,0:10:21.10,Defualt,,0,0,0,,韩和紫龙帮\N{\fnArial\fs40\bord2}Hun and the Purple Dragons.
+Dialogue: 0,0:10:21.10,0:10:23.56,Defualt,,0,0,0,,也许我们已经不在堪萨斯了\N{\fnArial\fs40\bord2}But maybe we're not in Kansas anymore.
+Dialogue: 0,0:10:23.91,0:10:26.56,Defualt,,0,0,0,,至少不是我们的堪萨斯\N{\fnArial\fs40\bord2}Not our Kansas, anyway.
+Dialogue: 0,0:10:26.96,0:10:29.14,Defualt,,0,0,0,,伙计 你是说...\N{\fnArial\fs40\bord2}Dude, are you saying...
+Dialogue: 0,0:10:29.14,0:10:32.90,Defualt,,0,0,0,,我是说 电子圆宫的维度传送门\N{\fnArial\fs40\bord2}I'm saying the Technodrome's transdimensional portal
+Dialogue: 0,0:10:32.90,0:10:35.57,Defualt,,0,0,0,,可能把我们传送到了另一个世界\N{\fnArial\fs40\bord2}might have zapped us all to a different world.
+Dialogue: 0,0:10:35.92,0:10:39.04,Defualt,,0,0,0,,你们的这个施莱德 他也在这里吗\N{\fnArial\fs40\bord2}This Shredder of yours, he's here, too?
+Dialogue: 0,0:10:42.36,0:10:44.00,Defualt,,0,0,0,,我们的目标已经明确了\N{\fnArial\fs40\bord2}Our path is clear.
+Dialogue: 0,0:10:44.00,0:10:47.20,Defualt,,0,0,0,,我们必须齐心协力找到这个电子圆宫\N{\fnArial\fs40\bord2}Together we must find this Technodrome.
+Dialogue: 0,0:10:47.20,0:10:50.32,Defualt,,0,0,0,,这可能是送他们四个回家的唯一办法\N{\fnArial\fs40\bord2}It may be the only way to get these four home.
+Dialogue: 0,0:10:52.20,0:10:52.96,Defualt,,0,0,0,,搓头大法\N{\fnArial\fs40\bord2}Noogie!
+Dialogue: 0,0:10:52.96,0:10:55.16,Defualt,,0,0,0,,别闹了 伙计们\N{\fnArial\fs40\bord2}Cut it out, you guys.
+Dialogue: 0,0:10:55.24,0:10:57.78,Defualt,,0,0,0,,越快越好\N{\fnArial\fs40\bord2}The sooner the better.
+Dialogue: 0,0:11:12.58,0:11:14.56,Defualt,,0,0,0,,主引擎已离线\N{\fnArial\fs40\bord2}Primary engines off-line.
+Dialogue: 0,0:11:14.56,0:11:16.22,Defualt,,0,0,0,,该死的机器\N{\fnArial\fs40\bord2}Blasted machine!
+Dialogue: 0,0:11:17.28,0:11:19.32,Defualt,,0,0,0,,只是一场小小的战斗\N{\fnArial\fs40\bord2}How does a minor battle with those
+Dialogue: 0,0:11:19.32,0:11:22.40,Defualt,,0,0,0,,怎么就让引擎...\N{\fnArial\fs40\bord2}annoying Turtles cause the engines to...?
+Dialogue: 0,0:11:22.40,0:11:23.92,Defualt,,0,0,0,,什么鬼东西\N{\fnArial\fs40\bord2}What the devil?
+Dialogue: 0,0:11:23.92,0:11:25.72,Defualt,,0,0,0,,时间反常现象\N{\fnArial\fs40\bord2}A temporal anomaly?
+Dialogue: 0,0:11:25.72,0:11:28.32,Defualt,,0,0,0,,看来是维度传送门\N{\fnArial\fs40\bord2}It seems the transdimensional portal
+Dialogue: 0,0:11:28.32,0:11:32.68,Defualt,,0,0,0,,把电子圆宫传送到了另一个时空\N{\fnArial\fs40\bord2}has thrown the Technodrome into an entirely different dimension.
+Dialogue: 0,0:11:34.30,0:11:37.50,Defualt,,0,0,0,,我讨厌那些乌龟\N{\fnArial\fs40\bord2}I hate those Turtles.
+Dialogue: 0,0:11:39.10,0:11:40.14,Defualt,,0,0,0,,又怎么了\N{\fnArial\fs40\bord2}What now?
+Dialogue: 0,0:11:40.14,0:11:44.47,Defualt,,0,0,0,,边界被闯入\N{\fnArial\fs40\bord2}Perimeter breach.
+Dialogue: 0,0:11:44.94,0:11:48.46,Defualt,,0,0,0,,你是对的 多纳泰罗\N{\fnArial\fs40\bord2}You were right, Donatello.
+Dialogue: 0,0:11:48.46,0:11:50.88,Defualt,,0,0,0,,追踪近期奇怪的地震活动\N{\fnArial\fs40\bord2}Tracking the recent weird seismic activity
+Dialogue: 0,0:11:50.88,0:11:53.90,Defualt,,0,0,0,,确实直接把我们带到了...\N{\fnArial\fs40\bord2}has led us straight to the...
+Dialogue: 0,0:11:53.90,0:11:55.62,Defualt,,0,0,0,,电子圆宫\N{\fnArial\fs40\bord2}Technodrome!
+Dialogue: 0,0:11:55.62,0:11:58.41,Defualt,,0,0,0,,一个带轮子的巨型高尔夫球?\N{\fnArial\fs40\bord2}A giant golf ball on wheels?
+Dialogue: 0,0:11:58.41,0:12:01.32,Defualt,,0,0,0,,这就是你们的施莱德的终极武器?\N{\fnArial\fs40\bord2}That's your Shredder's ultimate weapon?
+Dialogue: 0,0:12:01.32,0:12:02.96,Defualt,,0,0,0,,八只乌龟?\N{\fnArial\fs40\bord2}Eight Turtles?
+Dialogue: 0,0:12:02.96,0:12:05.24,Defualt,,0,0,0,,我不知道这是怎么回事\N{\fnArial\fs40\bord2}I don't know how this came to be
+Dialogue: 0,0:12:05.24,0:12:08.24,Defualt,,0,0,0,,但很快就会一只都不剩了\N{\fnArial\fs40\bord2}but soon there will be none.
+Dialogue: 0,0:12:17.55,0:12:20.51,Defualt,,0,0,0,,消灭他们 全部消灭\N{\fnArial\fs40\bord2}Destroy them, all of them.
+Dialogue: 0,0:12:20.51,0:12:23.98,Defualt,,0,0,0,,我很乐意 施莱德主人\N{\fnArial\fs40\bord2}With great pleasure, Master Shredder.
+Dialogue: 0,0:12:23.98,0:12:26.48,Defualt,,0,0,0,,比波和洛克史迪\N{\fnArial\fs40\bord2}BeBop and Rocksteady?
+Dialogue: 0,0:12:26.48,0:12:30.01,Defualt,,0,0,0,,说出你们的遗言吧 乌龟们\N{\fnArial\fs40\bord2}Say your prayers, Turtles.
+Dialogue: 0,0:12:36.15,0:12:39.98,Defualt,,0,0,0,,你们平时是怎么处理这些情况的\N{\fnArial\fs40\bord2}So how do you guys normally handle these situations?
+Dialogue: 0,0:12:39.98,0:12:41.06,Defualt,,0,0,0,,神龟力量\N{\fnArial\fs40\bord2}Turtle power!
+Dialogue: 0,0:12:41.06,0:12:43.25,Defualt,,0,0,0,,呜呼 来吧\N{\fnArial\fs40\bord2}Whoo-hoo! All right!
+Dialogue: 0,0:12:43.89,0:12:45.98,Defualt,,0,0,0,,你怎么能不爱上这些家伙?\N{\fnArial\fs40\bord2}Don't you just love these guys?
+Dialogue: 0,0:12:45.98,0:12:48.25,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:12:48.25,0:12:50.61,Defualt,,0,0,0,,卡哇邦嘎 呜呼\N{\fnArial\fs40\bord2}Cowabunga! Whoo-hoo!
+Dialogue: 0,0:12:50.61,0:12:53.37,Defualt,,0,0,0,,天哪 现在就像有五个麦琪一样\N{\fnArial\fs40\bord2}Geez, it's like having five Mikeys now.
+Dialogue: 0,0:12:59.90,0:13:01.26,Defualt,,0,0,0,,机器人\N{\fnArial\fs40\bord2}Robots?
+Dialogue: 0,0:13:01.92,0:13:03.92,Defualt,,0,0,0,,爆炸机器人\N{\fnArial\fs40\bord2}Exploding robots.
+Dialogue: 0,0:13:10.80,0:13:13.10,Defualt,,0,0,0,,准备受死吧\N{\fnArial\fs40\bord2}Prepare to get plasmarized.
+Dialogue: 0,0:13:13.10,0:13:15.08,Defualt,,0,0,0,,我看未必\N{\fnArial\fs40\bord2}I don't think so.
+Dialogue: 0,0:13:23.08,0:13:26.01,Defualt,,0,0,0,,我要碾碎这些龟壳\N{\fnArial\fs40\bord2}I'm gonna pulverize you shellbags.
+Dialogue: 0,0:13:26.01,0:13:27.81,Defualt,,0,0,0,,来吧\N{\fnArial\fs40\bord2}Sure.
+Dialogue: 0,0:13:34.95,0:13:37.17,Defualt,,0,0,0,,只能等你获得假释了\N{\fnArial\fs40\bord2}Just as soon as you get out on parole.
+Dialogue: 0,0:13:38.57,0:13:39.90,Defualt,,0,0,0,,别逗乐了 伙计们\N{\fnArial\fs40\bord2}Cut it out, guys.
+Dialogue: 0,0:13:39.90,0:13:41.82,Defualt,,0,0,0,,这儿还在打架呢\N{\fnArial\fs40\bord2}I'm trying to fight here.
+Dialogue: 0,0:13:46.31,0:13:48.67,Defualt,,0,0,0,,来啊 谁想尝尝\N{\fnArial\fs40\bord2}Yeah, who wants some?
+Dialogue: 0,0:14:02.14,0:14:03.67,Defualt,,0,0,0,,全垒打!\N{\fnArial\fs40\bord2}Stee-rike!
+Dialogue: 0,0:14:03.67,0:14:06.21,Defualt,,0,0,0,,我想给你一记全垒打\N{\fnArial\fs40\bord2}I'll give you a strike!
+Dialogue: 0,0:14:06.91,0:14:08.83,Defualt,,0,0,0,,哇 真是个暴脾气\N{\fnArial\fs40\bord2}Wow, what a hard case.
+Dialogue: 0,0:14:08.83,0:14:11.20,Defualt,,0,0,0,,兄弟 我经历过太多\N{\fnArial\fs40\bord2}Bro, I could tell you stories.
+Dialogue: 0,0:14:12.49,0:14:14.48,Defualt,,0,0,0,,该死的乌龟\N{\fnArial\fs40\bord2}Blasted Turtles!
+Dialogue: 0,0:14:15.62,0:14:19.24,Defualt,,0,0,0,,施莱德 你这个笨手笨脚的白痴\N{\fnArial\fs40\bord2}Shredder, you bungling idiot.
+Dialogue: 0,0:14:19.24,0:14:21.71,Defualt,,0,0,0,,我正忙着呢 克朗\N{\fnArial\fs40\bord2}I'm in the middle of something here, Krang.
+Dialogue: 0,0:14:21.71,0:14:25.22,Defualt,,0,0,0,,你先是把我们困在这个地狱维度里\N{\fnArial\fs40\bord2}First you get us stuck in this infernal dimension
+Dialogue: 0,0:14:25.22,0:14:30.82,Defualt,,0,0,0,,现在又在费力攻打这些原始生物\N{\fnArial\fs40\bord2}and now you struggle...to defeat these primitive creatures.
+Dialogue: 0,0:14:30.82,0:14:33.96,Defualt,,0,0,0,,如果我的X维度的部队在这里\N{\fnArial\fs40\bord2}If my troops from Dimension X were here...
+Dialogue: 0,0:14:33.96,0:14:36.28,Defualt,,0,0,0,,少在这儿碎碎念你的X维度了\N{\fnArial\fs40\bord2}Quit nagging about Dimension X.
+Dialogue: 0,0:14:36.28,0:14:38.45,Defualt,,0,0,0,,这个维度的麻烦已经够多了\N{\fnArial\fs40\bord2}We're having enough trouble in this dimension.
+Dialogue: 0,0:14:38.45,0:14:41.33,Defualt,,0,0,0,,你没看到现在有八只乌龟吗\N{\fnArial\fs40\bord2}Can't you see there are eight Turtles now?
+Dialogue: 0,0:14:41.33,0:14:42.23,Defualt,,0,0,0,,等等\N{\fnArial\fs40\bord2}Wait.
+Dialogue: 0,0:14:42.23,0:14:44.61,Defualt,,0,0,0,,对了 当然了\N{\fnArial\fs40\bord2}That's it. Of course.
+Dialogue: 0,0:14:44.61,0:14:48.00,Defualt,,0,0,0,,如果这个维度有自己版本的乌龟\N{\fnArial\fs40\bord2}If this dimension has its own version of the Turtles
+Dialogue: 0,0:14:48.00,0:14:51.37,Defualt,,0,0,0,,也许它也有自己的施莱德\N{\fnArial\fs40\bord2}perhaps it has its own Shredder as well.
+Dialogue: 0,0:14:51.37,0:14:55.70,Defualt,,0,0,0,,哦 也许还会有它自己的克朗\N{\fnArial\fs40\bord2}Ooh, and maybe even its own Krang.
+Dialogue: 0,0:14:55.70,0:14:57.15,Defualt,,0,0,0,,那可就太好了\N{\fnArial\fs40\bord2}Why, that would be wond...
+Dialogue: 0,0:14:57.15,0:14:59.45,Defualt,,0,0,0,,紧急电源现已启用\N{\fnArial\fs40\bord2}Emergency power now online.
+Dialogue: 0,0:14:59.45,0:15:00.37,Defualt,,0,0,0,,太棒了\N{\fnArial\fs40\bord2}Excellent.
+Dialogue: 0,0:15:00.37,0:15:04.21,Defualt,,0,0,0,,现在 让我们争取一点时间\N{\fnArial\fs40\bord2}Now, let's buy ourselves a little time.
+Dialogue: 0,0:15:12.05,0:15:14.47,Defualt,,0,0,0,,搞什么把戏\N{\fnArial\fs40\bord2}What gibes?
+Dialogue: 0,0:15:33.12,0:15:34.48,Defualt,,0,0,0,,等等我们\N{\fnArial\fs40\bord2}Wait for us!
+Dialogue: 0,0:15:34.48,0:15:36.48,Defualt,,0,0,0,,等等 老大\N{\fnArial\fs40\bord2}Hold up, boss!
+Dialogue: 0,0:15:52.04,0:15:56.06,Defualt,,0,0,0,,快点 他们要跑了\N{\fnArial\fs40\bord2}Come on, they're making a run for it!
+Dialogue: 0,0:16:15.26,0:16:18.62,Defualt,,0,0,0,,在这个维度上 没找到什么克朗\N{\fnArial\fs40\bord2}Nothing comes up for Krang in this dimension.
+Dialogue: 0,0:16:18.62,0:16:19.44,Defualt,,0,0,0,,什么\N{\fnArial\fs40\bord2}What?
+Dialogue: 0,0:16:19.44,0:16:21.91,Defualt,,0,0,0,,施莱德的话...\N{\fnArial\fs40\bord2}Shredder, on the other hand...
+Dialogue: 0,0:16:21.91,0:16:23.37,Defualt,,0,0,0,,出现了\N{\fnArial\fs40\bord2}there he is
+Dialogue: 0,0:16:23.37,0:16:27.17,Defualt,,0,0,0,,而且他非常厉害\N{\fnArial\fs40\bord2}and he is magnificent.
+Dialogue: 0,0:16:27.35,0:16:30.96,Defualt,,0,0,0,,多么强大 多么有力\N{\fnArial\fs40\bord2}What strength, what power.
+Dialogue: 0,0:16:34.36,0:16:37.47,Defualt,,0,0,0,,我多么渴望有这样一个盟友\N{\fnArial\fs40\bord2}How I've longed for an ally such as this
+Dialogue: 0,0:16:37.47,0:16:40.64,Defualt,,0,0,0,,不像某些淌着鼻涕的白痴\N{\fnArial\fs40\bord2}so unlike the sniveling idiots
+Dialogue: 0,0:16:40.64,0:16:43.03,Defualt,,0,0,0,,我已经忍受了很久了\N{\fnArial\fs40\bord2}that I've been forced to suffer.
+Dialogue: 0,0:16:43.03,0:16:44.98,Defualt,,0,0,0,,我就在这里\N{\fnArial\fs40\bord2}I'm right here.
+Dialogue: 0,0:16:44.98,0:16:48.01,Defualt,,0,0,0,,我能听到你说话\N{\fnArial\fs40\bord2}I can hear you!
+Dialogue: 0,0:16:48.37,0:16:51.52,Defualt,,0,0,0,,现在 去找他\N{\fnArial\fs40\bord2}Now, to find him.
+Dialogue: 0,0:17:00.56,0:17:01.92,Defualt,,0,0,0,,真奇怪\N{\fnArial\fs40\bord2}Strange.
+Dialogue: 0,0:17:01.92,0:17:03.62,Defualt,,0,0,0,,他不在地球\N{\fnArial\fs40\bord2}He's off-world.
+Dialogue: 0,0:17:03.62,0:17:04.91,Defualt,,0,0,0,,没关系\N{\fnArial\fs40\bord2}No matter.
+Dialogue: 0,0:17:04.91,0:17:07.20,Defualt,,0,0,0,,我可以设置传送器\N{\fnArial\fs40\bord2}I will program the matter transporter
+Dialogue: 0,0:17:07.20,0:17:09.57,Defualt,,0,0,0,,把他直接传送到这里\N{\fnArial\fs40\bord2}to beam him to us directly.
+Dialogue: 0,0:17:14.23,0:17:16.72,Defualt,,0,0,0,,这是一个转折点 克朗\N{\fnArial\fs40\bord2}This is a turning point, Krang.
+Dialogue: 0,0:17:16.72,0:17:19.63,Defualt,,0,0,0,,世界将会颤抖在我们的强强联合之下\N{\fnArial\fs40\bord2}The world will tremble before the combined power
+Dialogue: 0,0:17:19.63,0:17:22.65,Defualt,,0,0,0,,强大的施莱德和他的...\N{\fnArial\fs40\bord2}of mighty Shredder and his...
+Dialogue: 0,0:17:22.65,0:17:24.25,Defualt,,0,0,0,,啊?\N{\fnArial\fs40\bord2}Ah?
+Dialogue: 0,0:17:24.85,0:17:27.37,Defualt,,0,0,0,,粉色鼻涕虫\N{\fnArial\fs40\bord2}Pink slug?
+Dialogue: 0,0:17:29.06,0:17:33.27,Defualt,,0,0,0,,噢...我想要一个超级邪恶的盟友\N{\fnArial\fs40\bord2}Aw...I wanted a super sinister ally.
+Dialogue: 0,0:17:33.27,0:17:36.97,Defualt,,0,0,0,,说不好 我看着挺不错的\N{\fnArial\fs40\bord2}I don't know, he looks all right to me.
+Dialogue: 0,0:17:41.56,0:17:43.42,Defualt,,0,0,0,,那个弱小的生物难道\N{\fnArial\fs40\bord2}Could that puny creature
+Dialogue: 0,0:17:43.42,0:17:46.97,Defualt,,0,0,0,,真的是这个维度的施莱德?\N{\fnArial\fs40\bord2}actually be this dimension's Shredder?
+Dialogue: 0,0:17:47.12,0:17:48.04,Defualt,,0,0,0,,安静\N{\fnArial\fs40\bord2}Quiet.
+Dialogue: 0,0:17:48.66,0:17:51.44,Defualt,,0,0,0,,开始解冻再生\N{\fnArial\fs40\bord2}Commencing cryoregeneration.
+Dialogue: 0,0:17:56.67,0:17:57.68,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No.
+Dialogue: 0,0:17:57.94,0:18:01.85,Defualt,,0,0,0,,傻瓜 你把他烧焦了 是不是\N{\fnArial\fs40\bord2}Fool, you overcooked him, didn't you?
+Dialogue: 0,0:18:01.85,0:18:04.81,Defualt,,0,0,0,,我的每个步骤都是完全正确的\N{\fnArial\fs40\bord2}I did everything exactly right.
+Dialogue: 0,0:18:05.18,0:18:06.82,Defualt,,0,0,0,,应该起作用的\N{\fnArial\fs40\bord2}It should have worked.
+Dialogue: 0,0:18:06.82,0:18:08.50,Defualt,,0,0,0,,它应该活过来了\N{\fnArial\fs40\bord2}It should be alive.
+Dialogue: 0,0:18:08.50,0:18:10.00,Defualt,,0,0,0,,你搞砸了\N{\fnArial\fs40\bord2}You botched it.
+Dialogue: 0,0:18:10.00,0:18:12.20,Defualt,,0,0,0,,你搞砸了!\N{\fnArial\fs40\bord2}You botched it!
+Dialogue: 0,0:18:15.61,0:18:17.32,Defualt,,0,0,0,,别忘了你在跟谁说话\N{\fnArial\fs40\bord2}You forget who you talk to
+Dialogue: 0,0:18:17.32,0:18:19.82,Defualt,,0,0,0,,你这个哭鼻子的臭虫\N{\fnArial\fs40\bord2}you whimpering worm!
+Dialogue: 0,0:18:19.82,0:18:20.68,Defualt,,0,0,0,,啊\N{\fnArial\fs40\bord2}Aah!
+Dialogue: 0,0:18:20.68,0:18:23.80,Defualt,,0,0,0,,我是施莱德\N{\fnArial\fs40\bord2}I am the Shredder!
+Dialogue: 0,0:18:25.50,0:18:27.20,Defualt,,0,0,0,,我知道你是谁\N{\fnArial\fs40\bord2}I know who you are.
+Dialogue: 0,0:18:27.20,0:18:29.19,Defualt,,0,0,0,,放手\N{\fnArial\fs40\bord2}Let go.
+Dialogue: 0,0:18:29.19,0:18:31.80,Defualt,,0,0,0,,这些人是什么蠢货\N{\fnArial\fs40\bord2}What fools are these
+Dialogue: 0,0:18:31.80,0:18:34.36,Defualt,,0,0,0,,真是活腻了...\N{\fnArial\fs40\bord2}so weary of life...
+Dialogue: 0,0:18:34.36,0:18:35.90,Defualt,,0,0,0,,什么…\N{\fnArial\fs40\bord2}Wha...?
+Dialogue: 0,0:18:35.90,0:18:39.64,Defualt,,0,0,0,,竟敢滥用施莱德的名字\N{\fnArial\fs40\bord2}...that they take the name of the Shredder...
+Dialogue: 0,0:18:40.92,0:18:45.36,Defualt,,0,0,0,,我的名字\N{\fnArial\fs40\bord2}...my name in vain?
+Dialogue: 0,0:19:00.96,0:19:02.16,Defualt,,0,0,0,,好炫的车子\N{\fnArial\fs40\bord2}Nice wheels!
+Dialogue: 0,0:19:02.16,0:19:03.64,Defualt,,0,0,0,,非常狂野\N{\fnArial\fs40\bord2}Totally radical!
+Dialogue: 0,0:19:03.64,0:19:06.70,Defualt,,0,0,0,,请告诉我咱们不是在兜圈子 多尼\N{\fnArial\fs40\bord2}Please tell me we're not just driving in circles, Donnie.
+Dialogue: 0,0:19:06.70,0:19:09.06,Defualt,,0,0,0,,我调整了装甲车的跟踪装置\N{\fnArial\fs40\bord2}I recalibrated the hauler's tracking apparatus
+Dialogue: 0,0:19:09.06,0:19:12.92,Defualt,,0,0,0,,让它追踪具有电子圆宫外形的地下物体\N{\fnArial\fs40\bord2}to seek an underground object similar to the Technodrome surface area.
+Dialogue: 0,0:19:12.92,0:19:13.95,Defualt,,0,0,0,,你看\N{\fnArial\fs40\bord2}See?
+Dialogue: 0,0:19:13.95,0:19:15.78,Defualt,,0,0,0,,地下声纳\N{\fnArial\fs40\bord2}Subterranean sonar.
+Dialogue: 0,0:19:15.78,0:19:17.55,Defualt,,0,0,0,,真是好主意 多纳泰罗\N{\fnArial\fs40\bord2}Brilliant notion, Donatello
+Dialogue: 0,0:19:18.95,0:19:20.62,Defualt,,0,0,0,,书呆子\N{\fnArial\fs40\bord2}Nerds.
+Dialogue: 0,0:19:21.28,0:19:23.52,Defualt,,0,0,0,,天龙五号呼叫龙王\N{\fnArial\fs40\bord2}Sky Dragon Five to Dragon King.
+Dialogue: 0,0:19:23.52,0:19:24.80,Defualt,,0,0,0,,看到他们了 老大\N{\fnArial\fs40\bord2}I see them, boss.
+Dialogue: 0,0:19:24.80,0:19:26.52,Defualt,,0,0,0,,正在莱丁顿街往南走\N{\fnArial\fs40\bord2}We going south on Lectington.
+Dialogue: 0,0:19:26.52,0:19:27.76,Defualt,,0,0,0,,好的\N{\fnArial\fs40\bord2}Good.
+Dialogue: 0,0:19:27.76,0:19:30.34,Defualt,,0,0,0,,我们开始吧\N{\fnArial\fs40\bord2}Let's do this.
+Dialogue: 0,0:19:34.16,0:19:36.56,Defualt,,0,0,0,,这是我们的引擎室\N{\fnArial\fs40\bord2}And this is our engine room
+Dialogue: 0,0:19:36.56,0:19:39.74,Defualt,,0,0,0,,不幸的是 目前正在维修中\N{\fnArial\fs40\bord2}currently under repair unfortunately.
+Dialogue: 0,0:19:41.78,0:19:46.34,Defualt,,0,0,0,,请原谅 最尊贵的客人\N{\fnArial\fs40\bord2}Please excuse me, most honored guest.
+Dialogue: 0,0:19:46.52,0:19:48.62,Defualt,,0,0,0,,克朗 怎么花了这么长时间\N{\fnArial\fs40\bord2}Krang, what's taking so long?
+Dialogue: 0,0:19:48.62,0:19:51.54,Defualt,,0,0,0,,我没法一直哄着这个外星人开心\N{\fnArial\fs40\bord2}I can't keep this alien entertained forever.
+Dialogue: 0,0:19:51.54,0:19:53.94,Defualt,,0,0,0,,你早该提前修理的\N{\fnArial\fs40\bord2}You should have done of that...
+Dialogue: 0,0:19:53.94,0:19:55.96,Defualt,,0,0,0,,在你把它传过来之前\N{\fnArial\fs40\bord2}before you marauder him here.
+Dialogue: 0,0:19:55.96,0:19:57.38,Defualt,,0,0,0,,都是你的错\N{\fnArial\fs40\bord2}this is all your fault.
+Dialogue: 0,0:19:57.38,0:19:59.42,Defualt,,0,0,0,,我的错? 你在说什么\N{\fnArial\fs40\bord2}my fault? what you talking about?
+Dialogue: 0,0:19:59.42,0:20:03.14,Defualt,,0,0,0,,我要看到你说的维度传送装置\N{\fnArial\fs40\bord2}I wish to see the transdimensional portal device you spoke of.
+Dialogue: 0,0:20:03.14,0:20:04.12,Defualt,,0,0,0,,现在\N{\fnArial\fs40\bord2}Now.
+Dialogue: 0,0:20:04.12,0:20:06.14,Defualt,,0,0,0,,请稍等 先生\N{\fnArial\fs40\bord2}A moment, sir.
+Dialogue: 0,0:20:06.14,0:20:07.24,Defualt,,0,0,0,,克朗\N{\fnArial\fs40\bord2}crane.
+Dialogue: 0,0:20:07.24,0:20:09.40,Defualt,,0,0,0,,一切都准备好了\N{\fnArial\fs40\bord2}All is ready...
+Dialogue: 0,0:20:09.40,0:20:11.22,Defualt,,0,0,0,,强大的施莱德\N{\fnArial\fs40\bord2}...Mighty Shredder.
+Dialogue: 0,0:20:11.22,0:20:14.02,Defualt,,0,0,0,,就等你下令了\N{\fnArial\fs40\bord2}Just give the word.
+Dialogue: 0,0:20:14.02,0:20:18.15,Defualt,,0,0,0,,现在就执行 该死的的鼻涕虫\N{\fnArial\fs40\bord2}The word, you smug slug, is given.
+Dialogue: 0,0:20:28.84,0:20:30.98,Defualt,,0,0,0,,你\N{\fnArial\fs40\bord2}You...
+Dialogue: 0,0:20:46.08,0:20:50.24,Defualt,,0,0,0,,小家伙 你是在自掘坟墓\N{\fnArial\fs40\bord2}Little man, you have made a grave...
+Dialogue: 0,0:20:50.24,0:20:52.54,Defualt,,0,0,0,,坟墓...\N{\fnArial\fs40\bord2}a grave...
+Dialogue: 0,0:20:52.78,0:20:55.16,Defualt,,0,0,0,,坟...墓...\N{\fnArial\fs40\bord2}...a grave...
+Dialogue: 0,0:21:02.80,0:21:05.16,Defualt,,0,0,0,,我还以为他能帮我们打败乌龟\N{\fnArial\fs40\bord2}I thought he could help us defeat the Turtles
+Dialogue: 0,0:21:05.16,0:21:07.30,Defualt,,0,0,0,,但他...他疯了\N{\fnArial\fs40\bord2}but he-he's insane.
+Dialogue: 0,0:21:07.30,0:21:12.24,Defualt,,0,0,0,,说不定能学到点有用的东西\N{\fnArial\fs40\bord2}Perhaps we may still learn something useful di...
+Dialogue: 0,0:21:12.24,0:21:15.46,Defualt,,0,0,0,,如果解剖了它\N{\fnArial\fs40\bord2}...dissecting it?
+Dialogue: 0,0:21:15.46,0:21:17.00,Defualt,,0,0,0,,入侵者警报\N{\fnArial\fs40\bord2}Intruder alert.
+Dialogue: 0,0:21:17.00,0:21:18.48,Defualt,,0,0,0,,入侵者警报\N{\fnArial\fs40\bord2}Intruder alert.
+Dialogue: 0,0:21:18.48,0:21:20.93,Defualt,,0,0,0,,不会又是那些该死的乌龟吧\N{\fnArial\fs40\bord2}Not those blasted turtles again!
+Dialogue: 0,0:21:43.09,0:21:45.08,Defualt,,0,0,0,,我叫卡拉\N{\fnArial\fs40\bord2}I am called Karai.
+Dialogue: 0,0:21:46.38,0:21:49.04,Defualt,,0,0,0,,我是他的女儿\N{\fnArial\fs40\bord2}I am his daughter.
+Dialogue: 0,0:21:49.04,0:21:51.61,Defualt,,0,0,0,,看不出一点家族的相似之处\N{\fnArial\fs40\bord2}Not much of a family resemblance.
+Dialogue: 0,0:21:53.28,0:21:55.54,Defualt,,0,0,0,,你也想像他一样多嘴吗\N{\fnArial\fs40\bord2}Will you be a nuisance as well?
+Dialogue: 0,0:21:57.21,0:22:00.25,Defualt,,0,0,0,,不会的 迷人的女士\N{\fnArial\fs40\bord2}Never, charming lady!
+Dialogue: 0,0:22:00.25,0:22:03.80,Defualt,,0,0,0,,我费了很大的力气追踪父亲的信号\N{\fnArial\fs40\bord2}I have gone to great lengths to keep vigil over my father.
+Dialogue: 0,0:22:03.80,0:22:06.82,Defualt,,0,0,0,,但是今天 他从监控系统中消失了\N{\fnArial\fs40\bord2} But today he vanished from my monitoring systems.
+Dialogue: 0,0:22:06.82,0:22:09.18,Defualt,,0,0,0,,当我重新定位到他\N{\fnArial\fs40\bord2}When I was able to relocate him...
+Dialogue: 0,0:22:11.83,0:22:13.42,Defualt,,0,0,0,,竟然出现在这里\N{\fnArial\fs40\bord2}...he was here.
+Dialogue: 0,0:22:13.42,0:22:14.93,Defualt,,0,0,0,,这是怎么回事\N{\fnArial\fs40\bord2}How is this so?
+Dialogue: 0,0:22:15.93,0:22:17.96,Defualt,,0,0,0,,是...是...物质传送器\N{\fnArial\fs40\bord2}The m-m-matter transporter,
+Dialogue: 0,0:22:17.96,0:22:19.32,Defualt,,0,0,0,,我们把他传送过来的\N{\fnArial\fs40\bord2}we beamed him here.
+Dialogue: 0,0:22:21.24,0:22:24.97,Defualt,,0,0,0,,这项技术现在属于鬼脚帮了\N{\fnArial\fs40\bord2}This technology is now property of the foot.
+Dialogue: 0,0:22:25.91,0:22:28.22,Defualt,,0,0,0,,有了它 我将重铸父亲的荣耀\N{\fnArial\fs40\bord2}With it, I will restore my father,
+Dialogue: 0,0:22:28.22,0:22:31.18,Defualt,,0,0,0,,唯一正宗施莱德\N{\fnArial\fs40\bord2}the one true Shredder to glory!
+Dialogue: 0,0:22:31.18,0:22:32.64,Defualt,,0,0,0,,唯一正宗?\N{\fnArial\fs40\bord2}One true?
+Dialogue: 0,0:22:32.64,0:22:33.71,Defualt,,0,0,0,,你给我等...\N{\fnArial\fs40\bord2}Now wait just...
+Dialogue: 0,0:22:39.27,0:22:42.57,Defualt,,0,0,0,,你又把咱搅进了什么浑水\N{\fnArial\fs40\bord2}Another fine mess you've gotten us into.
+Dialogue: 0,0:22:42.86,0:22:44.25,Defualt,,0,0,0,,闭嘴吧你\N{\fnArial\fs40\bord2}oh, shut up.
+Dialogue: 0,0:22:52.20,0:22:53.34,Defualt,,0,0,0,,上面显示\N{\fnArial\fs40\bord2}According to this
+Dialogue: 0,0:22:53.34,0:22:55.44,Defualt,,0,0,0,,电子圆宫已经不远了\N{\fnArial\fs40\bord2}the Technodrome's close.
+Dialogue: 0,0:22:55.44,0:22:58.66,Defualt,,0,0,0,,干得好 孩子们\N{\fnArial\fs40\bord2}Wel done, my sons.
+Dialogue: 0,0:23:09.77,0:23:11.18,Defualt,,0,0,0,,大家还好吗\N{\fnArial\fs40\bord2}Everyone all right?
+Dialogue: 0,0:23:12.87,0:23:14.24,Defualt,,0,0,0,,什么情况\N{\fnArial\fs40\bord2}What the shell?
+Dialogue: 0,0:23:26.58,0:23:29.36,Defualt,,0,0,0,,带亲戚进城怎么不告诉我们一声\N{\fnArial\fs40\bord2}You didn't tell us you had family in town.
+Dialogue: 0,0:23:29.36,0:23:30.70,Defualt,,0,0,0,,你也没告诉我\N{\fnArial\fs40\bord2}And you didn't tell me
+Dialogue: 0,0:23:30.70,0:23:34.68,Defualt,,0,0,0,,你们的双胞兄弟带着超强诱变剂\N{\fnArial\fs40\bord2}your doubgangers were carrying super-powered mutagen.
+Dialogue: 0,0:23:35.02,0:23:37.18,Defualt,,0,0,0,,他在说什么\N{\fnArial\fs40\bord2}What's he talking about?
+Dialogue: 0,0:23:43.39,0:23:46.43,Defualt,,0,0,0,,那东西只洒了一点点在我手下身上\N{\fnArial\fs40\bord2}That stuff barely splattered my man here.
+Dialogue: 0,0:23:47.46,0:23:50.50,Defualt,,0,0,0,,想象一下 如果再多一点能做到什么\N{\fnArial\fs40\bord2}Imagine what I could do with more.
+Dialogue: 0,0:23:56.33,0:24:00.06,Defualt,,0,0,0,,把瓶子给我 你这个小怪胎\N{\fnArial\fs40\bord2}Give me those vials, you little freak.
+Dialogue: 0,0:24:00.84,0:24:01.63,Defualt,,0,0,0,,再见\N{\fnArial\fs40\bord2}See ya.
+Dialogue: 0,0:24:02.97,0:24:05.04,Defualt,,0,0,0,,嘿 大怪物\N{\fnArial\fs40\bord2}Hey! gruesome!
+Dialogue: 0,0:24:10.47,0:24:13.43,Defualt,,0,0,0,,鲸鱼喷水 老兄\N{\fnArial\fs40\bord2}Like, there she blows dude.
+Dialogue: 0,0:24:15.01,0:24:16.42,Defualt,,0,0,0,,笑死我了\N{\fnArial\fs40\bord2}I cracked me up.
+Dialogue: 0,0:24:18.70,0:24:20.82,Defualt,,0,0,0,,坏狗狗 蹲下 快蹲下\N{\fnArial\fs40\bord2}Bad dogy! Down! Down, boy!
+Dialogue: 0,0:24:25.49,0:24:26.99,Defualt,,0,0,0,,让一让 借过\N{\fnArial\fs40\bord2}Gangway! coming through!
+Dialogue: 0,0:24:37.43,0:24:39.35,Defualt,,0,0,0,,把诱变剂给我\N{\fnArial\fs40\bord2}Give me that mutagen.
+Dialogue: 0,0:24:39.35,0:24:41.18,Defualt,,0,0,0,,想得美\N{\fnArial\fs40\bord2}I don't think so.
+Dialogue: 0,0:24:52.94,0:24:54.96,Defualt,,0,0,0,,李奥\N{\fnArial\fs40\bord2}Leo!
+Dialogue: 0,0:24:54.96,0:24:56.33,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:24:59.51,0:25:01.43,Defualt,,0,0,0,,炮弹来了\N{\fnArial\fs40\bord2}Incoming!
+Dialogue: 0,0:25:10.50,0:25:12.53,Defualt,,0,0,0,,父亲 你没事吧\N{\fnArial\fs40\bord2}Father! Are you all right?
+Dialogue: 0,0:25:12.53,0:25:15.58,Defualt,,0,0,0,,我...没事\N{\fnArial\fs40\bord2}I... believe so.
+Dialogue: 0,0:25:15.90,0:25:17.80,Defualt,,0,0,0,,"父亲"\N{\fnArial\fs40\bord2}"Father"?
+Dialogue: 0,0:25:17.80,0:25:19.30,Defualt,,0,0,0,,我们得把你送回老巢\N{\fnArial\fs40\bord2}We need to get you back to the lair.
+Dialogue: 0,0:25:20.09,0:25:21.79,Defualt,,0,0,0,,兄弟们 下水道时间到了\N{\fnArial\fs40\bord2}Time to hit the sewers, my brothers!
+Dialogue: 0,0:25:21.79,0:25:22.75,Defualt,,0,0,0,,好的\N{\fnArial\fs40\bord2}Yeah! All right!
+Dialogue: 0,0:25:24.78,0:25:28.63,Defualt,,0,0,0,,你们维度的井盖重多了\N{\fnArial\fs40\bord2}These things are a lot heavier in your dimension.
+Dialogue: 0,0:25:28.95,0:25:31.43,Defualt,,0,0,0,,别挡道 胖子\N{\fnArial\fs40\bord2}Out of the way, tubby!
+Dialogue: 0,0:25:31.43,0:25:34.42,Defualt,,0,0,0,,好了 大家都到池子里去\N{\fnArial\fs40\bord2}All right, everybody into the pool.
+Dialogue: 0,0:25:34.42,0:25:36.97,Defualt,,0,0,0,,噗 你们的下水道真臭\N{\fnArial\fs40\bord2}P.U.! Your sewers really stink!
+Dialogue: 0,0:25:36.97,0:25:38.86,Defualt,,0,0,0,,嗯 你们又没有鼻孔\N{\fnArial\fs40\bord2}Um, you don't have any nostrils.
+Dialogue: 0,0:25:38.86,0:25:39.60,Defualt,,0,0,0,,被你说中了\N{\fnArial\fs40\bord2}Touché.
+Dialogue: 0,0:25:39.60,0:25:40.66,Defualt,,0,0,0,,呀\N{\fnArial\fs40\bord2}Yeah!
+Dialogue: 0,0:25:40.66,0:25:43.03,Defualt,,0,0,0,,嘿 电子圆宫怎么办\N{\fnArial\fs40\bord2}Hey. What about the Technodrome?
+Dialogue: 0,0:25:43.03,0:25:46.15,Defualt,,0,0,0,,那个大货箱的速度还没你们快\N{\fnArial\fs40\bord2}That crate moves about as fast as you guys.
+Dialogue: 0,0:25:46.15,0:25:47.65,Defualt,,0,0,0,,我们会追上的\N{\fnArial\fs40\bord2}We'll catch up to it.
+Dialogue: 0,0:25:47.65,0:25:48.35,Defualt,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey!
+Dialogue: 0,0:26:03.36,0:26:05.46,Defualt,,0,0,0,,哈 我的了\N{\fnArial\fs40\bord2}Ha! Mine!
+Dialogue: 0,0:26:05.46,0:26:07.98,Defualt,,0,0,0,,韩又赢了\N{\fnArial\fs40\bord2}Hun wins again!
+Dialogue: 0,0:26:07.98,0:26:11.39,Defualt,,0,0,0,,嗯 你可能得看仔细点 赢家先生\N{\fnArial\fs40\bord2}Um, you might want to take a closer look, Mr. Winner.
+Dialogue: 0,0:26:24.40,0:26:27.39,Defualt,,0,0,0,,把这脏东西拿开\N{\fnArial\fs40\bord2}Get this crud off!
+Dialogue: 0,0:26:27.39,0:26:29.56,Defualt,,0,0,0,,还是不要保持联系了\N{\fnArial\fs40\bord2}Let's not stay in touch.
+Dialogue: 0,0:26:30.30,0:26:32.70,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No...!
+Dialogue: 0,0:26:32.70,0:26:34.29,Defualt,,0,0,0,,把它从我身上拿开\N{\fnArial\fs40\bord2}Get it off me!
+Dialogue: 0,0:26:34.29,0:26:37.78,Defualt,,0,0,0,,快拿开\N{\fnArial\fs40\bord2}Get it off me...!
+Dialogue: 0,0:27:06.90,0:27:08.60,Defualt,,0,0,0,,韩\N{\fnArial\fs40\bord2}Hun...
+Dialogue: 0,0:27:08.60,0:27:12.43,Defualt,,0,0,0,,我的老朋友\N{\fnArial\fs40\bord2}my old friend.
+Dialogue: 0,0:27:14.03,0:27:15.23,Defualt,,0,0,0,,你\N{\fnArial\fs40\bord2}You!
+Dialogue: 0,0:27:15.56,0:27:18.03,Defualt,,0,0,0,,今天过得不顺吗\N{\fnArial\fs40\bord2}Having a bad day?
+Dialogue: 0,0:27:19.70,0:27:22.41,Defualt,,0,0,0,,看看他们对我做了什么\N{\fnArial\fs40\bord2}Look what they've done to me!
+Dialogue: 0,0:27:22.41,0:27:24.73,Defualt,,0,0,0,,该死的的乌龟\N{\fnArial\fs40\bord2}Accursed Turtles!
+Dialogue: 0,0:27:24.73,0:27:29.18,Defualt,,0,0,0,,也许我们又一次有了共同的目标\N{\fnArial\fs40\bord2}Perhaps we have common cause once again, you and I.
+Dialogue: 0,0:27:29.18,0:27:31.40,Defualt,,0,0,0,,好吗\N{\fnArial\fs40\bord2}Yes?
+Dialogue: 0,0:27:33.10,0:27:36.87,Defualt,,0,0,0,,好的...主人\N{\fnArial\fs40\bord2}Yes... master.
+Dialogue: 0,0:27:53.02,0:27:54.79,Defualt,,0,0,0,,我不明白\N{\fnArial\fs40\bord2}I don't understand it.
+Dialogue: 0,0:27:54.79,0:27:57.14,Defualt,,0,0,0,,追踪系统正在逼近\N{\fnArial\fs40\bord2}The tracking system was closing in
+Dialogue: 0,0:27:57.14,0:27:58.19,Defualt,,0,0,0,,然后突然\N{\fnArial\fs40\bord2}and then suddenly
+Dialogue: 0,0:27:58.19,0:27:59.78,Defualt,,0,0,0,,噗的一下 没信号了\N{\fnArial\fs40\bord2}poof!-- static.
+Dialogue: 0,0:27:59.78,0:28:02.16,Defualt,,0,0,0,,就像电子圆宫消失了一样\N{\fnArial\fs40\bord2}It's like the Technodrome disappeared.
+Dialogue: 0,0:28:02.16,0:28:03.95,Defualt,,0,0,0,,谁知道我们接下来该做什么\N{\fnArial\fs40\bord2}Any idea what we should do next?
+Dialogue: 0,0:28:04.60,0:28:07.36,Defualt,,0,0,0,,我! 我! 我知道! 我知道!\N{\fnArial\fs40\bord2}Me! Me! I know! I know!
+Dialogue: 0,0:28:07.36,0:28:09.50,Defualt,,0,0,0,,除了出去吃一顿披萨以外\N{\fnArial\fs40\bord2}Other than going out for a slice?
+Dialogue: 0,0:28:12.50,0:28:15.67,Defualt,,0,0,0,,我早就说过 没办法和这些呆瓜一起头脑风暴\N{\fnArial\fs40\bord2}I told you, you can't brainstorm with these goofballs.
+Dialogue: 0,0:28:15.67,0:28:17.60,Defualt,,0,0,0,,他们根本没有头脑\N{\fnArial\fs40\bord2}They ain't got no brains!
+Dialogue: 0,0:28:17.60,0:28:20.19,Defualt,,0,0,0,,嘿 我们同意你的说法\N{\fnArial\fs40\bord2}Hey! We resemble that remark.
+Dialogue: 0,0:28:22.06,0:28:24.74,Defualt,,0,0,0,,说得好 伙计\N{\fnArial\fs40\bord2}Good one, dude!
+Dialogue: 0,0:28:42.80,0:28:47.17,Defualt,,0,0,0,,我的个维度X啊 你们到底在干什么\N{\fnArial\fs40\bord2}What's in the name of Dimension x do you think you're doing?
+Dialogue: 0,0:28:47.76,0:28:51.30,Defualt,,0,0,0,,那个控制台花了我很多钱的\N{\fnArial\fs40\bord2}I paid a fortune for that console.
+Dialogue: 0,0:28:52.33,0:28:55.13,Defualt,,0,0,0,,还有你 都弄得掉漆了\N{\fnArial\fs40\bord2}and you're ruining the paint job.
+Dialogue: 0,0:28:55.13,0:28:57.71,Defualt,,0,0,0,,别再抱怨了 克朗\N{\fnArial\fs40\bord2}Silence your incessant whining, crane.
+Dialogue: 0,0:28:57.71,0:28:59.39,Defualt,,0,0,0,,我的分身只不过是在\N{\fnArial\fs40\bord2}My counterpart is simply
+Dialogue: 0,0:28:59.39,0:29:01.53,Defualt,,0,0,0,,给这地方做点恰当的改装\N{\fnArial\fs40\bord2}giving this tub a much needed refit.
+Dialogue: 0,0:29:01.53,0:29:04.63,Defualt,,0,0,0,,在我看来 他的做法十分慷慨\N{\fnArial\fs40\bord2}Very generous of him if you ask me.
+Dialogue: 0,0:29:04.63,0:29:07.78,Defualt,,0,0,0,,显然是在报答我救了他\N{\fnArial\fs40\bord2}No doubt he wishes to repay me for rescuing him.
+Dialogue: 0,0:29:14.03,0:29:15.73,Defualt,,0,0,0,,我的座位\N{\fnArial\fs40\bord2}My command chair.
+Dialogue: 0,0:29:18.58,0:29:23.40,Defualt,,0,0,0,,醒醒吧 笨蛋 我们有了新老大\N{\fnArial\fs40\bord2}Face it, fool. We're under new management.
+Dialogue: 0,0:29:25.04,0:29:27.33,Defualt,,0,0,0,,装修得怎么样了 卡拉\N{\fnArial\fs40\bord2}How go the repairs, Karai?
+Dialogue: 0,0:29:27.33,0:29:29.03,Defualt,,0,0,0,,很好 父亲\N{\fnArial\fs40\bord2}Very well, Father.
+Dialogue: 0,0:29:29.03,0:29:32.91,Defualt,,0,0,0,,X维度的技术非常荒谬\N{\fnArial\fs40\bord2}The technology of Dimension X is ridiculous
+Dialogue: 0,0:29:32.91,0:29:35.20,Defualt,,0,0,0,,但是经过乌特罗姆科技改进之后\N{\fnArial\fs40\bord2}but once revised with Utrom science
+Dialogue: 0,0:29:35.20,0:29:37.29,Defualt,,0,0,0,,将会有巨大的威力\N{\fnArial\fs40\bord2}it will prove devastating.
+Dialogue: 0,0:29:37.58,0:29:40.86,Defualt,,0,0,0,,是的 两者融合得很好\N{\fnArial\fs40\bord2}Yes, the two merge well together.
+Dialogue: 0,0:29:40.86,0:29:43.72,Defualt,,0,0,0,,这具新身体就是证明\N{\fnArial\fs40\bord2}This new body is proof of that.
+Dialogue: 0,0:29:44.03,0:29:45.56,Defualt,,0,0,0,,还有更多证据\N{\fnArial\fs40\bord2}And more proof
+Dialogue: 0,0:29:45.56,0:29:47.66,Defualt,,0,0,0,,他们的机器步兵\N{\fnArial\fs40\bord2}their robotic Foot Soldiers.
+Dialogue: 0,0:29:47.66,0:29:49.21,Defualt,,0,0,0,,笨拙 软弱\N{\fnArial\fs40\bord2}Clumsy, weak,
+Dialogue: 0,0:29:49.21,0:29:52.81,Defualt,,0,0,0,,几乎...如同卡通\N{\fnArial\fs40\bord2}almost......cartoonish.
+Dialogue: 0,0:29:53.31,0:29:54.63,Defualt,,0,0,0,,但现在\N{\fnArial\fs40\bord2}But now...
+Dialogue: 0,0:29:54.63,0:29:58.33,Defualt,,0,0,0,,经过适当修改后\N{\fnArial\fs40\bord2}with the proper modifications--...
+Dialogue: 0,0:29:58.33,0:30:00.06,Defualt,,0,0,0,,十分致命\N{\fnArial\fs40\bord2}...lethal!
+Dialogue: 0,0:30:00.06,0:30:02.46,Defualt,,0,0,0,,我们的人力部队也得到了升级\N{\fnArial\fs40\bord2}Our human troops have also been upgraded.
+Dialogue: 0,0:30:02.46,0:30:05.33,Defualt,,0,0,0,,通过分析感染了韩的诱变剂\N{\fnArial\fs40\bord2}By analyzing the mutagen that infected Hun,
+Dialogue: 0,0:30:05.33,0:30:09.68,Defualt,,0,0,0,,我们成功设计出了自己的变种人军队\N{\fnArial\fs40\bord2}we have successfully engineered our own mutant army!
+Dialogue: 0,0:30:14.47,0:30:18.16,Defualt,,0,0,0,,很快我就会让这个世界屈服\N{\fnArial\fs40\bord2}Soon I will bring this world to its knees!
+Dialogue: 0,0:30:18.16,0:30:18.93,Defualt,,0,0,0,,然后\N{\fnArial\fs40\bord2}And then...
+Dialogue: 0,0:30:18.93,0:30:20.13,Defualt,,0,0,0,,等等 站住!\N{\fnArial\fs40\bord2}Wait! Stop!
+Dialogue: 0,0:30:20.13,0:30:22.26,Defualt,,0,0,0,,把我的指挥椅搬回来\N{\fnArial\fs40\bord2}Come back here with my command chair!
+Dialogue: 0,0:30:22.26,0:30:24.46,Defualt,,0,0,0,,这是命令\N{\fnArial\fs40\bord2}That's an order!
+Dialogue: 0,0:30:24.46,0:30:30.26,Defualt,,0,0,0,,之后 也许轮到我那废物分身的世界\N{\fnArial\fs40\bord2}And then, perhaps, the world of my worthless counterpart.
+Dialogue: 0,0:30:30.67,0:30:33.86,Defualt,,0,0,0,,无限的可能性已经向我敞开\N{\fnArial\fs40\bord2}Infinite possibilities have been opened to me
+Dialogue: 0,0:30:33.86,0:30:36.93,Defualt,,0,0,0,,多亏了这个电子圆宫\N{\fnArial\fs40\bord2}thanks to this Technodrome.
+Dialogue: 0,0:30:38.40,0:30:41.87,Defualt,,0,0,0,,我将统治多元宇宙 卡拉\N{\fnArial\fs40\bord2}I shall rule the multiverse, Karai.
+Dialogue: 0,0:30:46.33,0:30:47.70,Defualt,,0,0,0,,电脑\N{\fnArial\fs40\bord2}Computer...
+Dialogue: 0,0:30:47.70,0:30:49.45,Defualt,,0,0,0,,这是施莱德\N{\fnArial\fs40\bord2}This is the Shredder.
+Dialogue: 0,0:30:49.45,0:30:52.33,Defualt,,0,0,0,,身份确认 已识别施莱德\N{\fnArial\fs40\bord2}Identity confirmed. recognize Shredder.
+Dialogue: 0,0:30:52.33,0:30:56.12,Defualt,,0,0,0,,迟瑞尔 小禄崎 阿库拉公爵 毁灭者\N{\fnArial\fs40\bord2}Ch'rell. Oroku Saki. Duke Acureds. Destroyer of...
+Dialogue: 0,0:30:56.12,0:30:57.71,Defualt,,0,0,0,,电脑\N{\fnArial\fs40\bord2}computer,
+Dialogue: 0,0:30:57.71,0:31:02.21,Defualt,,0,0,0,,我对这个"传送门"的潜力很感兴趣\N{\fnArial\fs40\bord2}i am most intrigued of the implication of this... portal.
+Dialogue: 0,0:31:02.21,0:31:05.82,Defualt,,0,0,0,,我想知道其它维度的知识\N{\fnArial\fs40\bord2}I wish to learn about alternate dimensions.
+Dialogue: 0,0:31:05.82,0:31:09.13,Defualt,,0,0,0,,告诉我..所有的一切\N{\fnArial\fs40\bord2}Show me... everything!
+Dialogue: 0,0:31:16.95,0:31:18.77,Defualt,,0,0,0,,拜托 拉斐尔 高兴点\N{\fnArial\fs40\bord2}Come on, raph, lighting up.
+Dialogue: 0,0:31:18.77,0:31:22.30,Defualt,,0,0,0,,我们的卡哇邦嘎表亲没那么坏 对吧 伙计们\N{\fnArial\fs40\bord2}our Cowabunga cousins aren't so bad, right, guys?
+Dialogue: 0,0:31:22.86,0:31:24.23,Defualt,,0,0,0,,戳耳朵\N{\fnArial\fs40\bord2}Wet willy!
+Dialogue: 0,0:31:24.23,0:31:25.26,Defualt,,0,0,0,,你们抓到我了\N{\fnArial\fs40\bord2}you got me.
+Dialogue: 0,0:31:25.26,0:31:27.30,Defualt,,0,0,0,,不错? 他们就是来搞笑的\N{\fnArial\fs40\bord2}not bad? They are clown.
+Dialogue: 0,0:31:27.30,0:31:28.60,Defualt,,0,0,0,,根本不是忍者\N{\fnArial\fs40\bord2}Not ninjas.
+Dialogue: 0,0:31:29.60,0:31:30.97,Defualt,,0,0,0,,什么?\N{\fnArial\fs40\bord2}Yeah?
+Dialogue: 0,0:31:30.97,0:31:32.09,Defualt,,0,0,0,,没错\N{\fnArial\fs40\bord2}yeah.
+Dialogue: 0,0:31:34.20,0:31:36.90,Defualt,,0,0,0,,够了 别吵架了\N{\fnArial\fs40\bord2}Enough, stop this, bickering.
+Dialogue: 0,0:31:36.90,0:31:39.71,Defualt,,0,0,0,,这正是敌人想让你们做的\N{\fnArial\fs40\bord2}You only do your enemy's work for him.
+Dialogue: 0,0:31:39.71,0:31:41.46,Defualt,,0,0,0,,你们是忍者\N{\fnArial\fs40\bord2}You are Ninja.
+Dialogue: 0,0:31:41.46,0:31:42.78,Defualt,,0,0,0,,你们全都是\N{\fnArial\fs40\bord2}All of you.
+Dialogue: 0,0:31:42.78,0:31:45.16,Defualt,,0,0,0,,这里欢迎你们所有人\N{\fnArial\fs40\bord2}And all are welcome here.
+Dialogue: 0,0:31:48.83,0:31:52.40,Defualt,,0,0,0,,别让你的老师难堪\N{\fnArial\fs40\bord2}Do not embarrass your Sensei.
+Dialogue: 0,0:31:57.03,0:31:59.64,Defualt,,0,0,0,,他也许长得不像我们的斯普林特\N{\fnArial\fs40\bord2}He may not look exactly like our Splinter,
+Dialogue: 0,0:31:59.64,0:32:01.46,Defualt,,0,0,0,,但说起话来很像他\N{\fnArial\fs40\bord2}but he sure sounds like him.
+Dialogue: 0,0:32:01.46,0:32:03.16,Defualt,,0,0,0,,那个...\N{\fnArial\fs40\bord2}Yeah.
+Dialogue: 0,0:32:03.16,0:32:05.38,Defualt,,0,0,0,,抱歉刚才那样说你们\N{\fnArial\fs40\bord2}Sorry about the clown crack.
+Dialogue: 0,0:32:05.38,0:32:06.36,Defualt,,0,0,0,,听着 伙计们\N{\fnArial\fs40\bord2}Listen, guys,
+Dialogue: 0,0:32:06.36,0:32:07.72,Defualt,,0,0,0,,我们已经对付过施莱德\N{\fnArial\fs40\bord2}we've tangled with Shred-head
+Dialogue: 0,0:32:07.72,0:32:09.61,Defualt,,0,0,0,,和他的电子圆宫很多次了\N{\fnArial\fs40\bord2}and his Technodrome plenty of times.
+Dialogue: 0,0:32:09.61,0:32:11.55,Defualt,,0,0,0,,事实上 在我们家里就有各种\N{\fnArial\fs40\bord2}In fact, we got all kinds of special
+Dialogue: 0,0:32:11.55,0:32:13.59,Defualt,,0,0,0,,反电子圆宫的装备\N{\fnArial\fs40\bord2}anti-Technodrome gear back home
+Dialogue: 0,0:32:13.59,0:32:15.67,Defualt,,0,0,0,,专门为这样的情况准备的\N{\fnArial\fs40\bord2}for just such an occasion.
+Dialogue: 0,0:32:15.67,0:32:18.06,Defualt,,0,0,0,,特制的反电子圆宫装备\N{\fnArial\fs40\bord2}Special anti-Technodrome gear?
+Dialogue: 0,0:32:18.06,0:32:20.23,Defualt,,0,0,0,,当然 但是正如李奥纳多所说\N{\fnArial\fs40\bord2}Certainly, but like Leonardo said
+Dialogue: 0,0:32:20.23,0:32:21.56,Defualt,,0,0,0,,它们都在我们维度的家里\N{\fnArial\fs40\bord2}it's back in our home dimension.
+Dialogue: 0,0:32:21.56,0:32:25.26,Defualt,,0,0,0,,我们需要造一个维度传送杆之类的东西才行\N{\fnArial\fs40\bord2}We'll need to build some kind of transdimensional portal stick to get there
+Dialogue: 0,0:32:25.26,0:32:27.12,Defualt,,0,0,0,,一个通往其他维度的大门\N{\fnArial\fs40\bord2}a gateway into other dimensions
+Dialogue: 0,0:32:27.12,0:32:30.56,Defualt,,0,0,0,,而且足够小 可以装进大部分行李舱\N{\fnArial\fs40\bord2}but small enough to fit into most overhead compartments.
+Dialogue: 0,0:32:31.15,0:32:33.02,Defualt,,0,0,0,,唐尼 他说的这个东西\N{\fnArial\fs40\bord2}Donni, whatever he's talking about
+Dialogue: 0,0:32:33.02,0:32:34.26,Defualt,,0,0,0,,能做出来吗\N{\fnArial\fs40\bord2}can it be done?
+Dialogue: 0,0:32:34.26,0:32:37.86,Defualt,,0,0,0,,我们见过时间旅行窗口 赛博空间传送器\N{\fnArial\fs40\bord2}We've seen time-travel windows, cybermat transporters--
+Dialogue: 0,0:32:37.86,0:32:40.90,Defualt,,0,0,0,,但是一根棍子里的维度传送门?\N{\fnArial\fs40\bord2}but a dimensional portal in a stick?
+Dialogue: 0,0:32:40.90,0:32:43.83,Defualt,,0,0,0,,听起来..挺傻的\N{\fnArial\fs40\bord2}It sounds... well, silly.
+Dialogue: 0,0:32:43.83,0:32:44.93,Defualt,,0,0,0,,无意冒犯\N{\fnArial\fs40\bord2}No offense.
+Dialogue: 0,0:32:44.93,0:32:46.27,Defualt,,0,0,0,,来吧 巫师先生\N{\fnArial\fs40\bord2}Come on, Mr. Wizard.
+Dialogue: 0,0:32:46.27,0:32:48.35,Defualt,,0,0,0,,这会很容易的\N{\fnArial\fs40\bord2}It'll be easy.
+Dialogue: 0,0:32:54.63,0:32:57.16,Defualt,,0,0,0,,不是只有你一个人\N{\fnArial\fs40\bord2}You're not the only one who needs to use
+Dialogue: 0,0:32:57.16,0:32:59.46,Defualt,,0,0,0,,需要用维度传送门 你知道吗\N{\fnArial\fs40\bord2}the transdimensional portal you know.
+Dialogue: 0,0:32:59.46,0:33:00.72,Defualt,,0,0,0,,开门\N{\fnArial\fs40\bord2}Open up!
+Dialogue: 0,0:33:00.72,0:33:03.82,Defualt,,0,0,0,,你在里面干嘛呢\N{\fnArial\fs40\bord2}What are you doing in there anyway?
+Dialogue: 0,0:33:06.24,0:33:08.00,Defualt,,0,0,0,,我的身体\N{\fnArial\fs40\bord2}My body!
+Dialogue: 0,0:33:08.50,0:33:10.10,Defualt,,0,0,0,,傲慢的鼻涕虫\N{\fnArial\fs40\bord2}Insolent slug.
+Dialogue: 0,0:33:10.10,0:33:13.26,Defualt,,0,0,0,,施莱德要做什么是他自己的事\N{\fnArial\fs40\bord2}The Shredder's business is his and his alone.
+Dialogue: 0,0:33:13.26,0:33:16.13,Defualt,,0,0,0,,你再别想去打扰他\N{\fnArial\fs40\bord2}Do not seek to interrupt him again.
+Dialogue: 0,0:33:18.65,0:33:19.76,Defualt,,0,0,0,,父亲 怎么了\N{\fnArial\fs40\bord2}Father, what is it?
+Dialogue: 0,0:33:19.76,0:33:20.73,Defualt,,0,0,0,,发生什么了\N{\fnArial\fs40\bord2}What's wrong?
+Dialogue: 0,0:33:20.73,0:33:23.02,Defualt,,0,0,0,,你在里面看到了什么\N{\fnArial\fs40\bord2}What did you see in there?
+Dialogue: 0,0:33:23.02,0:33:25.00,Defualt,,0,0,0,,乌龟 卡拉\N{\fnArial\fs40\bord2}Turtles, Karai.
+Dialogue: 0,0:33:25.00,0:33:27.26,Defualt,,0,0,0,,忍者神龟\N{\fnArial\fs40\bord2}Ninja Turtles.
+Dialogue: 0,0:33:27.26,0:33:30.15,Defualt,,0,0,0,,我需要获得他们 两个队伍都要\N{\fnArial\fs40\bord2}I must have them-- both teams.
+Dialogue: 0,0:33:30.15,0:33:31.20,Defualt,,0,0,0,,立刻就要\N{\fnArial\fs40\bord2}At once.
+Dialogue: 0,0:33:31.20,0:33:34.16,Defualt,,0,0,0,,是的 复仇时刻终于来了\N{\fnArial\fs40\bord2}Yes, revenge at last!
+Dialogue: 0,0:33:34.16,0:33:35.53,Defualt,,0,0,0,,我就知道你会挺过来的\N{\fnArial\fs40\bord2}I knew you'd come through.
+Dialogue: 0,0:33:35.53,0:33:38.22,Defualt,,0,0,0,,我们可以一起摧毁乌龟\N{\fnArial\fs40\bord2}Together we can crush the Turt...
+Dialogue: 0,0:33:39.35,0:33:40.91,Defualt,,0,0,0,,韩\N{\fnArial\fs40\bord2}Hun!
+Dialogue: 0,0:33:44.63,0:33:47.26,Defualt,,0,0,0,,今晚你要去狩猎\N{\fnArial\fs40\bord2}Tonight you hunt.
+Dialogue: 0,0:33:47.26,0:33:52.00,Defualt,,0,0,0,,找到对你做了这一切的人 把他们带给我\N{\fnArial\fs40\bord2}Find those who did this to you and bring them to me.
+Dialogue: 0,0:33:52.00,0:33:54.83,Defualt,,0,0,0,,我会做到的 主人\N{\fnArial\fs40\bord2}It will be done, Master.
+Dialogue: 0,0:33:57.20,0:34:00.14,Defualt,,0,0,0,,好的 退后\N{\fnArial\fs40\bord2}Okay, stand back.
+Dialogue: 0,0:34:08.80,0:34:10.20,Defualt,,0,0,0,,应该管用的呀\N{\fnArial\fs40\bord2}That should have worked.
+Dialogue: 0,0:34:10.20,0:34:12.56,Defualt,,0,0,0,,应该管用? 这玩意不可能管用\N{\fnArial\fs40\bord2}Should have worked? That'll never work.
+Dialogue: 0,0:34:12.56,0:34:14.96,Defualt,,0,0,0,,这根本不是一个维度传送杆\N{\fnArial\fs40\bord2}That's not a transdimensional portal stick.
+Dialogue: 0,0:34:14.96,0:34:18.28,Defualt,,0,0,0,,这就是一个...手电筒\N{\fnArial\fs40\bord2}That's... a flashlight.
+Dialogue: 0,0:34:18.28,0:34:20.20,Defualt,,0,0,0,,它曾经是一个手电筒\N{\fnArial\fs40\bord2}It was a flashlight.
+Dialogue: 0,0:34:20.20,0:34:21.73,Defualt,,0,0,0,,但只需稍微重新布线\N{\fnArial\fs40\bord2}But with a little rewiring
+Dialogue: 0,0:34:21.73,0:34:24.20,Defualt,,0,0,0,,再加上许多乐观的想法\N{\fnArial\fs40\bord2}and a lot more positive thinking
+Dialogue: 0,0:34:24.20,0:34:27.16,Defualt,,0,0,0,,它很快就会成为一根维度传送杆\N{\fnArial\fs40\bord2}it'll soon be a transdimensional portal stick.
+Dialogue: 0,0:34:27.16,0:34:29.10,Defualt,,0,0,0,,现在把锤子递给我\N{\fnArial\fs40\bord2}Now hand me that hammer.
+Dialogue: 0,0:34:29.10,0:34:31.58,Defualt,,0,0,0,,这是一把扳手\N{\fnArial\fs40\bord2}This is a wrench.
+Dialogue: 0,0:34:31.58,0:34:32.90,Defualt,,0,0,0,,无关紧要\N{\fnArial\fs40\bord2}Details.
+Dialogue: 0,0:34:32.90,0:34:35.72,Defualt,,0,0,0,,科学不一定全靠事实 你知道吗\N{\fnArial\fs40\bord2}Science isn't all about facts, you know.
+Dialogue: 0,0:34:43.81,0:34:45.80,Defualt,,0,0,0,,什么情况\N{\fnArial\fs40\bord2}What the shell?
+Dialogue: 0,0:34:46.71,0:34:50.56,Defualt,,0,0,0,,乌龟们\N{\fnArial\fs40\bord2}Turtles!
+Dialogue: 0,0:34:50.56,0:34:52.26,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:34:52.26,0:34:53.83,Defualt,,0,0,0,,他们怎么找到我们的\N{\fnArial\fs40\bord2}How'd they find us?
+Dialogue: 0,0:34:53.83,0:34:56.76,Defualt,,0,0,0,,他们跟着鼻子走\N{\fnArial\fs40\bord2}They followed their nose.
+Dialogue: 0,0:34:56.76,0:34:59.42,Defualt,,0,0,0,,鼻子知道\N{\fnArial\fs40\bord2}The nose knows.
+Dialogue: 0,0:35:02.74,0:35:05.90,Defualt,,0,0,0,,是谁敢来扰乱我们家的宁静\N{\fnArial\fs40\bord2}Who disturbs the sanctity of my home?
+Dialogue: 0,0:35:06.16,0:35:09.96,Defualt,,0,0,0,,认不出我了吗 啮齿动物\N{\fnArial\fs40\bord2}Don't you recognize me, rodent?
+Dialogue: 0,0:35:09.96,0:35:11.17,Defualt,,0,0,0,,韩\N{\fnArial\fs40\bord2}Hun?
+Dialogue: 0,0:35:11.17,0:35:14.75,Defualt,,0,0,0,,来看看你儿子们的杰作吧\N{\fnArial\fs40\bord2}Come examine your son's handiwork.
+Dialogue: 0,0:35:23.36,0:35:25.51,Defualt,,0,0,0,,已经到中午了吗\N{\fnArial\fs40\bord2}Is it noon already?
+Dialogue: 0,0:35:42.45,0:35:44.62,Defualt,,0,0,0,,机器人2.0\N{\fnArial\fs40\bord2}Robots 2.0?
+Dialogue: 0,0:35:52.40,0:35:54.63,Defualt,,0,0,0,,你的新造型是怎么回事 大怪物\N{\fnArial\fs40\bord2}So what's with the new look, Gruesome?
+Dialogue: 0,0:35:54.63,0:35:59.10,Defualt,,0,0,0,,诱变剂把我变成了我最后碰过的东西\N{\fnArial\fs40\bord2}That mutagen turned me into the last thing I touched.
+Dialogue: 0,0:35:59.10,0:36:01.80,Defualt,,0,0,0,,肮脏的变种乌龟\N{\fnArial\fs40\bord2}Mutant Turtle filth!
+Dialogue: 0,0:36:01.80,0:36:02.76,Defualt,,0,0,0,,他说的不对\N{\fnArial\fs40\bord2}It's not true.
+Dialogue: 0,0:36:02.76,0:36:04.96,Defualt,,0,0,0,,我们定期洗澡的\N{\fnArial\fs40\bord2}We shower regularly.
+Dialogue: 0,0:36:10.41,0:36:11.93,Defualt,,0,0,0,,你来这里干什么 韩\N{\fnArial\fs40\bord2}Why are you here, Hun?
+Dialogue: 0,0:36:11.93,0:36:13.23,Defualt,,0,0,0,,你想要什么\N{\fnArial\fs40\bord2}What do you want?
+Dialogue: 0,0:36:13.23,0:36:16.70,Defualt,,0,0,0,,你们还真是一无所知\N{\fnArial\fs40\bord2}You have no idea what this is about, do you?
+Dialogue: 0,0:36:16.70,0:36:20.53,Defualt,,0,0,0,,你们甚至不知道他回来了\N{\fnArial\fs40\bord2}You don't even know he's back.
+Dialogue: 0,0:36:20.53,0:36:21.62,Defualt,,0,0,0,,他?\N{\fnArial\fs40\bord2}He?
+Dialogue: 0,0:36:21.62,0:36:25.03,Defualt,,0,0,0,,真正的施莱德\N{\fnArial\fs40\bord2}The one true Shredder.
+Dialogue: 0,0:36:55.26,0:36:57.36,Defualt,,0,0,0,,斯普林特老师\N{\fnArial\fs40\bord2}Master Splinter!
+Dialogue: 0,0:37:11.04,0:37:12.48,Defualt,,0,0,0,,刚刚发生了什么\N{\fnArial\fs40\bord2}What just happened?
+Dialogue: 0,0:37:12.48,0:37:14.16,Defualt,,0,0,0,,斯普林特老师在哪里\N{\fnArial\fs40\bord2}Where's Master Splinter?
+Dialogue: 0,0:37:17.43,0:37:19.40,Defualt,,0,0,0,,我们在哪里\N{\fnArial\fs40\bord2}Where are we?
+Dialogue: 0,0:37:21.25,0:37:22.96,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:37:22.96,0:37:24.03,Defualt,,0,0,0,,伙计们\N{\fnArial\fs40\bord2}Dudes!
+Dialogue: 0,0:37:24.03,0:37:25.23,Defualt,,0,0,0,,好唉\N{\fnArial\fs40\bord2}Yeah! All right!
+Dialogue: 0,0:37:25.23,0:37:26.76,Defualt,,0,0,0,,我们到家了\N{\fnArial\fs40\bord2}We're home!
+Dialogue: 0,0:37:30.40,0:37:31.23,Defualt,,0,0,0,,什么\N{\fnArial\fs40\bord2}What?
+Dialogue: 0,0:37:31.23,0:37:33.23,Defualt,,0,0,0,,这就是你们的维度?\N{\fnArial\fs40\bord2}This is your dimension?
+Dialogue: 0,0:37:33.23,0:37:37.20,Defualt,,0,0,0,,为什么看起来这么...\N{\fnArial\fs40\bord2}Why does it all look so...?
+Dialogue: 0,0:37:37.20,0:37:38.30,Defualt,,0,0,0,,奇怪\N{\fnArial\fs40\bord2}...weird?
+Dialogue: 0,0:37:38.30,0:37:41.62,Defualt,,0,0,0,,没错 哪里都比不上家里\N{\fnArial\fs40\bord2}Yup. There's no place like home!
+Dialogue: 0,0:37:41.62,0:37:44.05,Defualt,,0,0,0,,我们到底来这里做什么\N{\fnArial\fs40\bord2}What the shell are we doing here?
+Dialogue: 0,0:37:44.05,0:37:45.64,Defualt,,0,0,0,,我们得回去\N{\fnArial\fs40\bord2}We got to go back!
+Dialogue: 0,0:37:45.64,0:37:48.41,Defualt,,0,0,0,,不知道斯普林特老师遇到了什么麻烦\N{\fnArial\fs40\bord2}Master Splinter's in who-knows-what kind of trouble.
+Dialogue: 0,0:37:48.41,0:37:50.03,Defualt,,0,0,0,,多纳泰罗赶在屋顶把我们压扁之前\N{\fnArial\fs40\bord2}Donatello ported us out
+Dialogue: 0,0:37:50.03,0:37:52.76,Defualt,,0,0,0,,把我们传送出来了\N{\fnArial\fs40\bord2}just before your roof flattened us into pizza pies.
+Dialogue: 0,0:37:52.76,0:37:54.37,Defualt,,0,0,0,,我就说会管用的\N{\fnArial\fs40\bord2}Told you it'd work.
+Dialogue: 0,0:37:54.37,0:37:55.53,Defualt,,0,0,0,,我们要回去\N{\fnArial\fs40\bord2}We're going back.
+Dialogue: 0,0:37:55.53,0:37:56.53,Defualt,,0,0,0,,我们要救出斯普林特\N{\fnArial\fs40\bord2}We'll save Splinter
+Dialogue: 0,0:37:56.53,0:37:58.13,Defualt,,0,0,0,,还要阻止那个电子圆宫\N{\fnArial\fs40\bord2}and we're stopping that Technodrome.
+Dialogue: 0,0:37:58.13,0:37:59.56,Defualt,,0,0,0,,但是还有一个问题\N{\fnArial\fs40\bord2}But we've got another problem.
+Dialogue: 0,0:37:59.56,0:38:02.26,Defualt,,0,0,0,,韩提到真正的施莱德\N{\fnArial\fs40\bord2}Hun mentioned the one true Shredder.
+Dialogue: 0,0:38:02.26,0:38:04.63,Defualt,,0,0,0,,你们知道这意味着什么\N{\fnArial\fs40\bord2}And you know what that means.
+Dialogue: 0,0:38:04.63,0:38:07.09,Defualt,,0,0,0,,我们的小外星人乌特罗姆回来了\N{\fnArial\fs40\bord2}Our little alien Utrom is back.
+Dialogue: 0,0:38:07.09,0:38:08.77,Defualt,,0,0,0,,乌特罗姆·施莱德\N{\fnArial\fs40\bord2}Utrom Shredder?
+Dialogue: 0,0:38:08.77,0:38:10.88,Defualt,,0,0,0,,听起来像瑞典人\N{\fnArial\fs40\bord2}Sounds Swedish.
+Dialogue: 0,0:38:12.14,0:38:14.71,Defualt,,0,0,0,,停下 停下 快停下\N{\fnArial\fs40\bord2}Stop it! Stop it! Stop it!
+Dialogue: 0,0:38:14.71,0:38:18.47,Defualt,,0,0,0,,你们几个就不能严肃一点吗\N{\fnArial\fs40\bord2}Can't you guys be serious about anything?
+Dialogue: 0,0:38:20.03,0:38:21.03,Defualt,,0,0,0,,他们是对的\N{\fnArial\fs40\bord2}They're right.
+Dialogue: 0,0:38:21.03,0:38:22.07,Defualt,,0,0,0,,这件事很严重\N{\fnArial\fs40\bord2}This is serious.
+Dialogue: 0,0:38:22.07,0:38:23.60,Defualt,,0,0,0,,我说我们应该回到老巢\N{\fnArial\fs40\bord2}I say we had to our lair
+Dialogue: 0,0:38:23.60,0:38:25.46,Defualt,,0,0,0,,拿起我们的反电子圆宫装备\N{\fnArial\fs40\bord2}pick up our anti-Technodrome gear
+Dialogue: 0,0:38:25.46,0:38:27.40,Defualt,,0,0,0,,好好利用它\N{\fnArial\fs40\bord2}and go put it to good use.
+Dialogue: 0,0:38:27.40,0:38:28.20,Defualt,,0,0,0,,但首先\N{\fnArial\fs40\bord2}But first
+Dialogue: 0,0:38:28.20,0:38:30.12,Defualt,,0,0,0,,我们得去救艾普尔\N{\fnArial\fs40\bord2}we've got to save April.
+Dialogue: 0,0:38:39.50,0:38:41.30,Defualt,,0,0,0,,我们每天至少拯救一次艾普尔\N{\fnArial\fs40\bord2}We save April at least once a day.
+Dialogue: 0,0:38:41.30,0:38:42.03,Defualt,,0,0,0,,没错\N{\fnArial\fs40\bord2}Yeah!
+Dialogue: 0,0:38:42.03,0:38:44.73,Defualt,,0,0,0,,基本上每天准时开救\N{\fnArial\fs40\bord2}You can set your watch to it.
+Dialogue: 0,0:38:51.76,0:38:54.41,Defualt,,0,0,0,,那是一个变种...香蕉?\N{\fnArial\fs40\bord2}Was that a mutant... banana?
+Dialogue: 0,0:38:54.41,0:38:57.32,Defualt,,0,0,0,,这个维度真是乱七八糟的\N{\fnArial\fs40\bord2}This dimension is seriously messed up.
+Dialogue: 0,0:38:57.32,0:38:59.55,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:38:59.55,0:39:01.83,Defualt,,0,0,0,,天哪 你们几个不在的时候\N{\fnArial\fs40\bord2}Boy, when you guys are out of town
+Dialogue: 0,0:39:01.83,0:39:05.11,Defualt,,0,0,0,,针对我的生命威胁真是堆积如山\N{\fnArial\fs40\bord2}the threats on my life sure do pile up.
+Dialogue: 0,0:39:05.11,0:39:07.10,Defualt,,0,0,0,,现在有八个你们了\N{\fnArial\fs40\bord2}There are eight of you now!
+Dialogue: 0,0:39:07.10,0:39:08.83,Defualt,,0,0,0,,我的乖乖\N{\fnArial\fs40\bord2}Holy scoop!
+Dialogue: 0,0:39:08.83,0:39:10.83,Defualt,,0,0,0,,等等 你是艾普尔\N{\fnArial\fs40\bord2}Wait. You're April?
+Dialogue: 0,0:39:10.83,0:39:13.50,Defualt,,0,0,0,,呃 这套黄色连体服是什么情况\N{\fnArial\fs40\bord2}Um, what's with the yellow jumpsuit?
+Dialogue: 0,0:39:13.50,0:39:16.17,Defualt,,0,0,0,,这个维度的你在洗车行工作吗\N{\fnArial\fs40\bord2}Do you work at a carwash in this dimension?
+Dialogue: 0,0:39:16.17,0:39:18.90,Defualt,,0,0,0,,我是个记者 艾普尔·奥尼尔\N{\fnArial\fs40\bord2}I'm a reporter, April O'Neil.
+Dialogue: 0,0:39:18.90,0:39:21.76,Defualt,,0,0,0,,而你们是我拿皮博迪奖的门票\N{\fnArial\fs40\bord2}And you are my ticket to a Peabody.
+Dialogue: 0,0:39:22.69,0:39:24.04,Defualt,,0,0,0,,抱歉 艾普尔\N{\fnArial\fs40\bord2}Sorry, April.
+Dialogue: 0,0:39:24.04,0:39:25.28,Defualt,,0,0,0,,没时间搞独家报道了\N{\fnArial\fs40\bord2}No time for an exclusive.
+Dialogue: 0,0:39:25.28,0:39:27.34,Defualt,,0,0,0,,我们得把这些家伙带到老巢去\N{\fnArial\fs40\bord2}We've got to get these guys to the lair.
+Dialogue: 0,0:39:33.80,0:39:35.64,Defualt,,0,0,0,,跟我来\N{\fnArial\fs40\bord2}Follow me!
+Dialogue: 0,0:39:37.81,0:39:39.44,Defualt,,0,0,0,,我的眼睛\N{\fnArial\fs40\bord2}My eye!
+Dialogue: 0,0:39:43.43,0:39:46.46,Defualt,,0,0,0,,欢迎回家 我的乌龟们\N{\fnArial\fs40\bord2}Welcome home, my Turtles.
+Dialogue: 0,0:39:49.49,0:39:53.02,Defualt,,0,0,0,,还有我的乌龟们?\N{\fnArial\fs40\bord2}And my Turtles?
+Dialogue: 0,0:39:55.76,0:39:56.99,Defualt,,0,0,0,,我会把装备收拾好的\N{\fnArial\fs40\bord2}I'll get that gear together
+Dialogue: 0,0:39:56.99,0:39:58.87,Defualt,,0,0,0,,我们很快就能上路了\N{\fnArial\fs40\bord2}and we'll be on our way in no time.
+Dialogue: 0,0:40:00.20,0:40:02.83,Defualt,,0,0,0,,搓头大法\N{\fnArial\fs40\bord2}Noogie!
+Dialogue: 0,0:40:02.83,0:40:05.06,Defualt,,0,0,0,,嘿 住手\N{\fnArial\fs40\bord2}Hey, cut it out!
+Dialogue: 0,0:40:05.06,0:40:09.40,Defualt,,0,0,0,,请利用这一刻滋养你们的身体和灵魂\N{\fnArial\fs40\bord2}Please, take this moment to nourish your body and soul
+Dialogue: 0,0:40:09.40,0:40:12.51,Defualt,,0,0,0,,以准备迎接摆在你们面前的挑战\N{\fnArial\fs40\bord2}as you prepare for the challenge that lies ahead of you.
+Dialogue: 0,0:40:13.40,0:40:15.63,Defualt,,0,0,0,,谢谢 师父\N{\fnArial\fs40\bord2}Thank you... Master.
+Dialogue: 0,0:40:15.63,0:40:18.36,Defualt,,0,0,0,,我和我的兄弟们发现你的维度有点...\N{\fnArial\fs40\bord2}My brothers and I have found your dimension to be...
+Dialogue: 0,0:40:18.36,0:40:22.72,Defualt,,0,0,0,,嗯...让人摸不着头脑 但来到这里\N{\fnArial\fs40\bord2}well... disorienting, but being here
+Dialogue: 0,0:40:22.72,0:40:25.55,Defualt,,0,0,0,,见到了你 感觉就对了\N{\fnArial\fs40\bord2}seeing you feels right.
+Dialogue: 0,0:40:25.55,0:40:28.26,Defualt,,0,0,0,,我也一样 李奥纳多\N{\fnArial\fs40\bord2}To me, also, Leonardo.
+Dialogue: 0,0:40:28.26,0:40:32.80,Defualt,,0,0,0,,这里永远欢迎你们四位\N{\fnArial\fs40\bord2}You four are welcome here always.
+Dialogue: 0,0:40:32.80,0:40:35.66,Defualt,,0,0,0,,我们的斯普林特老师也是这么说的\N{\fnArial\fs40\bord2}That's kind of what our Master Splinter said
+Dialogue: 0,0:40:35.66,0:40:39.03,Defualt,,0,0,0,,对他们四个\N{\fnArial\fs40\bord2}to us about them.
+Dialogue: 0,0:40:40.50,0:40:41.77,Defualt,,0,0,0,,我知道\N{\fnArial\fs40\bord2}I know.
+Dialogue: 0,0:40:41.77,0:40:44.38,Defualt,,0,0,0,,我也很担心他\N{\fnArial\fs40\bord2}I'm worried about him, too.
+Dialogue: 0,0:40:48.46,0:40:50.05,Defualt,,0,0,0,,这是什么\N{\fnArial\fs40\bord2}What is this?
+Dialogue: 0,0:40:50.05,0:40:51.43,Defualt,,0,0,0,,我要的是乌龟\N{\fnArial\fs40\bord2}I asked for the Turtles,
+Dialogue: 0,0:40:51.43,0:40:53.03,Defualt,,0,0,0,,你却带回了他们的...\N{\fnArial\fs40\bord2}and you bring me back their...
+Dialogue: 0,0:40:53.03,0:40:54.01,Defualt,,0,0,0,,老鼠\N{\fnArial\fs40\bord2}rat?!
+Dialogue: 0,0:40:54.01,0:40:55.60,Defualt,,0,0,0,,他们的巢穴坍塌的时候\N{\fnArial\fs40\bord2}We became separated
+Dialogue: 0,0:40:55.60,0:40:58.00,Defualt,,0,0,0,,我们被分隔开了\N{\fnArial\fs40\bord2}when their lair collapsed around us.
+Dialogue: 0,0:40:58.00,0:41:00.46,Defualt,,0,0,0,,不过 请放心 主人\N{\fnArial\fs40\bord2}But rest assured, Master
+Dialogue: 0,0:41:00.46,0:41:02.96,Defualt,,0,0,0,,只要你手上有这只老鼠\N{\fnArial\fs40\bord2}as long as you have the rodent...
+Dialogue: 0,0:41:02.96,0:41:06.21,Defualt,,0,0,0,,乌龟们会自己找上门的\N{\fnArial\fs40\bord2}the Turtles will come to you.
+Dialogue: 0,0:41:06.21,0:41:09.26,Defualt,,0,0,0,,父亲 做这些是为了什么\N{\fnArial\fs40\bord2}Father, what is this all about?
+Dialogue: 0,0:41:09.26,0:41:10.46,Defualt,,0,0,0,,乌龟们\N{\fnArial\fs40\bord2}The Turtles.
+Dialogue: 0,0:41:10.46,0:41:12.24,Defualt,,0,0,0,,为了让我的计划继续下去\N{\fnArial\fs40\bord2}For my plans to proceed
+Dialogue: 0,0:41:12.24,0:41:13.90,Defualt,,0,0,0,,必须得到它们\N{\fnArial\fs40\bord2}I must have them.
+Dialogue: 0,0:41:13.90,0:41:16.53,Defualt,,0,0,0,,你做得很好 韩\N{\fnArial\fs40\bord2}You have done well, Hun.
+Dialogue: 0,0:41:17.94,0:41:19.66,Defualt,,0,0,0,,现在\N{\fnArial\fs40\bord2}Now...
+Dialogue: 0,0:41:19.66,0:41:22.93,Defualt,,0,0,0,,让我们变得更容易被找到\N{\fnArial\fs40\bord2}let us make ourselves easier to find.
+Dialogue: 0,0:41:22.93,0:41:27.46,Defualt,,0,0,0,,是时候 崛起了!\N{\fnArial\fs40\bord2}The time has come to rise!
+Dialogue: 0,0:41:33.16,0:41:34.63,Defualt,,0,0,0,,他们还是没接电话\N{\fnArial\fs40\bord2}They're still not answering.
+Dialogue: 0,0:41:34.63,0:41:36.99,Defualt,,0,0,0,,我跟你说 凯西 有事情不对劲\N{\fnArial\fs40\bord2}I'm telling you, Casey, something's wrong.
+Dialogue: 0,0:41:36.99,0:41:38.80,Defualt,,0,0,0,,我肯定他们没事的 艾普尔\N{\fnArial\fs40\bord2}I'm sure they're fine, April.
+Dialogue: 0,0:41:38.80,0:41:40.64,Defualt,,0,0,0,,我是说 看看周围\N{\fnArial\fs40\bord2}I mean, take a look around.
+Dialogue: 0,0:41:40.64,0:41:42.31,Defualt,,0,0,0,,多美丽的夜晚\N{\fnArial\fs40\bord2}It's a beautiful night.
+Dialogue: 0,0:41:42.31,0:41:44.36,Defualt,,0,0,0,,一切安然无恙\N{\fnArial\fs40\bord2}Everything's peachy.
+Dialogue: 0,0:42:01.23,0:42:03.23,Defualt,,0,0,0,,我刚刚说的什么\N{\fnArial\fs40\bord2}What I said about peachy?
+Dialogue: 0,0:42:03.23,0:42:05.15,Defualt,,0,0,0,,当我没说\N{\fnArial\fs40\bord2}Never mind.
+Dialogue: 0,0:42:11.16,0:42:12.06,Defualt,,0,0,0,,好了 大伙儿\N{\fnArial\fs40\bord2}Okay, guys,
+Dialogue: 0,0:42:12.08,0:42:13.16,Defualt,,0,0,0,,这些就是我们需要的东西\N{\fnArial\fs40\bord2}here's everything we'll need
+Dialogue: 0,0:42:13.16,0:42:14.70,Defualt,,0,0,0,,有这些就能拿下电子圆宫了\N{\fnArial\fs40\bord2}to take down the Technodrome.
+Dialogue: 0,0:42:14.70,0:42:16.30,Defualt,,0,0,0,,爆炸飞镖\N{\fnArial\fs40\bord2}Exploding throwing stars
+Dialogue: 0,0:42:16.30,0:42:18.50,Defualt,,0,0,0,,反电子圆宫轮滑鞋\N{\fnArial\fs40\bord2}anti-Technodrome roller skates
+Dialogue: 0,0:42:18.50,0:42:20.83,Defualt,,0,0,0,,SPF-1000 防晒霜\N{\fnArial\fs40\bord2}SPF-1000 sun block.
+Dialogue: 0,0:42:20.83,0:42:22.13,Defualt,,0,0,0,,我订了披萨\N{\fnArial\fs40\bord2}And I got the pizzas.
+Dialogue: 0,0:42:22.13,0:42:23.18,Defualt,,0,0,0,,我们可以出发了\N{\fnArial\fs40\bord2}We're good to go.
+Dialogue: 0,0:42:25.94,0:42:27.10,Defualt,,0,0,0,,你们在开玩笑吧\N{\fnArial\fs40\bord2}You're joking, right?
+Dialogue: 0,0:42:27.10,0:42:30.53,Defualt,,0,0,0,,我们大老远来到这个怪世界 就是为了这些垃圾\N{\fnArial\fs40\bord2}We came all the way to Wacky World for this junk?
+Dialogue: 0,0:42:30.53,0:42:32.62,Defualt,,0,0,0,,不! 不! 不! 不! 不! \N{\fnArial\fs40\bord2}No! No! No! No! No! No! no!
+Dialogue: 0,0:42:32.93,0:42:35.03,Defualt,,0,0,0,,现在让我们打开传送门回到你们的世界\N{\fnArial\fs40\bord2}Now let's open up a portal back into your world
+Dialogue: 0,0:42:35.03,0:42:37.82,Defualt,,0,0,0,,去踢施莱德的屁股吧\N{\fnArial\fs40\bord2}and go kick Shredder's butt!
+Dialogue: 0,0:42:43.20,0:42:45.10,Defualt,,0,0,0,,什么玩意儿\N{\fnArial\fs40\bord2}What the shell?!
+Dialogue: 0,0:42:51.25,0:42:53.90,Defualt,,0,0,0,,那是电子圆宫吗\N{\fnArial\fs40\bord2}Is that the Technodrome?
+Dialogue: 0,0:42:53.90,0:42:54.98,Defualt,,0,0,0,,伙计们 我觉得这次\N{\fnArial\fs40\bord2}Dudes, I don't think
+Dialogue: 0,0:42:54.99,0:42:58.50,Defualt,,0,0,0,,爆炸飞镖可能砍不动它了\N{\fnArial\fs40\bord2}exploding throwing stars are gonna cut it this time!
+Dialogue: 0,0:42:59.95,0:43:01.63,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:43:09.36,0:43:12.19,Defualt,,0,0,0,,看来电子圆宫已经被改造过了\N{\fnArial\fs40\bord2}Look like the Technodrome got itself a makover...
+Dialogue: 0,0:43:12.19,0:43:13.80,Defualt,,0,0,0,,用了乌特罗姆科技\N{\fnArial\fs40\bord2}of the Utrom kind.
+Dialogue: 0,0:43:13.80,0:43:17.70,Defualt,,0,0,0,,那么 是时候让咱们最牛的两部座驾出场了\N{\fnArial\fs40\bord2}Then maybe it's time we bust out two of our baddest rides!
+Dialogue: 0,0:43:21.94,0:43:24.70,Defualt,,0,0,0,,什么 那些修理间的小破车?\N{\fnArial\fs40\bord2}What? Your clown cars in the shop?
+Dialogue: 0,0:43:31.75,0:43:34.54,Defualt,,0,0,0,,动起来 动起来 速度加快\N{\fnArial\fs40\bord2}Move it! Move it! Double time!
+Dialogue: 0,0:44:03.58,0:44:08.14,Defualt,,0,0,0,,他们真的以为靠军队就能阻止电子圆宫?\N{\fnArial\fs40\bord2}Did they really believe their military could stop this Technodrome?
+Dialogue: 0,0:44:08.13,0:44:09.12,Defualt,,0,0,0,,一群蠢货\N{\fnArial\fs40\bord2}Fools!
+Dialogue: 0,0:44:09.12,0:44:10.77,Defualt,,0,0,0,,他真的很厉害\N{\fnArial\fs40\bord2}He's quite good there.
+Dialogue: 0,0:44:10.77,0:44:13.67,Defualt,,0,0,0,,嘘! 我不想错过好戏\N{\fnArial\fs40\bord2}Shh! I don't want to miss anything.
+Dialogue: 0,0:44:13.67,0:44:17.71,Defualt,,0,0,0,,我的进攻才刚刚开始\N{\fnArial\fs40\bord2}My onslaught has only just begun!
+Dialogue: 0,0:44:33.73,0:44:36.40,Defualt,,0,0,0,,咕嘎啦!\N{\fnArial\fs40\bord2}Goongala!
+Dialogue: 0,0:44:36.40,0:44:39.36,Defualt,,0,0,0,,这些到底是什么玩意儿\N{\fnArial\fs40\bord2}What the heck are this things?
+Dialogue: 0,0:44:42.01,0:44:44.69,Defualt,,0,0,0,,不管是什么 我们都要阻止他们 凯西\N{\fnArial\fs40\bord2}Whatever they are, we got to stop them, casey.
+Dialogue: 0,0:44:56.00,0:44:57.95,Defualt,,0,0,0,,凯西 我被击中了\N{\fnArial\fs40\bord2}casey, i been hit!
+Dialogue: 0,0:44:58.68,0:45:01.83,Defualt,,0,0,0,,艾普尔 快弹射\N{\fnArial\fs40\bord2}April! Eject!
+Dialogue: 0,0:45:13.77,0:45:14.97,Defualt,,0,0,0,,接得好\N{\fnArial\fs40\bord2}Nice catch.
+Dialogue: 0,0:45:14.97,0:45:17.90,Defualt,,0,0,0,,如果想赢得这场比赛 我们需要一个奇迹\N{\fnArial\fs40\bord2}But we need a miracle if we gonna win this game.
+Dialogue: 0,0:45:28.07,0:45:30.42,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:45:31.19,0:45:32.24,Defualt,,0,0,0,,完了\N{\fnArial\fs40\bord2}Crud!
+Dialogue: 0,0:45:32.24,0:45:34.96,Defualt,,0,0,0,,偏偏被凯西看见咱们坐在这辆愚蠢的面包车里\N{\fnArial\fs40\bord2}Why did Casey have to see us in this stupid van?
+Dialogue: 0,0:45:34.96,0:45:38.26,Defualt,,0,0,0,,准确的说法是 愚蠢的派对战车\N{\fnArial\fs40\bord2}The technical term is stupid party wagon.
+Dialogue: 0,0:45:38.26,0:45:40.63,Defualt,,0,0,0,,咱们还算好的 拉斐尔\N{\fnArial\fs40\bord2}Could be worse, Raph.
+Dialogue: 0,0:45:42.85,0:45:46.74,Defualt,,0,0,0,,这是史上所有蹩脚车里最蹩脚的一辆了\N{\fnArial\fs40\bord2}This is the lamest vehicle in the history of lame vehicles.
+Dialogue: 0,0:45:46.74,0:45:48.50,Defualt,,0,0,0,,这玩意儿就不能开快点吗\N{\fnArial\fs40\bord2}Can't this thing go any faster?!
+Dialogue: 0,0:45:49.33,0:45:49.94,Defualt,,0,0,0,,当然能\N{\fnArial\fs40\bord2}Sure.
+Dialogue: 0,0:45:49.94,0:45:51.48,Defualt,,0,0,0,,但是 我不建议这么做\N{\fnArial\fs40\bord2}But, I wouldn't recommend it.
+Dialogue: 0,0:45:51.80,0:45:52.96,Defualt,,0,0,0,,为什么\N{\fnArial\fs40\bord2}Why not?
+Dialogue: 0,0:45:52.96,0:45:55.46,Defualt,,0,0,0,,展示给你看比较容易\N{\fnArial\fs40\bord2}Easier just to show you, dude.
+Dialogue: 0,0:45:58.20,0:46:01.15,Defualt,,0,0,0,,卡哇邦嘎\N{\fnArial\fs40\bord2}Cowabunga!
+Dialogue: 0,0:46:17.93,0:46:20.47,Defualt,,0,0,0,,说真的 这车也没那么差\N{\fnArial\fs40\bord2}You know, this wagon isn't half bad.
+Dialogue: 0,0:46:20.47,0:46:22.46,Defualt,,0,0,0,,也没好到哪里去\N{\fnArial\fs40\bord2}It ain't half good either.
+Dialogue: 0,0:46:25.26,0:46:27.23,Defualt,,0,0,0,,我们只是在给这些丑八怪挠痒痒\N{\fnArial\fs40\bord2}We're just tickling these uglies.
+Dialogue: 0,0:46:27.23,0:46:29.62,Defualt,,0,0,0,,我们需要...\N{\fnArial\fs40\bord2}We need...
+Dialogue: 0,0:46:29.62,0:46:31.26,Defualt,,0,0,0,,空中支援\N{\fnArial\fs40\bord2}air support!
+Dialogue: 0,0:46:44.46,0:46:47.57,Defualt,,0,0,0,,俗话说 只要活着走出来就是成功的降落\N{\fnArial\fs40\bord2}Well, they say any landing you can walk away...
+Dialogue: 0,0:46:47.57,0:46:49.67,Defualt,,0,0,0,,搓头大法回归\N{\fnArial\fs40\bord2}Return of the noogies.
+Dialogue: 0,0:46:49.67,0:46:50.58,Defualt,,0,0,0,,住手\N{\fnArial\fs40\bord2}Cut it out!
+Dialogue: 0,0:46:50.58,0:46:51.25,Defualt,,0,0,0,,来吧\N{\fnArial\fs40\bord2}Come on.
+Dialogue: 0,0:46:51.25,0:46:53.25,Defualt,,0,0,0,,让我们彻底结束这一切\N{\fnArial\fs40\bord2}Let's end this once and for all.
+Dialogue: 0,0:47:00.01,0:47:03.50,Defualt,,0,0,0,,很好 到我这里来 乌龟们\N{\fnArial\fs40\bord2}Yes, come to me, Turtles.
+Dialogue: 0,0:47:03.50,0:47:05.23,Defualt,,0,0,0,,你还在等什么\N{\fnArial\fs40\bord2}What the devil are you waiting for?
+Dialogue: 0,0:47:05.23,0:47:06.72,Defualt,,0,0,0,,他们就在你的靶子上\N{\fnArial\fs40\bord2}They're right in your crosshairs.
+Dialogue: 0,0:47:06.72,0:47:09.27,Defualt,,0,0,0,,赶紧消灭他们\N{\fnArial\fs40\bord2}Destroy them already.
+Dialogue: 0,0:47:14.33,0:47:16.64,Defualt,,0,0,0,,把这些小丑绑起来\N{\fnArial\fs40\bord2}Restrain these buffoons.
+Dialogue: 0,0:47:18.87,0:47:20.73,Defualt,,0,0,0,,对不起了 老大\N{\fnArial\fs40\bord2}Sorry, boss.
+Dialogue: 0,0:47:20.73,0:47:22.45,Defualt,,0,0,0,,放开我\N{\fnArial\fs40\bord2}Unhand me!
+Dialogue: 0,0:47:22.45,0:47:26.15,Defualt,,0,0,0,,我的跨维度律师会起诉你的\N{\fnArial\fs40\bord2}You'll hear from my transdimensional attorney!
+Dialogue: 0,0:47:31.60,0:47:34.80,Defualt,,0,0,0,,嘿 他们铺了迎宾毯\N{\fnArial\fs40\bord2}Hey, they rolled out the welcome mat.
+Dialogue: 0,0:47:34.80,0:47:37.20,Defualt,,0,0,0,,那我怎么一点都不觉得受欢迎呢\N{\fnArial\fs40\bord2}Then how come I ain't feeling welcome?
+Dialogue: 0,0:47:39.23,0:47:40.42,Defualt,,0,0,0,,你们不明白\N{\fnArial\fs40\bord2}You don't understand.
+Dialogue: 0,0:47:40.42,0:47:42.86,Defualt,,0,0,0,,乌特罗姆施莱德和你们的施莱德不一样\N{\fnArial\fs40\bord2}The Utrom Shredder isn't like your Shredder.
+Dialogue: 0,0:47:42.86,0:47:43.89,Defualt,,0,0,0,,他心狠手辣\N{\fnArial\fs40\bord2}He's vicious.
+Dialogue: 0,0:47:43.89,0:47:44.93,Defualt,,0,0,0,,杀人如麻\N{\fnArial\fs40\bord2}Lethal.
+Dialogue: 0,0:47:44.93,0:47:46.53,Defualt,,0,0,0,,武力高强\N{\fnArial\fs40\bord2}Competent!
+Dialogue: 0,0:47:46.53,0:47:50.13,Defualt,,0,0,0,,我们进去了 不一定能活着出来\N{\fnArial\fs40\bord2}We go in, no saying if we come out.
+Dialogue: 0,0:47:54.72,0:47:56.98,Defualt,,0,0,0,,我们一起上\N{\fnArial\fs40\bord2}Let's do this.
+Dialogue: 0,0:48:00.93,0:48:03.33,Defualt,,0,0,0,,今天 我们不仅仅是盟友\N{\fnArial\fs40\bord2}Today, we're more than allies.
+Dialogue: 0,0:48:03.33,0:48:05.76,Defualt,,0,0,0,,我们是兄弟\N{\fnArial\fs40\bord2}We're brothers.
+Dialogue: 0,0:48:05.76,0:48:08.28,Defualt,,0,0,0,,出发 绿色战车!\N{\fnArial\fs40\bord2}Go, Green Machine!
+Dialogue: 0,0:48:08.28,0:48:11.70,Defualt,,0,0,0,,忍者时间到!\N{\fnArial\fs40\bord2}It's Ninja time!
+Dialogue: 0,0:48:11.70,0:48:13.32,Defualt,,0,0,0,,神龟力量!\N{\fnArial\fs40\bord2}Turtle power!
+Dialogue: 0,0:48:14.13,0:48:15.60,Defualt,,0,0,0,,烦人力量\N{\fnArial\fs40\bord2}Annoying power.
+Dialogue: 0,0:48:15.60,0:48:16.10,Defualt,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey!
+Dialogue: 0,0:48:16.10,0:48:17.10,Defualt,,0,0,0,,动起来 龟小子\N{\fnArial\fs40\bord2}Move it, half-shell.
+Dialogue: 0,0:48:17.10,0:48:18.08,Defualt,,0,0,0,,别推了\N{\fnArial\fs40\bord2}Quit shoving!
+Dialogue: 0,0:48:20.96,0:48:23.43,Defualt,,0,0,0,,乌龟们\N{\fnArial\fs40\bord2}Turtles.
+Dialogue: 0,0:48:24.26,0:48:28.71,Defualt,,0,0,0,,感谢你们接受我谦逊的邀请\N{\fnArial\fs40\bord2}Thank you for accepting my humble invitation.
+Dialogue: 0,0:48:37.18,0:48:39.36,Defualt,,0,0,0,,你不是说他很强悍吗\N{\fnArial\fs40\bord2}Thought you said he was tough.
+Dialogue: 0,0:48:39.36,0:48:42.02,Defualt,,0,0,0,,孩子们 这是个陷阱\N{\fnArial\fs40\bord2}My sons, it is a trap.
+Dialogue: 0,0:48:46.63,0:48:49.50,Defualt,,0,0,0,,如果多元宇宙中有什么是常量\N{\fnArial\fs40\bord2}If there is one constant in the multiverse
+Dialogue: 0,0:48:49.50,0:48:52.95,Defualt,,0,0,0,,那就是这帮乌龟的可预测性\N{\fnArial\fs40\bord2}it is the predictability of you Turtles.
+Dialogue: 0,0:48:52.95,0:48:56.38,Defualt,,0,0,0,,只要威胁到你们在乎的东西\N{\fnArial\fs40\bord2}Threaten something you hold dear
+Dialogue: 0,0:48:56.38,0:48:59.24,Defualt,,0,0,0,,你们就容易失去判断力\N{\fnArial\fs40\bord2}and you will ignore your better instincts.
+Dialogue: 0,0:48:59.24,0:49:02.19,Defualt,,0,0,0,,你们应该躲得远远的\N{\fnArial\fs40\bord2}You should have stayed away.
+Dialogue: 0,0:49:19.76,0:49:23.10,Defualt,,0,0,0,,现在 我们可以开始了吗\N{\fnArial\fs40\bord2}Now, shall we begin?
+Dialogue: 0,0:49:39.16,0:49:41.00,Defualt,,0,0,0,,如果你要杀我们\N{\fnArial\fs40\bord2}If you plan on doing us in,
+Dialogue: 0,0:49:41.00,0:49:43.53,Defualt,,0,0,0,,一定有更简单的方法\N{\fnArial\fs40\bord2}there's got to be an easier way.
+Dialogue: 0,0:49:43.53,0:49:46.63,Defualt,,0,0,0,,你们会消亡的 但不是现在\N{\fnArial\fs40\bord2}You shall perish, but not yet.
+Dialogue: 0,0:49:46.63,0:49:47.86,Defualt,,0,0,0,,你知道吗\N{\fnArial\fs40\bord2}You see,
+Dialogue: 0,0:49:47.87,0:49:50.72,Defualt,,0,0,0,,我和你们一样 最近才认识到\N{\fnArial\fs40\bord2}like you, I recently learned that
+Dialogue: 0,0:49:50.72,0:49:55.15,Defualt,,0,0,0,,我们的世界 只是多维度的宇宙中的一个维度\N{\fnArial\fs40\bord2}ours is but a single dimension in a multiverse of dimensions.
+Dialogue: 0,0:49:55.15,0:49:59.72,Defualt,,0,0,0,,兴趣驱使我进入传送门调查了所有维度\N{\fnArial\fs40\bord2}Intrigued, I used this very portal to survey them all.
+Dialogue: 0,0:49:59.72,0:50:04.56,Defualt,,0,0,0,,我发现了一个令人震惊的可怕事实\N{\fnArial\fs40\bord2}Which is when I made a startling, horrible discovery.
+Dialogue: 0,0:50:04.56,0:50:06.94,Defualt,,0,0,0,,你们不只有八个\N{\fnArial\fs40\bord2}There are not simply eight of you
+Dialogue: 0,0:50:06.94,0:50:10.16,Defualt,,0,0,0,,而是无数个\N{\fnArial\fs40\bord2}but scores of you.
+Dialogue: 0,0:50:10.16,0:50:11.23,Defualt,,0,0,0,,看哪\N{\fnArial\fs40\bord2}Behold!
+Dialogue: 0,0:50:11.23,0:50:17.11,Defualt,,0,0,0,,被诅咒的忍者龟的多元宇宙\N{\fnArial\fs40\bord2}A multiverse of accursed Teenage Mutant Ninja Turtles.
+Dialogue: 0,0:50:24.32,0:50:27.58,Defualt,,0,0,0,,太酷了\N{\fnArial\fs40\bord2}Awesome!
+Dialogue: 0,0:50:27.58,0:50:31.26,Defualt,,0,0,0,,只摧毁你们八个一点用都没有\N{\fnArial\fs40\bord2}Destroying the eight of you would accomplish nothing.
+Dialogue: 0,0:50:31.26,0:50:35.33,Defualt,,0,0,0,,只要多元宇宙中的还存在忍者龟\N{\fnArial\fs40\bord2}So long as Ninja Turtles exist somewhere in the multiverse,
+Dialogue: 0,0:50:35.33,0:50:38.46,Defualt,,0,0,0,,他们就会干扰施莱德的计划\N{\fnArial\fs40\bord2}they will interfere in the plans of the Shredder.
+Dialogue: 0,0:50:38.46,0:50:41.22,Defualt,,0,0,0,,我们之间的战斗永远不会结束\N{\fnArial\fs40\bord2}Our epic battle is never going to end
+Dialogue: 0,0:50:41.93,0:50:46.69,Defualt,,0,0,0,,除非我永远消灭忍者龟\N{\fnArial\fs40\bord2}unless I put an end to Turtles forever!
+Dialogue: 0,0:50:46.69,0:50:49.66,Defualt,,0,0,0,,即使像你这般痴迷权力的魔头\N{\fnArial\fs40\bord2}Even a creature as power-mad as you
+Dialogue: 0,0:50:49.66,0:50:54.44,Defualt,,0,0,0,,也不应相信自己能够颠覆多元宇宙\N{\fnArial\fs40\bord2}cannot believe he has the ability to subvert the entire multiverse.
+Dialogue: 0,0:50:54.44,0:50:58.20,Defualt,,0,0,0,,让我们来测试一下 害虫\N{\fnArial\fs40\bord2}Let us put that to a test, vermin.
+Dialogue: 0,0:50:58.20,0:51:02.57,Defualt,,0,0,0,,就像树枝依附于树干一样\N{\fnArial\fs40\bord2}It seems that like branches hanging off a single tree
+Dialogue: 0,0:51:02.57,0:51:06.54,Defualt,,0,0,0,,所有的维度都产生自一个共同的起源\N{\fnArial\fs40\bord2}each of these dimensions sprang from a common source.
+Dialogue: 0,0:51:06.54,0:51:11.21,Defualt,,0,0,0,,摧毁源头 就会引发连锁反应\N{\fnArial\fs40\bord2}Destroy the source and you would set off a chain reaction
+Dialogue: 0,0:51:11.21,0:51:14.62,Defualt,,0,0,0,,摧毁所有地方的忍者龟\N{\fnArial\fs40\bord2}that would destroy Ninja Turtles everywhere
+Dialogue: 0,0:51:14.62,0:51:16.26,Defualt,,0,0,0,,直到永恒\N{\fnArial\fs40\bord2}forevermore.
+Dialogue: 0,0:51:17.66,0:51:20.77,Defualt,,0,0,0,,所以 你们会被扫描 被分解\N{\fnArial\fs40\bord2}And so, you are being scanned, broken down,
+Dialogue: 0,0:51:20.77,0:51:26.18,Defualt,,0,0,0,,全是为了查找你们的起源DNA\N{\fnArial\fs40\bord2}for the sole purpose of discovering your source DNA.
+Dialogue: 0,0:51:26.18,0:51:29.94,Defualt,,0,0,0,,来自两个世界的两支乌龟队伍\N{\fnArial\fs40\bord2}Two Turtle teams from two Turtle worlds.
+Dialogue: 0,0:51:29.94,0:51:32.44,Defualt,,0,0,0,,在很多方面各有不同\N{\fnArial\fs40\bord2}Different in so many ways
+Dialogue: 0,0:51:32.44,0:51:36.50,Defualt,,0,0,0,,但是追根究底 有着相似的基因\N{\fnArial\fs40\bord2}but deep down, there are similarities.
+Dialogue: 0,0:51:37.65,0:51:40.36,Defualt,,0,0,0,,这些相似点会为我们指明道路\N{\fnArial\fs40\bord2}And those similarities shall point the path
+Dialogue: 0,0:51:40.36,0:51:42.51,Defualt,,0,0,0,,找到起源维度\N{\fnArial\fs40\bord2}to the source dimension
+Dialogue: 0,0:51:43.15,0:51:45.33,Defualt,,0,0,0,,起源神龟\N{\fnArial\fs40\bord2}Turtle Prime.
+Dialogue: 0,0:51:50.23,0:51:53.16,Defualt,,0,0,0,,可惜的是 你们没法活着\N{\fnArial\fs40\bord2}I only regret you will not survive
+Dialogue: 0,0:51:53.16,0:51:54.36,Defualt,,0,0,0,,亲眼见证自己的末日...\N{\fnArial\fs40\bord2}to witness the end of your...
+Dialogue: 0,0:51:54.36,0:51:55.67,Defualt,,0,0,0,,父亲\N{\fnArial\fs40\bord2}Father.
+Dialogue: 0,0:51:55.67,0:51:58.93,Defualt,,0,0,0,,我们收到了令人担忧且不稳定的能量读数\N{\fnArial\fs40\bord2}We are receiving alarming and unstable energy readings.
+Dialogue: 0,0:51:58.93,0:52:01.26,Defualt,,0,0,0,,这是怎么回事\N{\fnArial\fs40\bord2}What is going on...?
+Dialogue: 0,0:52:07.30,0:52:08.56,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:52:09.13,0:52:12.73,Defualt,,0,0,0,,我们那边从来不会发生这种事\N{\fnArial\fs40\bord2}Things like this never happened back home.
+Dialogue: 0,0:52:12.73,0:52:14.53,Defualt,,0,0,0,,起源神龟已定位\N{\fnArial\fs40\bord2}Turtle Prime located.
+Dialogue: 0,0:52:14.53,0:52:15.43,Defualt,,0,0,0,,成功了\N{\fnArial\fs40\bord2}It works.
+Dialogue: 0,0:52:15.43,0:52:17.43,Defualt,,0,0,0,,维度传送门\N{\fnArial\fs40\bord2}The transdimensional portal
+Dialogue: 0,0:52:17.43,0:52:19.61,Defualt,,0,0,0,,正在接收坐标\N{\fnArial\fs40\bord2}is receiving the coordinates now.
+Dialogue: 0,0:52:20.13,0:52:22.57,Defualt,,0,0,0,,永别了 乌龟们\N{\fnArial\fs40\bord2}Farewell, Turtles!
+Dialogue: 0,0:52:41.76,0:52:44.01,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,0:52:44.76,0:52:48.26,Defualt,,0,0,0,,他们的死亡只是个开始\N{\fnArial\fs40\bord2}Their demise is only the beginning.
+Dialogue: 0,0:53:13.59,0:53:17.11,Defualt,,0,0,0,,那个大型装甲保龄球刚刚爆炸了\N{\fnArial\fs40\bord2}That giant armored bowling ball just imploded.
+Dialogue: 0,0:53:17.11,0:53:19.59,Defualt,,0,0,0,,一定是它在控制机器人\N{\fnArial\fs40\bord2}He must have been controlling the robots.
+Dialogue: 0,0:53:19.59,0:53:21.70,Defualt,,0,0,0,,没有了船 就没有能量了\N{\fnArial\fs40\bord2}No ship, no power.
+Dialogue: 0,0:53:21.70,0:53:23.58,Defualt,,0,0,0,,凯西 我们赢了\N{\fnArial\fs40\bord2}Casey, we've won.
+Dialogue: 0,0:53:23.58,0:53:24.89,Defualt,,0,0,0,,赢了?\N{\fnArial\fs40\bord2}Won?
+Dialogue: 0,0:53:24.89,0:53:25.82,Defualt,,0,0,0,,艾普尔\N{\fnArial\fs40\bord2}April,
+Dialogue: 0,0:53:25.82,0:53:28.93,Defualt,,0,0,0,,没有船 乌龟们也没了\N{\fnArial\fs40\bord2}No ship, no Turtles.
+Dialogue: 0,0:53:31.00,0:53:33.20,Defualt,,0,0,0,,他们走进了那玩意儿里\N{\fnArial\fs40\bord2}They went into that thing and
+Dialogue: 0,0:53:33.20,0:53:36.15,Defualt,,0,0,0,,现在他们...他们...\N{\fnArial\fs40\bord2}now they're... they're...
+Dialogue: 0,0:53:48.13,0:53:50.66,Defualt,,0,0,0,,伙计们 你们还活着\N{\fnArial\fs40\bord2}Guys, you're alive!
+Dialogue: 0,0:53:51.33,0:53:54.30,Defualt,,0,0,0,,老兄 刚刚发生了什么\N{\fnArial\fs40\bord2}Dudes, like, what just happened?
+Dialogue: 0,0:53:54.30,0:53:58.66,Defualt,,0,0,0,,是啊 我们现在不是应该...不存在了吗\N{\fnArial\fs40\bord2}Yeah. Shouldn't we be, like, nonexistent right about now?
+Dialogue: 0,0:53:58.66,0:54:00.67,Defualt,,0,0,0,,麦琪\N{\fnArial\fs40\bord2}Mikey!
+Dialogue: 0,0:54:02.81,0:54:05.51,Defualt,,0,0,0,,还有...麦琪?\N{\fnArial\fs40\bord2}And... Mikey?
+Dialogue: 0,0:54:06.43,0:54:09.60,Defualt,,0,0,0,,是我撞昏头了 还是看到了重影?\N{\fnArial\fs40\bord2}I bump my head, or am I really seeing double?
+Dialogue: 0,0:54:09.60,0:54:10.91,Defualt,,0,0,0,,凯西 艾普尔\N{\fnArial\fs40\bord2}Casey, April,
+Dialogue: 0,0:54:10.91,0:54:14.16,Defualt,,0,0,0,,见见我们另一个维度的分身\N{\fnArial\fs40\bord2}meet our dimensional duplicates.
+Dialogue: 0,0:54:14.16,0:54:17.56,Defualt,,0,0,0,,没时间给你们见面打招呼了\N{\fnArial\fs40\bord2}We ain't got time for no meet-and-greet.
+Dialogue: 0,0:54:17.56,0:54:18.35,Defualt,,0,0,0,,拉斐尔是对的\N{\fnArial\fs40\bord2}Raph's right.
+Dialogue: 0,0:54:18.35,0:54:20.50,Defualt,,0,0,0,,施莱德回来了 而且他已经出发\N{\fnArial\fs40\bord2}The Shredder's back, and he's on his way
+Dialogue: 0,0:54:20.50,0:54:22.96,Defualt,,0,0,0,,去摧毁所有忍者神龟的生命源头\N{\fnArial\fs40\bord2}to destroy the source of all Ninja Turtle life.
+Dialogue: 0,0:54:22.96,0:54:24.49,Defualt,,0,0,0,,什么! 你再说一遍?\N{\fnArial\fs40\bord2}What?! Come again?
+Dialogue: 0,0:54:24.49,0:54:25.63,Defualt,,0,0,0,,如果我们不阻止他\N{\fnArial\fs40\bord2}If we don't stop it,
+Dialogue: 0,0:54:25.63,0:54:28.28,Defualt,,0,0,0,,这可能意味着所有忍者神龟的终结\N{\fnArial\fs40\bord2}it could spell the end of Ninja Turtles everywhere
+Dialogue: 0,0:54:28.60,0:54:30.49,Defualt,,0,0,0,,永远消失\N{\fnArial\fs40\bord2}forever.
+Dialogue: 0,0:54:40.08,0:54:42.23,Defualt,,0,0,0,,所以 我还是不明白\N{\fnArial\fs40\bord2}So, I still don't get it.
+Dialogue: 0,0:54:42.23,0:54:45.71,Defualt,,0,0,0,,哪个施莱德回来了? 在做什么? 对谁做?\N{\fnArial\fs40\bord2}Which Shredder is back, doing what? To who?
+Dialogue: 0,0:54:45.71,0:54:48.00,Defualt,,0,0,0,,我知道的是 如果不是因为你们的施莱德\N{\fnArial\fs40\bord2}All I know is we wouldn't be in this mess
+Dialogue: 0,0:54:48.00,0:54:50.60,Defualt,,0,0,0,,我们就不会陷入这种境地\N{\fnArial\fs40\bord2}if it wasn't for your stupid shredder.
+Dialogue: 0,0:54:50.60,0:54:52.15,Defualt,,0,0,0,,我们的施莱德?\N{\fnArial\fs40\bord2}Our Shredder?
+Dialogue: 0,0:54:52.15,0:54:55.21,Defualt,,0,0,0,,明明是你们的施莱德先引起的混乱\N{\fnArial\fs40\bord2}Your Shredder started this whole stupid mess
+Dialogue: 0,0:54:55.21,0:54:59.35,Defualt,,0,0,0,,用他那个愚蠢的电子圆宫\N{\fnArial\fs40\bord2}with a stupid technotrome in the stupid first place.
+Dialogue: 0,0:54:59.35,0:55:02.15,Defualt,,0,0,0,,是的 但你们的施莱德简直就是个邪恶的疯子\N{\fnArial\fs40\bord2}Yes, but your shredder is like totally psycho evil.
+Dialogue: 0,0:55:02.15,0:55:03.82,Defualt,,0,0,0,,我们的属于无糖饮料\N{\fnArial\fs40\bord2}Ours is just decaf.
+Dialogue: 0,0:55:03.82,0:55:06.96,Defualt,,0,0,0,,是的 他不会让你晚上睡不着的\N{\fnArial\fs40\bord2}Yes, he won't keep you up at night.
+Dialogue: 0,0:55:06.96,0:55:09.33,Defualt,,0,0,0,,说得好 老兄 你听懂了吗\N{\fnArial\fs40\bord2}Good one, dude. Get it?
+Dialogue: 0,0:55:11.10,0:55:14.63,Defualt,,0,0,0,,这些重影看来是脑子没带齐 是吧?\N{\fnArial\fs40\bord2}Doubles ain't exactly laying with a full deck, are they?
+Dialogue: 0,0:55:15.86,0:55:18.23,Defualt,,0,0,0,,而且他们真的很烦人\N{\fnArial\fs40\bord2}And they are really annoying.
+Dialogue: 0,0:55:18.23,0:55:20.84,Defualt,,0,0,0,,明白了 现在跟上状况了\N{\fnArial\fs40\bord2}Got'ya. Up to speed now.
+Dialogue: 0,0:55:20.84,0:55:22.42,Defualt,,0,0,0,,我想知道的是\N{\fnArial\fs40\bord2}What I want to know is,
+Dialogue: 0,0:55:22.42,0:55:26.00,Defualt,,0,0,0,,我们是怎么从施莱德的离心扫描程序中活下来的\N{\fnArial\fs40\bord2}how did we survive the Shredder's centrifugal scanning process?
+Dialogue: 0,0:55:26.00,0:55:28.90,Defualt,,0,0,0,,按理说 我们早应该被分解到不存在了\N{\fnArial\fs40\bord2}We should have been broken down into nonexistence.
+Dialogue: 0,0:55:28.90,0:55:31.34,Defualt,,0,0,0,,有些事情没有按照他的计划进行\N{\fnArial\fs40\bord2}Something didn't go according to his plan.
+Dialogue: 0,0:55:31.34,0:55:34.11,Defualt,,0,0,0,,那他就不会料到我们会去追他了\N{\fnArial\fs40\bord2}Then he won't be expecting us to go after him.
+Dialogue: 0,0:55:34.11,0:55:36.03,Defualt,,0,0,0,,我们需要前往起源维度\N{\fnArial\fs40\bord2}We need to head to the source dimension
+Dialogue: 0,0:55:36.03,0:55:38.60,Defualt,,0,0,0,,寻找施莱德所说的起源神龟\N{\fnArial\fs40\bord2}to what the Shredder called Turtle Prime.
+Dialogue: 0,0:55:38.60,0:55:41.40,Defualt,,0,0,0,,但是 李奥 你也看过施莱德的幻灯片了\N{\fnArial\fs40\bord2}But, Leo, you saw Shredder's slide show.
+Dialogue: 0,0:55:41.40,0:55:44.07,Defualt,,0,0,0,,神龟宇宙简直超级无敌大\N{\fnArial\fs40\bord2}The turtleverse is like, ginormous.
+Dialogue: 0,0:55:44.07,0:55:47.77,Defualt,,0,0,0,,我们怎么知道起源龟在哪个维度\N{\fnArial\fs40\bord2}We have no way of knowing which dimension Turtle Prime is.
+Dialogue: 0,0:55:47.77,0:55:49.47,Defualt,,0,0,0,,我们只能猜了\N{\fnArial\fs40\bord2}We'd just be guessing.
+Dialogue: 0,0:55:52.02,0:55:56.58,Defualt,,0,0,0,,或者 我们可以跟随你们的施莱德的脚步\N{\fnArial\fs40\bord2}Or we could track your Shredder's exact movements instead.
+Dialogue: 0,0:55:56.58,0:55:59.98,Defualt,,0,0,0,,当电子圆宫穿过维度屏障时\N{\fnArial\fs40\bord2}When the Technodrome phases through transdimensional barriers,
+Dialogue: 0,0:55:59.98,0:56:01.66,Defualt,,0,0,0,,它会留下粒子排放的痕迹\N{\fnArial\fs40\bord2}it leaves a trail of particle emissions
+Dialogue: 0,0:56:01.66,0:56:03.33,Defualt,,0,0,0,,这样 只需要有合适的设备\N{\fnArial\fs40\bord2}that, with the right equipment
+Dialogue: 0,0:56:03.33,0:56:05.84,Defualt,,0,0,0,,我们就可以校准传送杆去追踪了\N{\fnArial\fs40\bord2}we can recalibrate the portal stick to track.
+Dialogue: 0,0:56:09.26,0:56:11.36,Defualt,,0,0,0,,怎么回事 拉斐尔\N{\fnArial\fs40\bord2}What the shell, Raph?!
+Dialogue: 0,0:56:11.36,0:56:13.26,Defualt,,0,0,0,,没路了 兄弟们\N{\fnArial\fs40\bord2}End of the road, bros.
+Dialogue: 0,0:56:13.26,0:56:15.46,Defualt,,0,0,0,,字面意思\N{\fnArial\fs40\bord2}Literally!
+Dialogue: 0,0:56:24.49,0:56:27.48,Defualt,,0,0,0,,好像整个世界正在被抹去\N{\fnArial\fs40\bord2}It's like the whole world's being erased.
+Dialogue: 0,0:56:27.48,0:56:29.63,Defualt,,0,0,0,,是施莱德 肯定是\N{\fnArial\fs40\bord2}It's the Shredder-- has to be.
+Dialogue: 0,0:56:29.63,0:56:31.58,Defualt,,0,0,0,,他已经找到了起源神龟\N{\fnArial\fs40\bord2}He's reached Turtle Prime.
+Dialogue: 0,0:56:31.58,0:56:34.07,Defualt,,0,0,0,,那我们最好快点校准你的跟踪装置\N{\fnArial\fs40\bord2}Then we'd better recalibrate your tracking device.
+Dialogue: 0,0:56:34.07,0:56:35.97,Defualt,,0,0,0,,你们不是说需要一些设备吗\N{\fnArial\fs40\bord2}You said you needed some equipment?
+Dialogue: 0,0:56:35.97,0:56:38.69,Defualt,,0,0,0,,我们所有的装备都和家一起被摧毁了\N{\fnArial\fs40\bord2}All our gear was destroyed along with our lair.
+Dialogue: 0,0:56:38.69,0:56:40.00,Defualt,,0,0,0,,但是我觉得有一个地方\N{\fnArial\fs40\bord2}But I think I know a place
+Dialogue: 0,0:56:40.00,0:56:41.90,Defualt,,0,0,0,,可能有我们需要的技术\N{\fnArial\fs40\bord2}that just might have the tech we need.
+Dialogue: 0,0:56:42.52,0:56:44.30,Defualt,,0,0,0,,赶快\N{\fnArial\fs40\bord2}Come on!
+Dialogue: 0,0:56:48.53,0:56:50.59,Defualt,,0,0,0,,紫龙帮总部\N{\fnArial\fs40\bord2}Purple Dragon headquarters.
+Dialogue: 0,0:56:50.78,0:56:53.62,Defualt,,0,0,0,,好主意啊 巫师先生\N{\fnArial\fs40\bord2}Nice call, Mr. Wizard.
+Dialogue: 0,0:56:53.62,0:56:56.33,Defualt,,0,0,0,,我就猜到紫龙帮还留着一些\N{\fnArial\fs40\bord2}I figured the Purple Dragons would still have the goods
+Dialogue: 0,0:56:56.33,0:56:57.93,Defualt,,0,0,0,,那次抢劫弄来的货\N{\fnArial\fs40\bord2}from that robbery they pulled.
+Dialogue: 0,0:56:57.93,0:57:01.39,Defualt,,0,0,0,,是啊 没有韩 紫龙帮就群龙无首了\N{\fnArial\fs40\bord2}Yeah, without Hun, the Dragons ain't too swift.
+Dialogue: 0,0:57:05.90,0:57:07.56,Defualt,,0,0,0,,能快点吗 兄弟们\N{\fnArial\fs40\bord2}Step on it, home slices.
+Dialogue: 0,0:57:07.56,0:57:09.86,Defualt,,0,0,0,,这地方有点吓人\N{\fnArial\fs40\bord2}This place bugs me out.
+Dialogue: 0,0:57:12.61,0:57:14.06,Defualt,,0,0,0,,没错\N{\fnArial\fs40\bord2}Yes.
+Dialogue: 0,0:57:14.70,0:57:16.06,Defualt,,0,0,0,,变异\N{\fnArial\fs40\bord2}Mutation
+Dialogue: 0,0:57:16.06,0:57:19.24,Defualt,,0,0,0,,才是一场真正的恐怖秀\N{\fnArial\fs40\bord2}it's a real horror show.
+Dialogue: 0,0:57:21.81,0:57:25.04,Defualt,,0,0,0,,我不知道你是怎么逃过施莱德的\N{\fnArial\fs40\bord2}I don't know how you escaped the Shredder
+Dialogue: 0,0:57:25.73,0:57:28.66,Defualt,,0,0,0,,我也不在乎\N{\fnArial\fs40\bord2}and I don't care.
+Dialogue: 0,0:57:28.66,0:57:31.76,Defualt,,0,0,0,,现在 你们都是我的了\N{\fnArial\fs40\bord2}You're all mine now.
+Dialogue: 0,0:57:31.76,0:57:33.34,Defualt,,0,0,0,,韩\N{\fnArial\fs40\bord2}Hun.
+Dialogue: 0,0:57:33.34,0:57:34.56,Defualt,,0,0,0,,那是韩?\N{\fnArial\fs40\bord2}Hon?
+Dialogue: 0,0:57:34.56,0:57:35.59,Defualt,,0,0,0,,是韩\N{\fnArial\fs40\bord2}Hun.
+Dialogue: 0,0:57:37.18,0:57:41.43,Defualt,,0,0,0,,你知道我最讨厌的东西是什么吗\N{\fnArial\fs40\bord2}Do you know the thing I hate most in all the world?
+Dialogue: 0,0:57:41.43,0:57:42.78,Defualt,,0,0,0,,乌龟\N{\fnArial\fs40\bord2}Turtles!
+Dialogue: 0,0:57:59.86,0:58:01.14,Defualt,,0,0,0,,后空翻\N{\fnArial\fs40\bord2}Alley-oop.
+Dialogue: 0,0:58:05.54,0:58:08.19,Defualt,,0,0,0,,现在 我每次看镜子\N{\fnArial\fs40\bord2}Now I look in the mirror
+Dialogue: 0,0:58:08.19,0:58:12.70,Defualt,,0,0,0,,就会看到你们\N{\fnArial\fs40\bord2}all I see is you.
+Dialogue: 0,0:58:12.70,0:58:16.04,Defualt,,0,0,0,,这让我更恨你们\N{\fnArial\fs40\bord2}And I hate you even more!
+Dialogue: 0,0:58:16.04,0:58:18.14,Defualt,,0,0,0,,韩 你不明白\N{\fnArial\fs40\bord2}Hun, you don't understand
+Dialogue: 0,0:58:18.14,0:58:19.82,Defualt,,0,0,0,,施莱德 他...\N{\fnArial\fs40\bord2}The Shredder, he...
+Dialogue: 0,0:58:19.82,0:58:21.53,Defualt,,0,0,0,,忘了施莱德吧\N{\fnArial\fs40\bord2}Forget the Shredder.
+Dialogue: 0,0:58:21.53,0:58:24.27,Defualt,,0,0,0,,你们要为对我做的事付出代价\N{\fnArial\fs40\bord2}You're going to pay for what you've done to me.
+Dialogue: 0,0:58:24.83,0:58:27.26,Defualt,,0,0,0,,有些人就是接受不了变化\N{\fnArial\fs40\bord2}Some people just can't handle change.
+Dialogue: 0,0:58:30.94,0:58:32.73,Defualt,,0,0,0,,你为什么一直那样做\N{\fnArial\fs40\bord2}Why do you keep doing that?
+Dialogue: 0,0:58:32.73,0:58:34.23,Defualt,,0,0,0,,你在跟谁说话\N{\fnArial\fs40\bord2}Who are you talking to?
+Dialogue: 0,0:58:34.23,0:58:36.54,Defualt,,0,0,0,,那里根本没有人\N{\fnArial\fs40\bord2}There's no one there.
+Dialogue: 0,0:58:36.54,0:58:39.89,Defualt,,0,0,0,,你个白痴 很快就会哪里都没有人了\N{\fnArial\fs40\bord2}You idiot. There ain't gonna be anybody anywhere soon.
+Dialogue: 0,0:58:39.89,0:58:40.90,Defualt,,0,0,0,,看\N{\fnArial\fs40\bord2}Look!
+Dialogue: 0,0:58:49.35,0:58:51.65,Defualt,,0,0,0,,头儿 这是怎么回事\N{\fnArial\fs40\bord2}Boss, what's happening to...?
+Dialogue: 0,0:58:56.01,0:58:58.65,Defualt,,0,0,0,,整个世界都要没了 老兄\N{\fnArial\fs40\bord2}The whole world is going bye-bye, dude.
+Dialogue: 0,0:58:58.65,0:59:00.71,Defualt,,0,0,0,,很快就连你也没了\N{\fnArial\fs40\bord2}Pretty soon you'll be going, too.
+Dialogue: 0,0:59:00.71,0:59:02.17,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No.
+Dialogue: 0,0:59:02.17,0:59:04.03,Defualt,,0,0,0,,我们需要你的装备来追踪他 韩\N{\fnArial\fs40\bord2}We need your gear to track him, Hun.
+Dialogue: 0,0:59:04.03,0:59:05.77,Defualt,,0,0,0,,为了阻止他\N{\fnArial\fs40\bord2}To stop him.
+Dialogue: 0,0:59:09.20,0:59:11.11,Defualt,,0,0,0,,快点 拿着\N{\fnArial\fs40\bord2}Hurry, take it!
+Dialogue: 0,0:59:11.11,0:59:12.26,Defualt,,0,0,0,,阻止他\N{\fnArial\fs40\bord2}Stop him!
+Dialogue: 0,0:59:12.26,0:59:14.83,Defualt,,0,0,0,,阻止施莱德毁灭...\N{\fnArial\fs40\bord2}Stop the Shredder before he...
+Dialogue: 0,0:59:18.13,0:59:19.75,Defualt,,0,0,0,,你们听到他说的了\N{\fnArial\fs40\bord2}You heard the man.
+Dialogue: 0,0:59:19.75,0:59:22.49,Defualt,,0,0,0,,我们去阻止施莱德吧\N{\fnArial\fs40\bord2}Let's go stop the Shredder.
+Dialogue: 0,0:59:31.10,0:59:33.83,Defualt,,0,0,0,,快点 我们需要回到最开始的地方\N{\fnArial\fs40\bord2}Hurry! We need to get back to where we started.
+Dialogue: 0,0:59:33.83,0:59:36.70,Defualt,,0,0,0,,电子圆宫从我们维度消失的地点\N{\fnArial\fs40\bord2}The exact spot the Technodrome left our dimension.
+Dialogue: 0,0:59:36.70,0:59:38.20,Defualt,,0,0,0,,那个冒烟的大坑?\N{\fnArial\fs40\bord2}Big smoking crater?
+Dialogue: 0,0:59:38.20,0:59:39.60,Defualt,,0,0,0,,不难找\N{\fnArial\fs40\bord2}Hard to miss.
+Dialogue: 0,0:59:39.60,0:59:43.03,Defualt,,0,0,0,,除非它在我们到达之前消失\N{\fnArial\fs40\bord2}Unless it disappears before we get there.
+Dialogue: 0,0:59:47.50,0:59:50.06,Defualt,,0,0,0,,不! 凯西\N{\fnArial\fs40\bord2}No! Casey!
+Dialogue: 0,0:59:50.06,0:59:52.82,Defualt,,0,0,0,,它发生在我身上了\N{\fnArial\fs40\bord2}It's happening to me!
+Dialogue: 0,0:59:52.82,0:59:55.10,Defualt,,0,0,0,,艾普尔\N{\fnArial\fs40\bord2}April!
+Dialogue: 0,0:59:55.10,0:59:56.96,Defualt,,0,0,0,,伙计们 艾普尔\N{\fnArial\fs40\bord2}Guys, April...
+Dialogue: 0,0:59:56.96,0:59:59.32,Defualt,,0,0,0,,她...她消失了\N{\fnArial\fs40\bord2}She... she's disappeared!
+Dialogue: 0,0:59:59.32,1:00:00.44,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!
+Dialogue: 0,1:00:00.44,1:00:01.20,Defualt,,0,0,0,,凯西\N{\fnArial\fs40\bord2}Casey!
+Dialogue: 0,1:00:01.20,1:00:02.40,Defualt,,0,0,0,,拉斐尔\N{\fnArial\fs40\bord2}Raph,
+Dialogue: 0,1:00:02.40,1:00:03.33,Defualt,,0,0,0,,我们不能停下来\N{\fnArial\fs40\bord2}we can't stop.
+Dialogue: 0,1:00:03.33,1:00:04.86,Defualt,,0,0,0,,我们得继续前进\N{\fnArial\fs40\bord2}We have to keep moving.
+Dialogue: 0,1:00:13.26,1:00:14.72,Defualt,,0,0,0,,就在这里\N{\fnArial\fs40\bord2}Right here.
+Dialogue: 0,1:00:17.99,1:00:20.84,Defualt,,0,0,0,,只需要修改一下维度相变器的路线\N{\fnArial\fs40\bord2}Just have to reroute the dimensional phase converter.
+Dialogue: 0,1:00:20.84,1:00:23.16,Defualt,,0,0,0,,兔子爬出洞 绕过树\N{\fnArial\fs40\bord2}The rabbit goes up the hole, around the tree
+Dialogue: 0,1:00:23.16,1:00:24.30,Defualt,,0,0,0,,然后回到洞里去\N{\fnArial\fs40\bord2}and back down the hole.
+Dialogue: 0,1:00:24.30,1:00:25.73,Defualt,,0,0,0,,快点 伙计们\N{\fnArial\fs40\bord2}Step on it, dudes.
+Dialogue: 0,1:00:25.73,1:00:28.25,Defualt,,0,0,0,,我们面对的可是彻底的毁灭\N{\fnArial\fs40\bord2}We're facing total, complete wipeout here.
+Dialogue: 0,1:00:29.60,1:00:32.55,Defualt,,0,0,0,,提高粒子信号增益\N{\fnArial\fs40\bord2}Boost the particle signal gain.
+Dialogue: 0,1:00:33.34,1:00:35.79,Defualt,,0,0,0,,我们太酷了 不能死!\N{\fnArial\fs40\bord2}We're too cool to go!
+Dialogue: 0,1:00:35.79,1:00:37.89,Defualt,,0,0,0,,然后启动\N{\fnArial\fs40\bord2}And power up.
+Dialogue: 0,1:00:40.43,1:00:41.80,Defualt,,0,0,0,,但是 但是...\N{\fnArial\fs40\bord2}But, but...
+Dialogue: 0,1:00:41.80,1:00:43.10,Defualt,,0,0,0,,但是? 但是?\N{\fnArial\fs40\bord2}But? But?
+Dialogue: 0,1:00:43.10,1:00:44.36,Defualt,,0,0,0,,但是?\N{\fnArial\fs40\bord2}But?
+Dialogue: 0,1:00:45.44,1:00:47.17,Defualt,,0,0,0,,不起作用\N{\fnArial\fs40\bord2}It's not working.
+Dialogue: 0,1:01:01.00,1:01:03.20,Defualt,,0,0,0,,粒子踪迹终止在这里\N{\fnArial\fs40\bord2}The particle emissions end here.
+Dialogue: 0,1:01:03.20,1:01:05.96,Defualt,,0,0,0,,所以一定就是这里了\N{\fnArial\fs40\bord2}So this must be the place.
+Dialogue: 0,1:01:05.96,1:01:08.18,Defualt,,0,0,0,,起源神龟\N{\fnArial\fs40\bord2}Turtle Prime.
+Dialogue: 0,1:01:12.74,1:01:15.15,Defualt,,0,0,0,,我想回家\N{\fnArial\fs40\bord2}I want to go home.
+Dialogue: 0,1:01:15.15,1:01:19.11,Defualt,,0,0,0,,不像是什么友好邻居的小区 是吗\N{\fnArial\fs40\bord2}Ain't exactly Mister Rogers' Neighborhood, is it?
+Dialogue: 0,1:01:21.07,1:01:23.65,Defualt,,0,0,0,,这是个什么世界\N{\fnArial\fs40\bord2}Like what kind of world is this?
+Dialogue: 0,1:01:23.65,1:01:26.00,Defualt,,0,0,0,,冷酷 粗犷\N{\fnArial\fs40\bord2}Grim, gritty
+Dialogue: 0,1:01:26.00,1:01:27.78,Defualt,,0,0,0,,是我喜欢的地方\N{\fnArial\fs40\bord2}my kind of place.
+Dialogue: 0,1:01:27.78,1:01:29.08,Defualt,,0,0,0,,料到了\N{\fnArial\fs40\bord2}Figures.
+Dialogue: 0,1:01:29.54,1:01:32.12,Defualt,,0,0,0,,啊 我想在这里退休\N{\fnArial\fs40\bord2}I'm thinking of retiring here.
+Dialogue: 0,1:01:32.12,1:01:34.21,Defualt,,0,0,0,,我们都得在这里永久退休了\N{\fnArial\fs40\bord2}We'll all be retiring here permanently
+Dialogue: 0,1:01:34.21,1:01:36.60,Defualt,,0,0,0,,如果不快点找到施莱德并阻止他\N{\fnArial\fs40\bord2}if we don't find the Shredder and stop him.
+Dialogue: 0,1:01:36.60,1:01:39.80,Defualt,,0,0,0,,李奥 我想有人找到我们了\N{\fnArial\fs40\bord2}Leo, I think someone just found us.
+Dialogue: 0,1:01:45.34,1:01:47.90,Defualt,,0,0,0,,起源维度的...\N{\fnArial\fs40\bord2}Source dimension--
+Dialogue: 0,1:01:47.90,1:01:49.68,Defualt,,0,0,0,,起源神龟\N{\fnArial\fs40\bord2}source turtles!
+Dialogue: 0,1:01:51.52,1:01:54.17,Defualt,,0,0,0,,这是什么 八个冒牌货\N{\fnArial\fs40\bord2}What is this, eight wannabes?
+Dialogue: 0,1:01:54.17,1:01:55.73,Defualt,,0,0,0,,在我们的地盘上\N{\fnArial\fs40\bord2}On our turf?
+Dialogue: 0,1:01:55.73,1:01:57.53,Defualt,,0,0,0,,想抢走我们的风头?\N{\fnArial\fs40\bord2}Trying to steal our act?
+Dialogue: 0,1:01:58.23,1:01:59.60,Defualt,,0,0,0,,好\N{\fnArial\fs40\bord2}Yeah.
+Dialogue: 0,1:02:02.61,1:02:05.91,Defualt,,0,0,0,,我下来的路上击倒了两个\N{\fnArial\fs40\bord2}I strike two on my way down.
+Dialogue: 0,1:02:05.91,1:02:08.70,Defualt,,0,0,0,,多纳泰罗用他的长棍拿下了第三个\N{\fnArial\fs40\bord2}Donatello takes out a third with his staff.
+Dialogue: 0,1:02:12.83,1:02:15.66,Defualt,,0,0,0,,胖乎乎那几个开始慌了\N{\fnArial\fs40\bord2}Already the pudgy ones are starting to panic.
+Dialogue: 0,1:02:15.66,1:02:18.25,Defualt,,0,0,0,,拉斐尔乐在其中\N{\fnArial\fs40\bord2}Raph loves this stuff.
+Dialogue: 0,1:02:18.86,1:02:21.17,Defualt,,0,0,0,,他并不孤单\N{\fnArial\fs40\bord2}He's not alone.
+Dialogue: 0,1:02:21.17,1:02:23.96,Defualt,,0,0,0,,他为什么要配旁白 他疯了吗\N{\fnArial\fs40\bord2}Why is he narrating? Is he crazy?
+Dialogue: 0,1:02:23.96,1:02:25.40,Defualt,,0,0,0,,铁杆疯子\N{\fnArial\fs40\bord2}Hardcore crazy.
+Dialogue: 0,1:02:25.40,1:02:27.46,Defualt,,0,0,0,,我喜欢这些家伙\N{\fnArial\fs40\bord2}I love these guys.
+Dialogue: 0,1:02:30.96,1:02:32.36,Defualt,,0,0,0,,停下\N{\fnArial\fs40\bord2}Stop!
+Dialogue: 0,1:02:32.36,1:02:34.77,Defualt,,0,0,0,,我们是想救你们...\N{\fnArial\fs40\bord2}We're trying to save you from the...
+Dialogue: 0,1:02:34.77,1:02:37.00,Defualt,,0,0,0,,阻止施莱德\N{\fnArial\fs40\bord2}from the Shredder!
+Dialogue: 0,1:02:39.10,1:02:40.82,Defualt,,0,0,0,,施莱德\N{\fnArial\fs40\bord2}The Shredder?
+Dialogue: 0,1:02:40.82,1:02:43.11,Defualt,,0,0,0,,你们对施莱德了解多少\N{\fnArial\fs40\bord2}What do you know of the Shredder?
+Dialogue: 0,1:02:43.11,1:02:46.93,Defualt,,0,0,0,,我们发誓要消灭施莱德 为耀西师傅报仇\N{\fnArial\fs40\bord2}We sworn to terminate the Shredder to avenge Master Yoshi.
+Dialogue: 0,1:02:46.93,1:02:49.91,Defualt,,0,0,0,,毫不留情地消灭\N{\fnArial\fs40\bord2}Terminate with extreme prejudice.
+Dialogue: 0,1:02:53.56,1:02:56.13,Defualt,,0,0,0,,你们要担心的不是你们的施莱德\N{\fnArial\fs40\bord2}It's not your Shredder you need to worry about.
+Dialogue: 0,1:02:56.13,1:02:57.90,Defualt,,0,0,0,,当然 暂时不是\N{\fnArial\fs40\bord2}Well, not right now.
+Dialogue: 0,1:02:57.90,1:02:59.38,Defualt,,0,0,0,,事情有点复杂\N{\fnArial\fs40\bord2}It's complicated.
+Dialogue: 0,1:02:59.38,1:03:02.92,Defualt,,0,0,0,,是我们的施莱德 他来这里要摧毁你的世界\N{\fnArial\fs40\bord2}It's our Shredder; he's come here to tear down your world.
+Dialogue: 0,1:03:02.92,1:03:05.53,Defualt,,0,0,0,,他是个一级坏蛋\N{\fnArial\fs40\bord2}And he's a grade-A meanie.
+Dialogue: 0,1:03:08.51,1:03:10.80,Defualt,,0,0,0,,呃 说来话长\N{\fnArial\fs40\bord2}It's a long story.
+Dialogue: 0,1:03:10.80,1:03:12.75,Defualt,,0,0,0,,但这一切都始于我们这些兄弟...\N{\fnArial\fs40\bord2}But it's all started when our brothers here
+Dialogue: 0,1:03:12.75,1:03:13.94,Defualt,,0,0,0,,来自另一个维度...\N{\fnArial\fs40\bord2}from another dimension...
+Dialogue: 0,1:03:13.94,1:03:15.48,Defualt,,0,0,0,,...所有忍者乌龟的生命\N{\fnArial\fs40\bord2}...to all ninjas turtle life.
+Dialogue: 0,1:03:15.48,1:03:17.76,Defualt,,0,0,0,,如果我们的施莱德毁掉起源神龟\N{\fnArial\fs40\bord2}So if our shredder destroy turtle prime
+Dialogue: 0,1:03:17.76,1:03:20.48,Defualt,,0,0,0,,最终会导致毁灭所有的生命\N{\fnArial\fs40\bord2}he'll end up wiping out all life everywhere.
+Dialogue: 0,1:03:22.16,1:03:26.78,Defualt,,0,0,0,,所以你们就是来自另一个世界的我们\N{\fnArial\fs40\bord2}So you're supposed to be us from other worlds?
+Dialogue: 0,1:03:26.78,1:03:28.42,Defualt,,0,0,0,,我看不出来\N{\fnArial\fs40\bord2}I don't see it.
+Dialogue: 0,1:03:28.42,1:03:31.39,Defualt,,0,0,0,,这些五颜六色的发带是怎么回事\N{\fnArial\fs40\bord2}What's with the multi-colored headbands?
+Dialogue: 0,1:03:31.39,1:03:33.12,Defualt,,0,0,0,,叛徒\N{\fnArial\fs40\bord2}Sellouts.
+Dialogue: 0,1:03:31.39,1:03:33.12,Defualt,,0,0,0,,{\a3\fs54\shad0}[双关: 用来圈钱的]
+Dialogue: 0,1:03:34.59,1:03:39.25,Defualt,,0,0,0,,呃 看看这些家伙身上的带首字母的皮带扣\N{\fnArial\fs40\bord2}Well, check out the initialized belt buckles on these yahoos.
+Dialogue: 0,1:03:39.25,1:03:40.25,Defualt,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey!
+Dialogue: 0,1:03:40.25,1:03:42.53,Defualt,,0,0,0,,这才叫逊呢\N{\fnArial\fs40\bord2}How lame can a turtle get?
+Dialogue: 0,1:03:42.53,1:03:43.50,Defualt,,0,0,0,,我说的对吗\N{\fnArial\fs40\bord2}Am I right?
+Dialogue: 0,1:03:44.66,1:03:45.44,Defualt,,0,0,0,,嘿\N{\fnArial\fs40\bord2}Hey!
+Dialogue: 0,1:03:46.66,1:03:49.36,Defualt,,0,0,0,,天啊 暴躁的家伙\N{\fnArial\fs40\bord2}Geez, what a hard case.
+Dialogue: 0,1:03:50.57,1:03:51.74,Defualt,,0,0,0,,怎么了\N{\fnArial\fs40\bord2}What?
+Dialogue: 0,1:03:51.95,1:03:53.30,Defualt,,0,0,0,,没什么\N{\fnArial\fs40\bord2}Nothing.
+Dialogue: 0,1:03:53.61,1:03:56.41,Defualt,,0,0,0,,好了 我们去阻止你们的施莱德\N{\fnArial\fs40\bord2}All right, let's go stop your Shredder.
+Dialogue: 0,1:03:56.41,1:03:59.11,Defualt,,0,0,0,,你说他用了什么电子圆宫?\N{\fnArial\fs40\bord2}You say he's using a Technodrome?
+Dialogue: 0,1:03:59.11,1:04:00.74,Defualt,,0,0,0,,是的 但别担心\N{\fnArial\fs40\bord2}Yep. But don't worry,
+Dialogue: 0,1:04:00.74,1:04:03.06,Defualt,,0,0,0,,我们制造了一个复杂的设备\N{\fnArial\fs40\bord2}we've created a sophisticated device
+Dialogue: 0,1:04:03.06,1:04:05.23,Defualt,,0,0,0,,它能追踪电子圆宫\N{\fnArial\fs40\bord2}that will be able to track the Technodrome
+Dialogue: 0,1:04:05.23,1:04:07.94,Defualt,,0,0,0,,无论它在哪里...是那个吗?\N{\fnArial\fs40\bord2}no matter where... Is that it?
+Dialogue: 0,1:04:14.85,1:04:17.38,Defualt,,0,0,0,,是的 就是它了\N{\fnArial\fs40\bord2}Yep, that would be it.
+Dialogue: 0,1:04:17.38,1:04:19.16,Defualt,,0,0,0,,它整晚都在这么做\N{\fnArial\fs40\bord2}It's been doing that all night.
+Dialogue: 0,1:04:20.43,1:04:23.30,Defualt,,0,0,0,,现在我们去做点什么吧\N{\fnArial\fs40\bord2}Now let's go do something about it.
+Dialogue: 0,1:04:30.13,1:04:32.48,Defualt,,0,0,0,,你们这些叛徒 蠢货\N{\fnArial\fs40\bord2}You traitors. You nincompoops.
+Dialogue: 0,1:04:32.48,1:04:36.13,Defualt,,0,0,0,,笨蛋 呆子 二货们\N{\fnArial\fs40\bord2}ding-dongs, Chucklebutts, dip-skulls.
+Dialogue: 0,1:04:36.13,1:04:38.31,Defualt,,0,0,0,,我们说过抱歉了 老大\N{\fnArial\fs40\bord2}We said we were sorry, boss.
+Dialogue: 0,1:04:39.27,1:04:41.74,Defualt,,0,0,0,,拜托 别太在意好吗\N{\fnArial\fs40\bord2}Come on. No hard feelings?
+Dialogue: 0,1:04:41.74,1:04:46.20,Defualt,,0,0,0,,我们的新主人觉得我们挺有趣 仅此而已\N{\fnArial\fs40\bord2}Our new master find us amusing, is all.
+Dialogue: 0,1:04:46.20,1:04:51.57,Defualt,,0,0,0,,这样的话 希望他会觉得你们和我们一样有用\N{\fnArial\fs40\bord2}If then, may he also find you as useful as we always have.
+Dialogue: 0,1:04:52.62,1:04:56.74,Defualt,,0,0,0,,看吧 宇宙毁灭的荣光\N{\fnArial\fs40\bord2}Behold the glorious destruction of a universe.
+Dialogue: 0,1:04:56.74,1:05:00.03,Defualt,,0,0,0,,随之而来的是忍者神龟的终结\N{\fnArial\fs40\bord2}And with it, the end of the Ninja Turtles.
+Dialogue: 0,1:05:09.90,1:05:11.39,Defualt,,0,0,0,,施莱德\N{\fnArial\fs40\bord2}Shredder
+Dialogue: 0,1:05:11.39,1:05:13.30,Defualt,,0,0,0,,我们来了\N{\fnArial\fs40\bord2}we are here!
+Dialogue: 0,1:05:14.26,1:05:16.46,Defualt,,0,0,0,,施莱德 面对我们\N{\fnArial\fs40\bord2}Shredder, face us.
+Dialogue: 0,1:05:16.46,1:05:19.90,Defualt,,0,0,0,,乌龟的原型\N{\fnArial\fs40\bord2}The prototypical Turtles.
+Dialogue: 0,1:05:19.90,1:05:21.18,Defualt,,0,0,0,,终于来了\N{\fnArial\fs40\bord2}At last.
+Dialogue: 0,1:05:21.18,1:05:24.73,Defualt,,0,0,0,,现在 只要轻轻一按开关\N{\fnArial\fs40\bord2}Now with the flick of a switch
+Dialogue: 0,1:05:24.73,1:05:27.02,Defualt,,0,0,0,,一切都结束了\N{\fnArial\fs40\bord2}it ends.
+Dialogue: 0,1:05:27.02,1:05:29.74,Defualt,,0,0,0,,施莱德\N{\fnArial\fs40\bord2}Shredder!
+Dialogue: 0,1:05:29.74,1:05:32.44,Defualt,,0,0,0,,你在害怕我们吗\N{\fnArial\fs40\bord2}Do you fear us?
+Dialogue: 0,1:05:40.03,1:05:42.58,Defualt,,0,0,0,,我就在这里\N{\fnArial\fs40\bord2}I am here.
+Dialogue: 0,1:05:44.96,1:05:47.23,Defualt,,0,0,0,,来面对你们的...\N{\fnArial\fs40\bord2}Come and face your...
+Dialogue: 0,1:05:57.70,1:05:59.18,Defualt,,0,0,0,,施莱德\N{\fnArial\fs40\bord2}Shredder!
+Dialogue: 0,1:06:01.30,1:06:03.47,Defualt,,0,0,0,,你们叫着我的名字\N{\fnArial\fs40\bord2}You speak my name
+Dialogue: 0,1:06:03.47,1:06:06.03,Defualt,,0,0,0,,但是并不认识我\N{\fnArial\fs40\bord2}but you do not know me.
+Dialogue: 0,1:06:06.03,1:06:09.53,Defualt,,0,0,0,,我是迟瑞尔 小禄崎\N{\fnArial\fs40\bord2}I am Ch'rell, Oroku Sake
+Dialogue: 0,1:06:09.53,1:06:13.69,Defualt,,0,0,0,,阿库拉公爵 唯一正宗施莱德\N{\fnArial\fs40\bord2}Duke Accureds -- the one true Shredder.
+Dialogue: 0,1:06:15.80,1:06:18.70,Defualt,,0,0,0,,我是世界的毁灭者\N{\fnArial\fs40\bord2}I am a destroyer of worlds
+Dialogue: 0,1:06:18.70,1:06:22.29,Defualt,,0,0,0,,我不怕任何人\N{\fnArial\fs40\bord2}and I fear no one!
+Dialogue: 0,1:06:24.16,1:06:25.96,Defualt,,0,0,0,,我就说他会上钩的\N{\fnArial\fs40\bord2}Told you he'd take the bait.
+Dialogue: 0,1:06:28.53,1:06:30.73,Defualt,,0,0,0,,如果多重宇宙中有一个常量\N{\fnArial\fs40\bord2}If there's one constant in the mulitverse
+Dialogue: 0,1:06:30.73,1:06:33.17,Defualt,,0,0,0,,那就是施莱德的狂妄自大\N{\fnArial\fs40\bord2}it's the Shredder's big, fat ego.
+Dialogue: 0,1:06:33.73,1:06:35.79,Defualt,,0,0,0,,还活着\N{\fnArial\fs40\bord2}Still alive?
+Dialogue: 0,1:06:35.79,1:06:38.06,Defualt,,0,0,0,,怎么可能\N{\fnArial\fs40\bord2}How can this be?
+Dialogue: 0,1:06:38.06,1:06:40.05,Defualt,,0,0,0,,除非\N{\fnArial\fs40\bord2}Unless...
+Dialogue: 0,1:06:42.35,1:06:44.77,Defualt,,0,0,0,,卡拉...你\N{\fnArial\fs40\bord2}Karai... you!
+Dialogue: 0,1:06:44.77,1:06:46.10,Defualt,,0,0,0,,是的 父亲\N{\fnArial\fs40\bord2}Yes, Father.
+Dialogue: 0,1:06:46.10,1:06:48.21,Defualt,,0,0,0,,我用了物质传送器\N{\fnArial\fs40\bord2}I used the matter transporter
+Dialogue: 0,1:06:48.21,1:06:50.91,Defualt,,0,0,0,,从你的扫描仪里救出乌龟\N{\fnArial\fs40\bord2}to rescue the Turtles from your scanner.
+Dialogue: 0,1:06:50.91,1:06:52.81,Defualt,,0,0,0,,这还不是全部\N{\fnArial\fs40\bord2}And that's not all.
+Dialogue: 0,1:06:55.56,1:06:59.49,Defualt,,0,0,0,,今天 我的孩子们不再孤军奋战\N{\fnArial\fs40\bord2}Today my sons do not fight alone.
+Dialogue: 0,1:07:04.99,1:07:10.01,Defualt,,0,0,0,,这下我们肯定要被骂死了\N{\fnArial\fs40\bord2}we is so gonna get yelled at for this.
+Dialogue: 0,1:07:11.36,1:07:14.03,Defualt,,0,0,0,,你对乌龟们的盲目仇恨\N{\fnArial\fs40\bord2}Your unreasoning hatred of the Turtles
+Dialogue: 0,1:07:14.03,1:07:16.43,Defualt,,0,0,0,,已经蒙蔽了你的双眼 父亲\N{\fnArial\fs40\bord2}has blinded you to the truth, Father.
+Dialogue: 0,1:07:16.43,1:07:19.16,Defualt,,0,0,0,,你的行为可能会毁了我们所有人\N{\fnArial\fs40\bord2}Your actions could destroy us all.
+Dialogue: 0,1:07:20.07,1:07:21.19,Defualt,,0,0,0,,卡拉是对的\N{\fnArial\fs40\bord2}Karai's right.
+Dialogue: 0,1:07:21.19,1:07:22.13,Defualt,,0,0,0,,无论你在做什么\N{\fnArial\fs40\bord2}Whatever you're doing
+Dialogue: 0,1:07:22.13,1:07:24.77,Defualt,,0,0,0,,你已经毁灭了我们的整个世界\N{\fnArial\fs40\bord2}you've already wiped out our entire world.
+Dialogue: 0,1:07:24.77,1:07:25.89,Defualt,,0,0,0,,蠢货\N{\fnArial\fs40\bord2}Fool.
+Dialogue: 0,1:07:25.89,1:07:29.06,Defualt,,0,0,0,,我根本不在乎那些我丢下宇宙\N{\fnArial\fs40\bord2}I care nothing for the universe I left behind.
+Dialogue: 0,1:07:29.06,1:07:31.49,Defualt,,0,0,0,,我绝不会停下来 直到...\N{\fnArial\fs40\bord2}I will not stop until...
+Dialogue: 0,1:07:32.76,1:07:35.90,Defualt,,0,0,0,,少废话 多行动\N{\fnArial\fs40\bord2}Less talk, more action.
+Dialogue: 0,1:07:41.03,1:07:44.41,Defualt,,0,0,0,,让我们彻底了结这一切\N{\fnArial\fs40\bord2}Let us finish this once and for all.
+Dialogue: 0,1:07:44.41,1:07:46.16,Defualt,,0,0,0,,我来到这个维度\N{\fnArial\fs40\bord2}I came to this dimension
+Dialogue: 0,1:07:46.16,1:07:48.50,Defualt,,0,0,0,,是为了消灭乌龟\N{\fnArial\fs40\bord2}to destroy Turtles.
+Dialogue: 0,1:07:48.50,1:07:52.71,Defualt,,0,0,0,,杀的越多\N{\fnArial\fs40\bord2}The more...
+Dialogue: 0,1:07:52.71,1:07:54.16,Defualt,,0,0,0,,我越高兴\N{\fnArial\fs40\bord2}...the merrier!
+Dialogue: 0,1:07:54.16,1:07:55.96,Defualt,,0,0,0,,现在来吧\N{\fnArial\fs40\bord2}Now come
+Dialogue: 0,1:07:55.96,1:07:58.89,Defualt,,0,0,0,,过来面对你们的毁灭吧\N{\fnArial\fs40\bord2}come and face your doom!
+Dialogue: 0,1:08:07.08,1:08:09.30,Defualt,,0,0,0,,一切都太简单了\N{\fnArial\fs40\bord2}All too easy.
+Dialogue: 0,1:08:09.30,1:08:13.50,Defualt,,0,0,0,,我的新身体给了我无限的力量\N{\fnArial\fs40\bord2}My new body gives me unlimited power.
+Dialogue: 0,1:08:19.18,1:08:24.76,Defualt,,0,0,0,,别忘了 你不是唯一一个拥有分子生物放大战衣的人\N{\fnArial\fs40\bord2}You're not the only one with a molecular amplification bio suit, you know.
+Dialogue: 0,1:08:31.83,1:08:34.71,Defualt,,0,0,0,,然而我的战衣才真正管用\N{\fnArial\fs40\bord2}But mine actually works.
+Dialogue: 0,1:08:39.00,1:08:41.97,Defualt,,0,0,0,,恶\N{\fnArial\fs40\bord2}Ew!
+Dialogue: 0,1:08:42.60,1:08:46.14,Defualt,,0,0,0,,今天是你们的末日 乌龟们\N{\fnArial\fs40\bord2}Today is the end of days for you, Turtles.
+Dialogue: 0,1:08:46.14,1:08:49.33,Defualt,,0,0,0,,还有站在你们那边的所有人\N{\fnArial\fs40\bord2}You and all who stand with you.
+Dialogue: 0,1:08:51.10,1:08:52.76,Defualt,,0,0,0,,当心\N{\fnArial\fs40\bord2}Look out!
+Dialogue: 0,1:09:13.64,1:09:14.73,Defualt,,0,0,0,,当心\N{\fnArial\fs40\bord2}Look out!
+Dialogue: 0,1:09:16.03,1:09:17.50,Defualt,,0,0,0,,我们该怎么办\N{\fnArial\fs40\bord2}What do we do?
+Dialogue: 0,1:09:22.42,1:09:25.33,Defualt,,0,0,0,,没用的 他太强大了\N{\fnArial\fs40\bord2}It's no use. He's just too strong.
+Dialogue: 0,1:09:25.33,1:09:27.35,Defualt,,0,0,0,,是真的\N{\fnArial\fs40\bord2}Tell me about it.
+Dialogue: 0,1:09:28.96,1:09:31.77,Defualt,,0,0,0,,连垃圾桶都没有效果\N{\fnArial\fs40\bord2}Even trash cans have no effect.
+Dialogue: 0,1:09:31.77,1:09:33.81,Defualt,,0,0,0,,兄弟啊\N{\fnArial\fs40\bord2}Brother.
+Dialogue: 0,1:09:35.52,1:09:37.23,Defualt,,0,0,0,,当心\N{\fnArial\fs40\bord2}Look out!
+Dialogue: 0,1:09:42.60,1:09:44.70,Defualt,,0,0,0,,好的 好的 没事啦\N{\fnArial\fs40\bord2}Yeah, okay, it's okay.
+Dialogue: 0,1:09:44.70,1:09:46.75,Defualt,,0,0,0,,你们可以放手了 放手\N{\fnArial\fs40\bord2}You can let go now. Let go.
+Dialogue: 0,1:09:47.66,1:09:49.66,Defualt,,0,0,0,,别逼我揍你们\N{\fnArial\fs40\bord2}Don't make me hurt you.
+Dialogue: 0,1:09:49.66,1:09:53.46,Defualt,,0,0,0,,嘿 有人看见那些经典款神龟了吗\N{\fnArial\fs40\bord2}Hey, anybody seen the Turtle's classics?
+Dialogue: 0,1:10:11.40,1:10:13.18,Defualt,,0,0,0,,我们自由了\N{\fnArial\fs40\bord2}We're free.
+Dialogue: 0,1:10:16.48,1:10:19.36,Defualt,,0,0,0,,看来我们找到了他的弱点\N{\fnArial\fs40\bord2}Looks like we just found something he's vulnerable to.
+Dialogue: 0,1:10:20.66,1:10:21.45,Defualt,,0,0,0,,好啊\N{\fnArial\fs40\bord2}Yeah
+Dialogue: 0,1:10:21.45,1:10:23.11,Defualt,,0,0,0,,神龟之力\N{\fnArial\fs40\bord2}Turtles.
+Dialogue: 0,1:10:23.11,1:10:24.87,Defualt,,0,0,0,,电子圆宫\N{\fnArial\fs40\bord2}The Technodrome.
+Dialogue: 0,1:10:25.96,1:10:26.91,Defualt,,0,0,0,,谁能想到\N{\fnArial\fs40\bord2}Go figure.
+Dialogue: 0,1:10:27.36,1:10:29.70,Defualt,,0,0,0,,把他引到光束上\N{\fnArial\fs40\bord2}Get him into that beam!
+Dialogue: 0,1:10:37.80,1:10:39.84,Defualt,,0,0,0,,我们得救主人\N{\fnArial\fs40\bord2}We got to save the master.
+Dialogue: 0,1:10:52.10,1:10:54.05,Defualt,,0,0,0,,你们的机会用完了\N{\fnArial\fs40\bord2}You had your chance.
+Dialogue: 0,1:10:54.05,1:10:57.35,Defualt,,0,0,0,,现在该我了\N{\fnArial\fs40\bord2}Now I have mine.
+Dialogue: 0,1:11:03.03,1:11:07.45,Defualt,,0,0,0,,没有这些乌龟 你们就不会存在\N{\fnArial\fs40\bord2}Without these Turtles, you cannot exist.
+Dialogue: 0,1:11:07.45,1:11:09.45,Defualt,,0,0,0,,看吧\N{\fnArial\fs40\bord2}Behold!
+Dialogue: 0,1:11:29.17,1:11:34.39,Defualt,,0,0,0,,直到现在 最后一刻 你们才真正明白\N{\fnArial\fs40\bord2}Only now, in the end, do you truly understand.
+Dialogue: 0,1:11:40.69,1:11:43.27,Defualt,,0,0,0,,我这是怎么了\N{\fnArial\fs40\bord2}What is happening to me?
+Dialogue: 0,1:11:43.27,1:11:46.15,Defualt,,0,0,0,,父亲 请停手吧\N{\fnArial\fs40\bord2}Father, stop. Please.
+Dialogue: 0,1:11:46.15,1:11:47.44,Defualt,,0,0,0,,你不明白吗\N{\fnArial\fs40\bord2}Can you not see?
+Dialogue: 0,1:11:47.44,1:11:50.64,Defualt,,0,0,0,,无论你做了什么来摧毁他们\N{\fnArial\fs40\bord2}Whatever it is you have done to destroy them?
+Dialogue: 0,1:11:50.64,1:11:53.34,Defualt,,0,0,0,,这也会摧毁我们所有人\N{\fnArial\fs40\bord2}You do it to all of us as well.
+Dialogue: 0,1:11:53.34,1:11:56.73,Defualt,,0,0,0,,我们命运是相连的\N{\fnArial\fs40\bord2}Our fates are linked to theirs.
+Dialogue: 0,1:12:14.38,1:12:17.02,Defualt,,0,0,0,,不 这不可能\N{\fnArial\fs40\bord2}No, this cannot be.
+Dialogue: 0,1:12:17.02,1:12:20.44,Defualt,,0,0,0,,父亲 我不想再次失去你\N{\fnArial\fs40\bord2}Father, i don't want to lose you again.
+Dialogue: 0,1:12:20.44,1:12:24.64,Defualt,,0,0,0,,摧毁它们 你就会毁灭你自己\N{\fnArial\fs40\bord2}Destroy them And you will destroy yourself.
+Dialogue: 0,1:12:24.64,1:12:25.96,Defualt,,0,0,0,,我求你了\N{\fnArial\fs40\bord2}I beg you.
+Dialogue: 0,1:12:25.96,1:12:27.94,Defualt,,0,0,0,,停手吧\N{\fnArial\fs40\bord2}Stop.
+Dialogue: 0,1:12:29.71,1:12:34.85,Defualt,,0,0,0,,不 我是施莱德 忍者神龟的屠杀者\N{\fnArial\fs40\bord2}No. I am the shredder. Slayer of Ninja Turtles.
+Dialogue: 0,1:12:34.85,1:12:39.97,Defualt,,0,0,0,,如果摧毁它们意味着一切的终结\N{\fnArial\fs40\bord2}If destroying them means the end of everything
+Dialogue: 0,1:12:39.97,1:12:42.70,Defualt,,0,0,0,,那就毁灭吧\N{\fnArial\fs40\bord2}then so be it.
+Dialogue: 0,1:13:09.60,1:13:12.06,Defualt,,0,0,0,,爆炸飞镖\N{\fnArial\fs40\bord2}Exploding throwing stars.
+Dialogue: 0,1:13:12.06,1:13:13.99,Defualt,,0,0,0,,我就说会派上用场的\N{\fnArial\fs40\bord2}Told you they'd come in handy.
+Dialogue: 0,1:13:15.73,1:13:16.87,Defualt,,0,0,0,,蠢货\N{\fnArial\fs40\bord2}Fools,
+Dialogue: 0,1:13:16.87,1:13:21.41,Defualt,,0,0,0,,你们可怜的小玩具根本不足以阻止我\N{\fnArial\fs40\bord2}your pathetic little toys are not enough to stop me.
+Dialogue: 0,1:13:23.17,1:13:24.21,Defualt,,0,0,0,,我会...\N{\fnArial\fs40\bord2}I will...
+Dialogue: 0,1:13:28.93,1:13:31.10,Defualt,,0,0,0,,很简单的修理\N{\fnArial\fs40\bord2}That was an easy fix.
+Dialogue: 0,1:13:31.10,1:13:33.50,Defualt,,0,0,0,,主人会很高兴的\N{\fnArial\fs40\bord2}The master will be pleased.
+Dialogue: 0,1:13:39.06,1:13:42.15,Defualt,,0,0,0,,不! 不! 不!\N{\fnArial\fs40\bord2}No! No! No!
+Dialogue: 0,1:13:42.15,1:13:43.26,Defualt,,0,0,0,,我绝不会...\N{\fnArial\fs40\bord2}I will not...
+Dialogue: 0,1:13:43.26,1:13:44.83,Defualt,,0,0,0,,我是...\N{\fnArial\fs40\bord2}I am...
+Dialogue: 0,1:13:44.83,1:13:48.43,Defualt,,0,0,0,,不\N{\fnArial\fs40\bord2}No!!
+Dialogue: 0,1:13:56.86,1:14:00.16,Defualt,,0,0,0,,施莱德已经被粉碎了\N{\fnArial\fs40\bord2}The Shredder has been shredded.
+Dialogue: 0,1:14:14.10,1:14:16.88,Defualt,,0,0,0,,在我看来 起源龟们康复得相当不错\N{\fnArial\fs40\bord2}I'd say Turtle Prime is healing up rather nicely.
+Dialogue: 0,1:14:17.26,1:14:20.19,Defualt,,0,0,0,,看来维度的破坏只是暂时的\N{\fnArial\fs40\bord2}It seems the dimensional damage was only temporary
+Dialogue: 0,1:14:20.19,1:14:22.16,Defualt,,0,0,0,,只要起源龟们还活着\N{\fnArial\fs40\bord2}so long as Turtle Prime survived.
+Dialogue: 0,1:14:22.16,1:14:24.03,Defualt,,0,0,0,,希望这意味着...\N{\fnArial\fs40\bord2}Which hopefully means...
+Dialogue: 0,1:14:24.03,1:14:26.23,Defualt,,0,0,0,,我们的世界也在痊愈吗\N{\fnArial\fs40\bord2}Our world is healing, too?
+Dialogue: 0,1:14:26.23,1:14:28.90,Defualt,,0,0,0,,我知道一个有趣的方法来找出答案\N{\fnArial\fs40\bord2}I know a fun way to find out.
+Dialogue: 0,1:14:40.16,1:14:43.37,Defualt,,0,0,0,,凯西! 艾普尔!\N{\fnArial\fs40\bord2}- Casey! - April!
+Dialogue: 0,1:14:47.13,1:14:50.48,Defualt,,0,0,0,,好了 好了 表演结束了 你们这些笨蛋\N{\fnArial\fs40\bord2}All right, all right, show's over, you goofballs.
+Dialogue: 0,1:14:50.48,1:14:53.38,Defualt,,0,0,0,,-我爱你 凯西 -我爱你 艾普尔\N{\fnArial\fs40\bord2}- I wuv you, Casey. - I wuv you, April.
+Dialogue: 0,1:14:53.38,1:14:54.92,Defualt,,0,0,0,,他们有什么毛病\N{\fnArial\fs40\bord2}What is wrong with them?
+Dialogue: 0,1:14:56.00,1:14:56.80,Defualt,,0,0,0,,李奥纳多\N{\fnArial\fs40\bord2}Leonardo
+Dialogue: 0,1:14:56.80,1:14:58.84,Defualt,,0,0,0,,说真的 为了你们自己好\N{\fnArial\fs40\bord2}seriously, for your own good
+Dialogue: 0,1:14:58.84,1:15:02.10,Defualt,,0,0,0,,你们几个兄弟别再搞维度跨跃这种事了\N{\fnArial\fs40\bord2}you bros should lay off the dimension hopping business.
+Dialogue: 0,1:15:02.10,1:15:03.64,Defualt,,0,0,0,,太危险了\N{\fnArial\fs40\bord2}It's dangerous.
+Dialogue: 0,1:15:04.00,1:15:05.40,Defualt,,0,0,0,,兄弟\N{\fnArial\fs40\bord2}Bros?
+Dialogue: 0,1:15:05.40,1:15:07.13,Defualt,,0,0,0,,他叫我们兄弟\N{\fnArial\fs40\bord2}We're bros.
+Dialogue: 0,1:15:11.98,1:15:14.94,Defualt,,0,0,0,,这才叫真正的忍者消失术\N{\fnArial\fs40\bord2}Now that's what I call a Ninja vanish.
+Dialogue: 0,1:15:15.84,1:15:17.63,Defualt,,0,0,0,,你们的施莱德怎么办\N{\fnArial\fs40\bord2}What about your Shredder?
+Dialogue: 0,1:15:17.63,1:15:19.99,Defualt,,0,0,0,,你觉得他这次真的是一去不复返了吗\N{\fnArial\fs40\bord2}Think he's really gone for good this time?
+Dialogue: 0,1:15:19.99,1:15:23.36,Defualt,,0,0,0,,施莱德很少会消失很久\N{\fnArial\fs40\bord2}The Shredder is seldom gone for long.
+Dialogue: 0,1:15:23.36,1:15:25.20,Defualt,,0,0,0,,他会回来的\N{\fnArial\fs40\bord2}He shall return.
+Dialogue: 0,1:15:25.20,1:15:26.80,Defualt,,0,0,0,,哼 等我回来的时候\N{\fnArial\fs40\bord2}Well, when I get back
+Dialogue: 0,1:15:26.80,1:15:30.00,Defualt,,0,0,0,,我要用克朗发明的傻笑光线轰炸你们\N{\fnArial\fs40\bord2}I'm going to zap you all with the giggle ray Krang invented.
+Dialogue: 0,1:15:30.66,1:15:35.63,Defualt,,0,0,0,,请放心 笑到最后的一定是我们\N{\fnArial\fs40\bord2}And rest assured, it will be us who get the last laugh.
+Dialogue: 0,1:15:37.10,1:15:38.33,Defualt,,0,0,0,,抱歉\N{\fnArial\fs40\bord2}Excuse me.
+Dialogue: 0,1:15:39.40,1:15:41.83,Defualt,,0,0,0,,嘿 带我们一起去吧\N{\fnArial\fs40\bord2}Hey, take us with ya.
+Dialogue: 0,1:15:41.83,1:15:44.90,Defualt,,0,0,0,,我们已经道过歉了\N{\fnArial\fs40\bord2}We said we was sorry.
+Dialogue: 0,1:15:47.65,1:15:50.53,Defualt,,0,0,0,,照顾好自己 我的兄弟们\N{\fnArial\fs40\bord2}Take care of yourselves, my brothers.
+Dialogue: 0,1:15:50.53,1:15:53.86,Defualt,,0,0,0,,多元宇宙再见 兄弟们\N{\fnArial\fs40\bord2}See you around the multiverse, bros.
+Dialogue: 0,1:15:59.07,1:16:01.20,Defualt,,0,0,0,,忍者时间到\N{\fnArial\fs40\bord2}It's Ninja time!
+Dialogue: 0,1:16:02.80,1:16:04.99,Defualt,,0,0,0,,神龟力量\N{\fnArial\fs40\bord2}Turtle power!
+Dialogue: 0,1:16:13.86,1:16:17.50,Defualt,,0,0,0,,我会想念这些小胖墩的\N{\fnArial\fs40\bord2}I'm gonna miss those pudge-balls.
+Dialogue: 0,1:16:17.50,1:16:18.72,Defualt,,0,0,0,,才怪\N{\fnArial\fs40\bord2}Not.
+Dialogue: 0,1:16:25.53,1:16:28.10,Defualt,,0,0,0,,我会想念那些冒牌货的\N{\fnArial\fs40\bord2}I'm gonna miss those wannabes.
+Dialogue: 0,1:16:28.10,1:16:31.69,Defualt,,0,0,0,,是的 我还挺喜欢皮带扣上的首字母的\N{\fnArial\fs40\bord2}Yeah, I kind of dug the initials on the belt buckles.
+Dialogue: 0,1:16:31.69,1:16:33.50,Defualt,,0,0,0,,知道你会的\N{\fnArial\fs40\bord2}You would.
+Dialogue: 0,1:16:33.50,1:16:36.33,Defualt,,0,0,0,,我想去吃片匹萨\N{\fnArial\fs40\bord2}I could go for a slice, though.
+Dialogue: 0,1:16:36.33,1:16:38.28,Defualt,,0,0,0,,布利克街有个好地方\N{\fnArial\fs40\bord2}There's that place on Bleeker.
+Dialogue: 0,1:16:39.36,1:16:42.11,Defualt,,0,0,0,,我们是忍者神龟\N{\fnArial\fs40\bord2}We are the Teenage Mutant Ninja Turtles.
+Dialogue: 0,1:16:42.90,1:16:44.41,Defualt,,0,0,0,,我们迅猛出击\N{\fnArial\fs40\bord2}We strike hard
+Dialogue: 0,1:16:44.41,1:16:47.66,Defualt,,0,0,0,,然后消失在夜色中\N{\fnArial\fs40\bord2}and fade away into the night.
+Dialogue: 0,1:16:57.53,1:16:59.89,Defualt,,0,0,0,,我认为第一期进展得相当顺利\N{\fnArial\fs40\bord2}I think this first issue is coming along rather well,
+Dialogue: 0,1:16:59.89,1:17:00.83,Defualt,,0,0,0,,不是吗 凯文\N{\fnArial\fs40\bord2}don't you, Kev?
+Dialogue: 0,1:17:00.83,1:17:02.33,Defualt,,0,0,0,,是啊 当然 皮特\N{\fnArial\fs40\bord2}Yeah, sure do, Pete.
+Dialogue: 0,1:17:02.33,1:17:04.33,Defualt,,0,0,0,,嘿 我们吃完午饭再说这个吧\N{\fnArial\fs40\bord2}Hey, let's get back to this after lunch?
+Dialogue: 0,1:17:04.33,1:17:05.80,Defualt,,0,0,0,,听起来不错\N{\fnArial\fs40\bord2}Sounds good.
+Dialogue: 0,1:17:05.80,1:17:06.73,Defualt,,0,0,0,,匹萨?\N{\fnArial\fs40\bord2}Pizza?
+Dialogue: 0,1:17:06.73,1:17:08.53,Defualt,,0,0,0,,好的 匹萨\N{\fnArial\fs40\bord2}Yeah, pizza.
+Dialogue: 0,1:17:09.67,1:17:11.53,Defualt,,0,0,0,,我真希望这玩意儿能卖出去\N{\fnArial\fs40\bord2}I sure hope this thing sells.
+Dialogue: 0,1:17:11.53,1:17:14.20,Defualt,,0,0,0,,是啊 我也是这么想的\N{\fnArial\fs40\bord2}Yeah, I was thinking the same thing.
+Dialogue: 0,1:17:27.47,1:17:31.82,Defualt,,0,0,0,,永远的忍者神龟
+Dialogue: 0,1:17:32.90,1:17:37.59,Defualt,,0,0,0,,♪十五年的训练 我们心无旁骛♪\N{\fnArial\fs40\bord2}♪ 15 years we trained without distraction ♪
+Dialogue: 0,1:17:39.09,1:17:42.91,Defualt,,0,0,0,,♪现在是时候大展拳脚了♪\N{\fnArial\fs40\bord2}♪ Now it's time for Ninja kick-butt action ♪
+Dialogue: 0,1:17:44.20,1:17:45.56,Defualt,,0,0,0,,♪想要寻找归属♪\N{\fnArial\fs40\bord2}♪ Trying to find the place ♪
+Dialogue: 0,1:17:45.56,1:17:47.00,Defualt,,0,0,0,,♪却不知道往哪里去♪\N{\fnArial\fs40\bord2}♪ But we don't know where we're headed ♪
+Dialogue: 0,1:17:47.00,1:17:50.66,Defualt,,0,0,0,,♪唯一确定的是 别被施莱德撕碎♪\N{\fnArial\fs40\bord2}♪ All we know for sure, don't wanna get shredded ♪
+Dialogue: 0,1:17:50.66,1:17:53.23,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:17:53.23,1:17:56.03,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:17:56.03,1:17:59.11,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:18:00.63,1:18:05.05,Defualt,,0,0,0,,♪我们悄无声息 迅如疾风♪\N{\fnArial\fs40\bord2}♪ You'll never see us comin', never know what hit you ♪
+Dialogue: 0,1:18:06.30,1:18:09.56,Defualt,,0,0,0,,♪我们的忍者隐身术 来去无踪♪\N{\fnArial\fs40\bord2}♪ We practice Teenage Mutant Turtle stealth Ninjitsu ♪
+Dialogue: 0,1:18:11.86,1:18:14.73,Defualt,,0,0,0,,♪潜行于阴影之中 我们独立行动♪\N{\fnArial\fs40\bord2}♪ Keepin' to the shadows where we walk alone ♪
+Dialogue: 0,1:18:14.73,1:18:18.20,Defualt,,0,0,0,,♪出击的时候 我们大喊卡哇邦嘎♪\N{\fnArial\fs40\bord2}♪ When it's time to strike, it's Cowabunga ♪
+Dialogue: 0,1:18:18.20,1:18:21.56,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:18:21.56,1:18:24.30,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:18:24.30,1:18:27.83,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:18:28.96,1:18:31.63,Defualt,,0,0,0,,忍者时间到\N{\fnArial\fs40\bord2}It's Ninja time!
+Dialogue: 0,1:20:21.66,1:20:24.42,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles ♪
+Dialogue: 0,1:20:25.40,1:20:26.53,Defualt,,0,0,0,,♪神龟报数♪\N{\fnArial\fs40\bord2}♪ Turtles count it off ♪
+Dialogue: 0,1:20:26.53,1:20:29.80,Defualt,,0,0,0,,♪一 李奥纳多总是善于克制♪\N{\fnArial\fs40\bord2}♪ One, Leonardo's always in control ♪
+Dialogue: 0,1:20:29.80,1:20:33.06,Defualt,,0,0,0,,♪二 这个聪明的家伙是米开朗基罗♪\N{\fnArial\fs40\bord2}♪ Two, the wise guy is Michelangelo ♪
+Dialogue: 0,1:20:33.06,1:20:36.26,Defualt,,0,0,0,,♪三 多纳泰罗是团队的大脑♪\N{\fnArial\fs40\bord2}♪ Three, Donatello, he's the brains of the bunch ♪
+Dialogue: 0,1:20:36.26,1:20:39.36,Defualt,,0,0,0,,♪四 拉斐尔会给你一记重拳♪\N{\fnArial\fs40\bord2}♪ Four, count on Raphael to throw the first punch ♪
+Dialogue: 0,1:20:39.36,1:20:42.66,Defualt,,0,0,0,,♪我喜欢做一只...♪\N{\fnArial\fs40\bord2}♪ I love being, I love being ♪
+Dialogue: 0,1:20:42.66,1:20:44.44,Defualt,,0,0,0,,♪我喜欢做一只忍者神龟♪\N{\fnArial\fs40\bord2}♪ I love being a Turtle ♪
+Dialogue: 0,1:20:44.44,1:20:47.43,Defualt,,0,0,0,,♪青少年变种忍者神龟♪\N{\fnArial\fs40\bord2}♪ Teenage Mutant Ninja Turtles. ♪
+Dialogue: 0,1:20:47.43,1:20:50.93,Defualt,,0,0,0,,我喜欢做一只忍者神龟\N{\fnArial\fs40\bord2}I love being a Turtle!
