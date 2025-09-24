@@ -1,0 +1,181 @@
+﻿[Script Info]
+PlayResX: 854
+PlayResY: 480
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+Title: Default Aegisub file
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0.5,2,10,10,10,1
+Style: English,微软雅黑,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0.5,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:01.24,English,,0,0,0,,Hello!
+Dialogue: 0,0:00:00.68,0:00:01.24,Default,,0,0,0,,大家好
+Dialogue: 0,0:00:01.24,0:00:05.56,English,,0,0,0,,And welcome to a special children in need minisode of Doctor Who!
+Dialogue: 0,0:00:01.24,0:00:05.56,Default,,0,0,0,,欢迎来到神秘博士 Children in Need 迷你特别篇
+Dialogue: 0,0:00:06.68,0:00:08.03,English,,0,0,0,,And not just any minisode,
+Dialogue: 0,0:00:06.68,0:00:08.03,Default,,0,0,0,,这不是一般的迷你集
+Dialogue: 0,0:00:08.03,0:00:09.08,English,,0,0,0,,that's just what we call them,
+Dialogue: 0,0:00:08.03,0:00:09.08,Default,,0,0,0,,虽然我们这样叫它
+Dialogue: 0,0:00:09.08,0:00:11.80,English,,0,0,0,,this is a prequel to the Christmas special.
+Dialogue: 0,0:00:09.08,0:00:11.80,Default,,0,0,0,,它其实还是今年圣诞特辑的前传
+Dialogue: 0,0:00:11.80,0:00:13.55,English,,0,0,0,,Now, if you remember,
+Dialogue: 0,0:00:11.80,0:00:13.55,Default,,0,0,0,,现在 还记得吗
+Dialogue: 0,0:00:13.55,0:00:16.35,English,,0,0,0,,When last scene the doctor said goodbye to his best friend Rory
+Dialogue: 0,0:00:13.55,0:00:16.35,Default,,0,0,0,,在上一集里 博士告别了他最好的朋友罗伊
+Dialogue: 0,0:00:16.35,0:00:20.46,English,,0,0,0,,and to Amelia Pond, the woman who will never be replaced in his hearts
+Dialogue: 0,0:00:16.35,0:00:20.46,Default,,0,0,0,,以及艾米莉亚·庞德——在他心中永远不可替代的女人
+Dialogue: 0,0:00:21.61,0:00:22.64,English,,0,0,0,,Hi.
+Dialogue: 0,0:00:21.61,0:00:22.64,Default,,0,0,0,,你好
+Dialogue: 0,0:00:23.48,0:00:24.27,English,,0,0,0,,Hi.
+Dialogue: 0,0:00:23.48,0:00:24.27,Default,,0,0,0,,你好
+Dialogue: 0,0:00:24.27,0:00:25.58,English,,0,0,0,,Oh don't worry, she won't be watching.
+Dialogue: 0,0:00:24.27,0:00:25.58,Default,,0,0,0,,别担心 她看不见的
+Dialogue: 0,0:00:25.58,0:00:26.12,English,,0,0,0,,Of course not.
+Dialogue: 0,0:00:25.58,0:00:26.12,Default,,0,0,0,,当然
+Dialogue: 0,0:00:26.12,0:00:27.04,English,,0,0,0,,She's in L.A.
+Dialogue: 0,0:00:26.12,0:00:27.04,Default,,0,0,0,,她在洛杉矶呢
+Dialogue: 0,0:00:27.04,0:00:28.43,English,,0,0,0,,Exactly.
+Dialogue: 0,0:00:27.04,0:00:28.43,Default,,0,0,0,,没错
+Dialogue: 0,0:00:28.43,0:00:29.88,English,,0,0,0,,Roll the minisode.
+Dialogue: 0,0:00:28.43,0:00:29.88,Default,,0,0,0,,播放迷你集
+Dialogue: 0,0:00:29.88,0:00:31.20,English,,0,0,0,,Do we really call them that?
+Dialogue: 0,0:00:29.88,0:00:31.20,Default,,0,0,0,,咱们真的这么叫它吗
+Dialogue: 0,0:00:31.20,0:00:33.93,English,,0,0,0,,Yeah, minisode, that's what they called that's a cool name.
+Dialogue: 0,0:00:31.20,0:00:33.93,Default,,0,0,0,,对呀 它们就叫"迷你集" 多酷的名字
+Dialogue: 0,0:00:33.93,0:00:35.82,English,,0,0,0,,Roll the minisode.
+Dialogue: 0,0:00:33.93,0:00:35.82,Default,,0,0,0,,播放迷你集
+Dialogue: 0,0:00:35.82,0:00:42.60,Default,,0,0,0,,{\fad(2000,2000)}{\fs45\b1\bord0\shad0\be1}伟大的侦探
+Dialogue: 0,0:00:42.60,0:00:45.16,English,,0,0,0,,In London in the time of Queen Victoria,
+Dialogue: 0,0:00:42.60,0:00:45.16,Default,,0,0,0,,在维多利亚女王时代的伦敦
+Dialogue: 0,0:00:45.16,0:00:50.03,English,,0,0,0,,there were many tales of a remarkable personage known as the Great Detective.
+Dialogue: 0,0:00:45.16,0:00:50.03,Default,,0,0,0,,流传着一位被誉为"伟大的侦探"的杰出人物的诸多传说
+Dialogue: 0,0:00:50.03,0:00:51.74,English,,0,0,0,,I refer, of course, to
+Dialogue: 0,0:00:50.03,0:00:51.74,Default,,0,0,0,,当然了 我指的是
+Dialogue: 0,0:00:51.74,0:00:53.44,English,,0,0,0,,Madame Vastra,
+Dialogue: 0,0:00:51.74,0:00:53.44,Default,,0,0,0,,瓦斯特拉夫人
+Dialogue: 0,0:00:53.44,0:00:55.72,English,,0,0,0,,the lizard woman of Paternoster Row
+Dialogue: 0,0:00:53.44,0:00:55.72,Default,,0,0,0,,帕诺斯特街的蜥蜴女
+Dialogue: 0,0:00:55.72,0:00:58.25,English,,0,0,0,,and her extraordinary adventures,
+Dialogue: 0,0:00:55.72,0:00:58.25,Default,,0,0,0,,和她非凡的冒险
+Dialogue: 0,0:00:58.25,0:01:01.42,English,,0,0,0,,her beautiful assistant, Jenny Flint,
+Dialogue: 0,0:00:58.25,0:01:01.42,Default,,0,0,0,,她美丽的助手 珍妮·弗林特
+Dialogue: 0,0:01:02.78,0:01:05.40,English,,0,0,0,,and their mysterious henchman, Strax,
+Dialogue: 0,0:01:02.78,0:01:05.40,Default,,0,0,0,,还有他们神秘的追随者 斯扎克斯
+Dialogue: 0,0:01:05.40,0:01:09.36,English,,0,0,0,,whose countenance was too abominable to be photographed.
+Dialogue: 0,0:01:05.40,0:01:09.36,Default,,0,0,0,,它的面容实在是过于可憎 不宜登报
+Dialogue: 0,0:01:17.66,0:01:18.64,English,,0,0,0,,What?
+Dialogue: 0,0:01:17.66,0:01:18.64,Default,,0,0,0,,怎么了
+Dialogue: 0,0:01:18.64,0:01:22.47,English,,0,0,0,,There are also accounts of a fourth member of the Paternoster Gang,
+Dialogue: 0,0:01:18.64,0:01:22.47,Default,,0,0,0,,帕诺斯特街小队还有第四名成员
+Dialogue: 0,0:01:22.47,0:01:23.74,English,,0,0,0,,a shadowy figure
+Dialogue: 0,0:01:22.47,0:01:23.74,Default,,0,0,0,,一个行踪不定的人物
+Dialogue: 0,0:01:23.74,0:01:25.87,English,,0,0,0,,whose assistance was only sought
+Dialogue: 0,0:01:23.74,0:01:25.87,Default,,0,0,0,,只有在最危急的情况下
+Dialogue: 0,0:01:25.87,0:01:28.28,English,,0,0,0,,in the direst emergencies.
+Dialogue: 0,0:01:25.87,0:01:28.28,Default,,0,0,0,,他们才会去寻求他的帮助
+Dialogue: 0,0:01:28.28,0:01:31.11,English,,0,0,0,,I'm so glad you came.
+Dialogue: 0,0:01:28.28,0:01:31.11,Default,,0,0,0,,很高兴你来了
+Dialogue: 0,0:01:31.11,0:01:32.14,English,,0,0,0,,We have news,
+Dialogue: 0,0:01:31.11,0:01:32.14,Default,,0,0,0,,我们有一些新闻
+Dialogue: 0,0:01:32.14,0:01:35.96,English,,0,0,0,,I think, of particular interest to you.
+Dialogue: 0,0:01:32.14,0:01:35.96,Default,,0,0,0,,我觉得 你会感兴趣的
+Dialogue: 0,0:01:35.96,0:01:38.25,English,,0,0,0,,There was a meteor shower in the southwest,
+Dialogue: 0,0:01:35.96,0:01:38.25,Default,,0,0,0,,西南地区有一场流星雨
+Dialogue: 0,0:01:38.25,0:01:41.02,English,,0,0,0,,unexpected timing and density.
+Dialogue: 0,0:01:38.25,0:01:41.02,Default,,0,0,0,,发生的时机和密度都出人意料
+Dialogue: 0,0:01:41.02,0:01:46.52,English,,0,0,0,,I've calculated there is a 34% chance it is the result of alien intervention.
+Dialogue: 0,0:01:41.02,0:01:46.52,Default,,0,0,0,,据我计算有 34% 的可能性是外星人造成的
+Dialogue: 0,0:01:47.58,0:01:49.20,English,,0,0,0,,Twenty four percent.
+Dialogue: 0,0:01:47.58,0:01:49.20,Default,,0,0,0,,24%
+Dialogue: 0,0:01:50.17,0:01:52.76,English,,0,0,0,,Well, they could just be meteors
+Dialogue: 0,0:01:50.17,0:01:52.76,Default,,0,0,0,,好吧 可能只是流星而已
+Dialogue: 0,0:01:52.76,0:01:55.07,English,,0,0,0,,but it is worth looking in to.
+Dialogue: 0,0:01:52.76,0:01:55.07,Default,,0,0,0,,但是也值得调查一下
+Dialogue: 0,0:01:55.07,0:01:58.43,English,,0,0,0,,There is a very pleasant tea room in the area.
+Dialogue: 0,0:01:55.07,0:01:58.43,Default,,0,0,0,,那附近有一个不错的茶室
+Dialogue: 0,0:01:59.45,0:02:03.05,English,,0,0,0,,Also, there's a Professor Erasmus Pink
+Dialogue: 0,0:01:59.45,0:02:03.05,Default,,0,0,0,,对了 有位伊拉斯谟·平克教授
+Dialogue: 0,0:02:03.05,0:02:06.14,English,,0,0,0,,who's claiming he's going to split the world open with a giant drill
+Dialogue: 0,0:02:03.05,0:02:06.14,Default,,0,0,0,,他说要用一个巨大的钻头 打穿地壳最薄的部分
+Dialogue: 0,0:02:06.14,0:02:08.56,English,,0,0,0,,through the thinnest part of the Earth's crust.
+Dialogue: 0,0:02:06.14,0:02:08.56,Default,,0,0,0,,把地球撕裂成两半
+Dialogue: 0,0:02:08.56,0:02:11.31,English,,0,0,0,,I think we should investigate.
+Dialogue: 0,0:02:08.56,0:02:11.31,Default,,0,0,0,,我觉得我们应该展开调查
+Dialogue: 0,0:02:11.31,0:02:14.76,English,,0,0,0,,I mean, he doesn't actually have a giant drill,
+Dialogue: 0,0:02:11.31,0:02:14.76,Default,,0,0,0,,虽然吧 他其实并没有巨大的钻头
+Dialogue: 0,0:02:14.76,0:02:17.04,English,,0,0,0,,and he's not really a professor,
+Dialogue: 0,0:02:14.76,0:02:17.04,Default,,0,0,0,,也不是真正的教授
+Dialogue: 0,0:02:17.04,0:02:19.12,English,,0,0,0,,and he was a bit drunk at the time and singing a bit,
+Dialogue: 0,0:02:17.04,0:02:19.12,Default,,0,0,0,,而且他当时是喝了点酒 还在唱歌
+Dialogue: 0,0:02:19.12,0:02:24.60,English,,0,0,0,,but you know it is never too early to investigate a drill.
+Dialogue: 0,0:02:19.12,0:02:24.60,Default,,0,0,0,,但是调查钻头这种事还是...尽早比较好
+Dialogue: 0,0:02:26.44,0:02:29.02,English,,0,0,0,,I've declared war on the moon.
+Dialogue: 0,0:02:26.44,0:02:29.02,Default,,0,0,0,,我向月球宣战了
+Dialogue: 0,0:02:29.02,0:02:30.78,English,,0,0,0,,Do be quiet, Strax.
+Dialogue: 0,0:02:29.02,0:02:30.78,Default,,0,0,0,,安静点儿 斯扎克斯.
+Dialogue: 0,0:02:30.78,0:02:34.30,English,,0,0,0,,Too long the moon has hung unmonitored and unsuspected in the sky.
+Dialogue: 0,0:02:30.78,0:02:34.30,Default,,0,0,0,,月球长期处于不被监视和无人怀疑的状态
+Dialogue: 0,0:02:34.30,0:02:36.84,English,,0,0,0,,It has gained an enormous tactical advantage.
+Dialogue: 0,0:02:34.30,0:02:36.84,Default,,0,0,0,,它已经取得了巨大的战术优势
+Dialogue: 0,0:02:36.84,0:02:38.44,English,,0,0,0,,There's no one living there.
+Dialogue: 0,0:02:36.84,0:02:38.44,Default,,0,0,0,,那上面没有人
+Dialogue: 0,0:02:38.44,0:02:40.72,English,,0,0,0,,Then it is clearly time to act.
+Dialogue: 0,0:02:38.44,0:02:40.72,Default,,0,0,0,,那么这正是行动的时机
+Dialogue: 0,0:02:40.72,0:02:42.92,English,,0,0,0,,They won't suspect a thing.
+Dialogue: 0,0:02:40.72,0:02:42.92,Default,,0,0,0,,他们根本不会起疑
+Dialogue: 0,0:02:42.92,0:02:45.02,English,,0,0,0,,Who won't suspect a thing?
+Dialogue: 0,0:02:42.92,0:02:45.02,Default,,0,0,0,,谁不会起疑
+Dialogue: 0,0:02:45.88,0:02:48.16,English,,0,0,0,,Moon Knights.
+Dialogue: 0,0:02:45.88,0:02:48.16,Default,,0,0,0,,月亮骑士
+Dialogue: 0,0:02:49.32,0:02:51.31,English,,0,0,0,,Why do you keep doing this?
+Dialogue: 0,0:02:49.32,0:02:51.31,Default,,0,0,0,,你们为什么一直找我
+Dialogue: 0,0:02:51.31,0:02:53.78,English,,0,0,0,,What is the point?
+Dialogue: 0,0:02:51.31,0:02:53.78,Default,,0,0,0,,有意义吗
+Dialogue: 0,0:02:55.28,0:02:57.60,English,,0,0,0,,I have told you.
+Dialogue: 0,0:02:55.28,0:02:57.60,Default,,0,0,0,,我已经说过了
+Dialogue: 0,0:02:57.60,0:02:59.92,English,,0,0,0,,I keep telling you,
+Dialogue: 0,0:02:57.60,0:02:59.92,Default,,0,0,0,,我说了无数遍了
+Dialogue: 0,0:02:59.92,0:03:02.44,English,,0,0,0,,I don't do this any more.
+Dialogue: 0,0:02:59.92,0:03:02.44,Default,,0,0,0,,我不干了
+Dialogue: 0,0:03:02.89,0:03:04.78,English,,0,0,0,,I've retired.
+Dialogue: 0,0:03:02.89,0:03:04.78,Default,,0,0,0,,我退休了
+Dialogue: 0,0:03:05.74,0:03:08.46,English,,0,0,0,,There's a man on Praed Street with an invisible wife.
+Dialogue: 0,0:03:05.74,0:03:08.46,Default,,0,0,0,,普拉德街有个男人 他有个隐形的老婆
+Dialogue: 0,0:03:10.46,0:03:13.70,English,,0,0,0,,Maybe he just doesn't have a wife.
+Dialogue: 0,0:03:10.46,0:03:13.70,Default,,0,0,0,,也许他只是没有老婆
+Dialogue: 0,0:03:16.92,0:03:18.96,English,,0,0,0,,You're wasting my time.
+Dialogue: 0,0:03:16.92,0:03:18.96,Default,,0,0,0,,你们在浪费时间
+Dialogue: 0,0:03:19.66,0:03:21.26,English,,0,0,0,,Merry Christmas!
+Dialogue: 0,0:03:19.66,0:03:21.26,Default,,0,0,0,,圣诞快乐
+Dialogue: 0,0:03:25.18,0:03:27.07,English,,0,0,0,,I think he means it.
+Dialogue: 0,0:03:25.18,0:03:27.07,Default,,0,0,0,,我觉得他是认真的
+Dialogue: 0,0:03:27.07,0:03:29.39,English,,0,0,0,,Yes, my dear,
+Dialogue: 0,0:03:27.07,0:03:29.39,Default,,0,0,0,,是的 亲爱的
+Dialogue: 0,0:03:29.39,0:03:31.85,English,,0,0,0,,I rather think he does.
+Dialogue: 0,0:03:29.39,0:03:31.85,Default,,0,0,0,,看来确实如此
+Dialogue: 0,0:03:39.26,0:03:41.60,English,,0,0,0,,{\fad(0,500)}Damn moon.
+Dialogue: 0,0:03:39.26,0:03:41.60,Default,,0,0,0,,{\fad(0,500)}该死的月亮
+Dialogue: 0,0:03:44.08,0:03:46.87,English,,0,0,0,,There you go, the doctor has retired.
+Dialogue: 0,0:03:44.08,0:03:46.87,Default,,0,0,0,,看呐 博士退休了
+Dialogue: 0,0:03:46.87,0:03:50.14,English,,0,0,0,,This Christmas the earth will face terrible terrible danger.
+Dialogue: 0,0:03:46.87,0:03:50.14,Default,,0,0,0,,今年圣诞节 地球会面临非常可怕的危险
+Dialogue: 0,0:03:50.14,0:03:53.16,English,,0,0,0,,But, as all humanity hangs in the balance,
+Dialogue: 0,0:03:50.14,0:03:53.16,Default,,0,0,0,,但是 当全人类命悬一线的时候
+Dialogue: 0,0:03:53.16,0:03:56.56,English,,0,0,0,,will anyone be able to persuade the doctor to save the day?
+Dialogue: 0,0:03:53.16,0:03:56.56,Default,,0,0,0,,有人能够说服博士拯救世界吗
+Dialogue: 0,0:03:56.56,0:03:57.28,English,,0,0,0,,Yes.
+Dialogue: 0,0:03:56.56,0:03:57.28,Default,,0,0,0,,会有
+Dialogue: 0,0:03:58.25,0:04:00.80,English,,0,0,0,,Well, so much for dramatic tension.
+Dialogue: 0,0:03:58.25,0:04:00.80,Default,,0,0,0,,哎呀 这样就没有戏剧张力了
+Dialogue: 0,0:04:00.80,0:04:01.84,English,,0,0,0,,Blimey! Jenna.
+Dialogue: 0,0:04:00.80,0:04:01.84,Default,,0,0,0,,服了你了 珍娜
+Dialogue: 0,0:04:01.84,0:04:05.92,English,,0,0,0,,Right, see you later for the very first showing of the Christmas trailer.
+Dialogue: 0,0:04:01.84,0:04:05.92,Default,,0,0,0,,好的 我们在圣诞特辑预告片首映后再见
+Dialogue: 0,0:04:05.92,0:04:07.18,English,,0,0,0,,See you later.
+Dialogue: 0,0:04:05.92,0:04:07.18,Default,,0,0,0,,再见
