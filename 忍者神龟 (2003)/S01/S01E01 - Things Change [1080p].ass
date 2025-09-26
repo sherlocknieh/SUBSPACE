@@ -11,6 +11,8 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.250000
+Scroll Position: 140
+Active Line: 144
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -162,7 +164,7 @@ Dialogue: 0,0:07:52.54,0:07:56.21,Default,,0,0,0,,我可不想一直盯着你的
 Dialogue: 0,0:07:56.21,0:07:57.70,Default,,0,0,0,,嘘 各位\N{\fnArial\fs40\bord2}Shh. Guys!
 Dialogue: 0,0:08:10.74,0:08:12.82,Default,,0,0,0,,啊 发现井盖\N{\fnArial\fs40\bord2}Ah, manhole cover,
 Dialogue: 0,0:08:12.82,0:08:14.06,Default,,0,0,0,,十二点钟方向\N{\fnArial\fs40\bord2}12 o'clock.
-Dialogue: 0,0:08:23.26,0:08:24.45,Default,,0,0,0,,现在怎么办\N{\fnArial\fs40\bord2}Now what?
+Dialogue: 0,0:08:23.26,0:08:24.45,Default,,0,0,0,,又怎么了\N{\fnArial\fs40\bord2}Now what?
 Dialogue: 0,0:08:39.94,0:08:41.90,Default,,0,0,0,,好极了 真是好极了\N{\fnArial\fs40\bord2}Great. Just great.
 Dialogue: 0,0:08:41.90,0:08:44.44,Default,,0,0,0,,乌龟运气从不让人失望\N{\fnArial\fs40\bord2}The old turtle luck working true to form.
 Dialogue: 0,0:08:46.51,0:08:48.28,Default,,0,0,0,,隐蔽得真好 拉夫\N{\fnArial\fs40\bord2}Way to be stealthy, Raph.

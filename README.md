@@ -5,13 +5,20 @@
 
 ## FFmpeg命令
 
-- 压字幕
+- 压字幕 (压5分钟样片, 删掉 -t 600 即压全片)
 
 ```
-ffmpeg -i "视频.mkv" -vf "ass='字幕.ass'" -c:v h264_qsv -q:v 20 -c:a copy "输出.mp4"
+ffmpeg -i "视频.mkv" -vf "subtitles='字幕.ass'" -c:v h264_qsv -q:v 20 -c:a copy -t 600 "输出.mp4"
 ```
 
-- 切片
+
+
+- 宽屏电影, 先上下加黑边, 再加字幕
+```
+ffmpeg -i "视频.mkv" -vf "pad=iw:iw*9/16:(ow-iw)/2:(oh-ih)/2:black, subtitles='字幕.ass'" -c:v h264_qsv -q:v 20 -c:a copy "输出.mp4"
+```
+
+- 切片 (切成多个3分钟小片段, 会自动找关键帧位置切, 所以时长会在3分钟上下浮动)
 
 ```
 ffmpeg -i "视频.mp4" -c copy -f segment -segment_time 180 -reset_timestamps 1 -segment_start_number 1 "P%02d.mp4"
@@ -19,10 +26,12 @@ ffmpeg -i "视频.mp4" -c copy -f segment -segment_time 180 -reset_timestamps 1 
 
 - [详细](/FFmpeg.md)
 
-## 常用ASS特效
+## ASS字幕设置
 
 ```
-{\fnArial\fs40\bord2}   # 字体: Arial, 字号: 40, 边框: 2
+中文字体: 思源黑体 Medium, 字号:80, 边框: 3, 阴影: 0,  垂直边距: 20
+
+{\fnArial\fs40\bord2}   # 英文字体: Arial, 字号: 40, 边框: 2
 
 \blur4                  # 边框模糊度: 4
 \an3                    # 靠边位置: 右上角
